@@ -47,10 +47,12 @@
 			<period>962</period>
 			<semimajoraxis>1.89</semimajoraxis>
 			<eccentricity>0.173</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>175.6</temperature>
+			<periastron>286.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HIP 14810</name>
 		<temperature>5485.0</temperature>
