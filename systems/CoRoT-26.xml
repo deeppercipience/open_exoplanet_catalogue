@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-26</name>
 	<rightascension>18 39 00.13</rightascension>
@@ -29,8 +30,11 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454573.6299</transittime>
-			<lastupdate>13/05/24</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature>1600</temperature>
+			<impactparameter>0.3300</impactparameter>
 		</planet>
+		<age>8.600</age>
 	</star>
 </system>
