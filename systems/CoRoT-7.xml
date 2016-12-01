@@ -21,19 +21,20 @@
 			<name>CoRoT-Exo-7 b</name>
 			<name>CoRoTID 102708694 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0151</mass>
-			<radius>0.15</radius>
+			<mass>0.01800</mass>
+			<radius>0.141</radius>
 			<period errorminus="0.000024" errorplus="0.000024">0.853585</period>
 			<semimajoraxis>0.0172</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>80.1</inclination>
 			<description>CoRoT 7 is a G-type star in the constellation Monoceros. The planet CoRoR 7b was the first rocky planet found. However, due to its high temperature the planet might be covered in lava.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/10/15</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>1666.1</temperature>
+			<temperature>1756</temperature>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454446.737</transittime>
 			<istransiting>1</istransiting>
+			<impactparameter>0.7130</impactparameter>
 		</planet>
 		<planet>
 			<name>CoRoT-7 c</name>
