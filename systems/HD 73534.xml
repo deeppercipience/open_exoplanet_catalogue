@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 73534</name>
 	<rightascension>08 39 16</rightascension>
@@ -19,11 +20,13 @@
 			<mass>1.15</mass>
 			<period>1800</period>
 			<semimajoraxis>3.15</semimajoraxis>
-			<eccentricity>0.046</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
+			<eccentricity>0.074000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>200.2</temperature>
+			<periastron>12.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 73534</name>
 		<temperature>4952.0</temperature>
