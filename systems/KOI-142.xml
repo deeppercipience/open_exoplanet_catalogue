@@ -47,17 +47,18 @@
 			<name>KIC 5446285 c</name>
 			<list>Confirmed planets</list>
 			<period errorminus="0.25" errorplus="0.25">22.1</period>
-			<mass errorminus="0.32" errorplus="0.16">0.76</mass>
+			<mass errorminus="0.32" errorplus="0.16">0.62600</mass>
 			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.1529</semimajoraxis>
-			<inclination errorminus="2.7" errorplus="2.1">3.7</inclination>
+			<inclination errorminus="2.7" errorplus="2.1">86.200</inclination>
 			<eccentricity errorminus="0.0028" errorplus="0.0014">0.05628</eccentricity>
 			<periastron>271.1</periastron>
 			<longitude>253.0</longitude>
 			<ascendingnode>259</ascendingnode>
 			<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems.</description>
-			<discoverymethod>timing</discoverymethod>
-			<lastupdate>13/04/17</lastupdate>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<magV>13.110</magV>
 	</star>
