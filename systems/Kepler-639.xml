@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-639</name>
 	<rightascension>19 28 45</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000021310" errorplus="0.000021310">10.214204960</period>
 			<radius errorminus="0.030" errorplus="0.049">0.212</radius>
 		</planet>
+		<age>4.370</age>
+		<magJ>12.212</magJ>
+		<magH>11.948</magH>
+		<magK>11.890</magK>
 	</star>
 </system>
