@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 20868</name>
 	<rightascension>03 20 42.69404</rightascension>
@@ -30,9 +31,10 @@
 			<eccentricity errorminus="0.002" errorplus="0.002">0.75</eccentricity>
 			<periastron errorminus="0.4" errorplus="0.4">356.2</periastron>
 			<periastrontime errorminus="0.1" errorplus="0.1">2454451.52</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
