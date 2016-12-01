@@ -46,5 +46,15 @@
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
 		</planet>
+		<planet>
+			<name>Kepler-458 c</name>
+			<list>Confirmed planets</list>
+			<radius>0.375</radius>
+			<period>20.74028413</period>
+			<discoverymethod>Transit</discoverymethod>
+			<istransiting>1</istransiting>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
 	</star>
 </system>
