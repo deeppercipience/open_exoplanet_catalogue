@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-24</name>
 	<rightascension>15 08 52</rightascension>
@@ -20,17 +21,18 @@
 			<name>TYC 0339-00329-1 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.032</mass>
-			<radius>1.104</radius>
+			<radius>1.300</radius>
 			<period>2.3412083</period>
 			<semimajoraxis>0.0359</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>83.64</inclination>
 			<transittime errorminus="0.00016" errorplus="0.00017" unit="BJD">2455081.38018</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/11/29</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1514.1</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.6530</impactparameter>
 		</planet>
 		<name>WASP-24</name>
 		<temperature>6075.0</temperature>
