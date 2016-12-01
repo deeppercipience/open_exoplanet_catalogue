@@ -55,10 +55,13 @@
 			<semimajoraxis>0.3499</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<description>The planetary system around the star HD 20794 consists of three super-Earths.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>388.2</temperature>
+			<periastron>0.0000</periastron>
+			<inclination>90.000</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 20794</name>
 		<temperature>5490.0</temperature>
