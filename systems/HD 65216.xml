@@ -28,11 +28,14 @@
 			<name>HD 65216 c</name>
 			<list>Confirmed planets</list>
 			<mass>2.24</mass>
-			<period>5542</period>
-			<eccentricity>0.15</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/13</lastupdate>
+			<period>152.60000000</period>
+			<eccentricity>0.020000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
+			<semimajoraxis>0.540000</semimajoraxis>
+			<periastron>0.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 65216</name>
 		<temperature>5666.0</temperature>
