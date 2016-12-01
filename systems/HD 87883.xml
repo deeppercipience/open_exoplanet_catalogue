@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 87883</name>
 	<rightascension>10 08 43</rightascension>
@@ -12,7 +13,7 @@
 		<magH errorminus="0.046" errorplus="0.046">5.441</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.314</magK>
 		<metallicity>0.093</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>K2.5 V</spectraltype>
 		<planet>
 			<name>HD 87883 b</name>
 			<list>Confirmed planets</list>
@@ -21,9 +22,11 @@
 			<semimajoraxis>3.6</semimajoraxis>
 			<eccentricity>0.53</eccentricity>
 			<inclination>8.5</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/07</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<periastron>291.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 87883</name>
 		<temperature>4980.0</temperature>
