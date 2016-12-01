@@ -46,15 +46,16 @@
 		<planet>
 			<name>HD 141399 d</name>
 			<list>Confirmed planets</list>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/04/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<period errorminus="8.178" errorplus="8.178">1070.35</period>
-			<eccentricity errorminus="0.029" errorplus="0.029">0.06</eccentricity>
+			<eccentricity errorminus="0.029" errorplus="0.029">0.074000</eccentricity>
 			<discoveryyear>2014</discoveryyear>
-			<periastron errorminus="38.966" errorplus="38.966">249.16</periastron>
+			<periastron errorminus="38.966" errorplus="38.966">-140.0000</periastron>
 			<semimajoraxis errorminus="0.01086" errorplus="0.01086">2.1348</semimajoraxis>
 			<mass errorminus="0.067" errorplus="0.067">1.22</mass>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 141399 e</name>
