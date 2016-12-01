@@ -25,18 +25,19 @@
 			<list>Planets in open clusters</list>
 			<mass errorminus="0.02" errorplus="0.02" type="msini">1.88</mass>
 			<period errorminus="0.00002" errorplus="0.00002">2.14609</period>
-			<eccentricity errorminus="0.010" errorplus="0.010">0.017</eccentricity>
-			<periastron errorminus="35" errorplus="35">329</periastron>
+			<eccentricity errorminus="0.010" errorplus="0.010">0.011000</eccentricity>
+			<periastron errorminus="35" errorplus="35">17.0000</periastron>
 			<semimajoraxis errorminus="0.00015" errorplus="0.00015">0.03184</semimajoraxis>
 			<periastrontime errorminus="0.2" errorplus="0.2">2456678.6</periastrontime>
 			<description>This planet is a so-called Hot Jupiter which orbits tightly around its parent star in the Beehive Cluster, a collection of roughly 1,000 stars that appear to be swarming around a common center. The planet is not habitable but its sky would be starrier than what we see from Earth.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/03/03</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>beehive</image>
 			<imagedescription>Artist's impression of a planet in the Beehive cluster.
 
 Image credit: NASA/JPL-Caltech</imagedescription>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>Pr0211 c</name>
