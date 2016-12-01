@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HIP 12961</name>
 	<rightascension>02 46 43</rightascension>
@@ -13,18 +14,20 @@
 		<magH errorminus="0.031" errorplus="0.031">6.927</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.736</magK>
 		<metallicity>-0.07</metallicity>
-		<spectraltype>M0V</spectraltype>
+		<spectraltype>M0</spectraltype>
 		<planet>
 			<name>HIP 12961 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.35</mass>
 			<period>57.435</period>
-			<semimajoraxis>0.13</semimajoraxis>
+			<semimajoraxis>0.250000</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>393.0</temperature>
+			<periastron>272.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HIP 12961</name>
 		<temperature>3840.0</temperature>
