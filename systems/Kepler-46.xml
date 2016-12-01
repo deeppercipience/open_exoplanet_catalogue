@@ -47,13 +47,14 @@
 			<period errorminus="0.000030" errorplus="0.000030">57.011</period>
 			<list>Confirmed planets</list>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/03/06</lastupdate>
-			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<temperature>455</temperature>
 			<inclination>87.400</inclination>
 			<eccentricity>0.015</eccentricity>
 			<semimajoraxis>0.27990</semimajoraxis>
 			<istransiting>1</istransiting>
+			<periastron>330.0000</periastron>
 		</planet>
 		<planet>
 			<name>Kepler-46 d</name>
