@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<system>
+	<name>WASP-70 A</name>
+	<star>
+		<name>WASP-70 A</name>
+		<planet>
+			<name>WASP-70 A b</name>
+			<list>Confirmed planets</list>
+			<eccentricity>0.000000</eccentricity>
+			<impactparameter>0.4310</impactparameter>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<magB>11.750</magB>
+		<magV>10.790</magV>
+		<magJ>9.996</magJ>
+		<magH>9.714</magH>
+		<magK>9.580</magK>
+	</star>
+</system>
