@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-9</name>
 	<rightascension>07 20 40</rightascension>
@@ -25,18 +26,19 @@
 			<name>2MASS J07204044+3708263 b</name>
 			<name>TYC 2463-00281-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.67</mass>
+			<mass>0.78000</mass>
 			<radius>1.4</radius>
 			<period>3.922814</period>
 			<semimajoraxis>0.053</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.5</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/05/20</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1397.3</temperature>
+			<temperature>1530</temperature>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454417.9085</transittime>
 			<istransiting>1</istransiting>
+			<impactparameter>0.5200</impactparameter>
 		</planet>
 		<temperature>6350.0</temperature>
 	</star>
