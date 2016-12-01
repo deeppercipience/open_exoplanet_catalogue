@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 95086</name>
 	<name>HIP 53524</name>
@@ -40,8 +41,10 @@ The star HD 95086 has similar properties to Beta Pictoris and HR 8799 around whi
 			
 Credit: ESO/J. Rameau</imagedescription>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>13/10/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<semimajoraxis>55.700000</semimajoraxis>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
