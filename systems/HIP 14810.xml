@@ -21,10 +21,12 @@
 			<period>6.673855</period>
 			<semimajoraxis>0.0692</semimajoraxis>
 			<eccentricity>0.1427</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>918.2</temperature>
+			<periastron>159.3200</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HIP 14810 c</name>
