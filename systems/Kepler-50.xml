@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-50</name>
 	<rightascension>19 12 24</rightascension>
@@ -31,9 +32,10 @@
 			<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455105.63186</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.81 days for 4.2439 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/02/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.7400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-50 c</name>
