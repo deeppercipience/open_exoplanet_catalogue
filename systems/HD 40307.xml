@@ -23,10 +23,12 @@
 			<eccentricity>0.2</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
 			<list>Confirmed planets</list>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/08</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>804.5</temperature>
+			<periastron>194.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 40307 c</name>
