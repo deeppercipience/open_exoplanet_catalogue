@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>70 Vir</name>
 	<rightascension>13 28 25.80861</rightascension>
@@ -20,7 +21,7 @@
 		<magI>3.98</magI>
 		<magJ>3.80</magJ>
 		<magH>3.46</magH>
-		<magK errorminus="0.05" errorplus="0.05">3.24</magK>
+		<magK errorminus="0.05" errorplus="0.05">3.500</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.09</metallicity>
 		<age errorminus="0.51" errorplus="0.51">7.77</age>
 		<spectraltype>G4 V</spectraltype>
@@ -41,10 +42,12 @@
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.481</semimajoraxis>
 			<eccentricity errorminus="0.002" errorplus="0.002">0.399</eccentricity>
 			<description>The star 70 Virginis is located in the constellation Virgo and starting to evolve into the subgiant phase. It has a dust disc at 3.4 AU.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>1996</discoveryyear>
 			<temperature>479.1</temperature>
+			<periastron>358.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
