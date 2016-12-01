@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-880</name>
 	<rightascension>18 47 53</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000019180" errorplus="0.000019180">7.714689750</period>
 			<radius errorminus="0.039" errorplus="0.094">0.237</radius>
 		</planet>
+		<age>1.660</age>
+		<magJ>11.250</magJ>
+		<magH>11.065</magH>
+		<magK>11.039</magK>
 	</star>
 </system>
