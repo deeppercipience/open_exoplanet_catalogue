@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 108147</name>
 	<rightascension>12 25 46</rightascension>
@@ -20,10 +21,12 @@
 			<period>10.8985</period>
 			<semimajoraxis>0.102</semimajoraxis>
 			<eccentricity>0.53</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>907.7</temperature>
+			<periastron>308.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 108147</name>
 		<temperature>6067.0</temperature>
