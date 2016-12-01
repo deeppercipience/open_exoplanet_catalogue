@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 99109</name>
 	<rightascension>11 24 17</rightascension>
@@ -11,7 +12,7 @@
 		<magK errorminus="0.024" errorplus="0.024">7.162</magK>
 		<magB errorminus="0.04" errorplus="0.04">9.96</magB>
 		<metallicity>0.315</metallicity>
-		<spectraltype>K0</spectraltype>
+		<spectraltype>G8/K0 IV</spectraltype>
 		<planet>
 			<name>HD 99109 b</name>
 			<list>Confirmed planets</list>
@@ -19,10 +20,12 @@
 			<period>439.3</period>
 			<semimajoraxis>1.105</semimajoraxis>
 			<eccentricity>0.09</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>231.3</temperature>
+			<periastron>256.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 99109</name>
 		<temperature>5272.0</temperature>
