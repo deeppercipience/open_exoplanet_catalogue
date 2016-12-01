@@ -24,10 +24,12 @@
 			<semimajoraxis>0.07</semimajoraxis>
 			<eccentricity>0.187</eccentricity>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>636.3</temperature>
+			<periastron>81.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HIP 57274 c</name>
