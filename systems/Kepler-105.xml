@@ -44,14 +44,14 @@
 			<name>KOI-115.02</name>
 			<name>KIC 9579641 c</name>
 			<name>KIC 9579641.02</name>
-			<radius errorminus="0.03098" errorplus="0.03098">0.14672</radius>
+			<radius errorminus="0.03098" errorplus="0.03098">0.117</radius>
 			<period errorminus="0.000017" errorplus="0.000017">7.125939</period>
 			<transittime errorminus="0.0014100" errorplus="0.0014100">2454972.0042100</transittime>
 			<mass errorminus="0.002781" errorplus="0.002904">0.014483</mass>
 			<list>Confirmed planets</list>
 			<description>Kepler-105 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 c are still unknown, the object is highly unlikely to be a false positive. TTV measurements indicate it is likely to be rocky.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
