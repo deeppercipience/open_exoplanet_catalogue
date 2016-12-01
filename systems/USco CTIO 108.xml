@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<system>
+	<name>USco CTIO 108</name>
+	<star>
+		<name>USco CTIO 108</name>
+		<planet>
+			<name>USco CTIO 108 b</name>
+			<list>Confirmed planets</list>
+			<semimajoraxis>670.000000</semimajoraxis>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<magJ>13.422</magJ>
+		<magH>12.840</magH>
+		<magK>12.507</magK>
+	</star>
+</system>
