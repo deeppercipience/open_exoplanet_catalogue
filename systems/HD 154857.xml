@@ -36,10 +36,11 @@
 			<eccentricity errorminus="0.05" errorplus="0.05">0.06</eccentricity>
 			<periastron errorminus="37" errorplus="37">352</periastron>
 			<semimajoraxis errorminus="0.09" errorplus="0.09">5.36</semimajoraxis>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<description>HD 154857 c is a Jupiter analogue with a period of 9.5 years. The planet is part of a multi-planetary system and was discovered by the Anglo-Australian Planet Search group.</description>
+			<istransiting>0</istransiting>
 		</planet>
 		<magJ>5.938</magJ>
 		<magH>5.588</magH>
