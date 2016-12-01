@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 117618</name>
 	<rightascension>13 32 25</rightascension>
@@ -20,10 +21,12 @@
 			<period>25.827</period>
 			<semimajoraxis>0.176</semimajoraxis>
 			<eccentricity>0.42</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>664.2</temperature>
+			<periastron>254.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 117618.02</name>

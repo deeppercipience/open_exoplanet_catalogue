@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-430</name>
 	<rightascension>19 31 14.07</rightascension>
@@ -26,8 +27,9 @@
 			<description>The planet Kepler-430 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature>667</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-430 c</name>
@@ -42,8 +44,9 @@
 			<description>The planet Kepler-430 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature>458</temperature>
 		</planet>
 	</star>
 </system>

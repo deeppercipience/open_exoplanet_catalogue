@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 147018</name>
 	<rightascension>16 23 00</rightascension>
@@ -19,10 +20,12 @@
 			<period>44.236</period>
 			<semimajoraxis>0.2388</semimajoraxis>
 			<eccentricity>0.4686</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>481.2</temperature>
+			<periastron>-24.0300</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 147018 c</name>
@@ -31,12 +34,15 @@
 			<period>1008</period>
 			<semimajoraxis>1.922</semimajoraxis>
 			<eccentricity>0.133</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>171.9</temperature>
+			<periastron>-133.1000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 147018</name>
 		<temperature>5441.0</temperature>
+		<age>6.360</age>
 	</star>
 </system>

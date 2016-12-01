@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>TYC 3667-1280-1</name>
 	<rightascension>00 51 32.9649</rightascension>
@@ -25,11 +26,13 @@
 			<periastron errorminus="50" errorplus="50">240</periastron>
 			<mass errorminus="0.4" errorplus="0.4" type="msini">5.4</mass>
 			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
 			<description>TYC 3667-1280-1 b is on the brink of engulfment by its host star, which is a former A-type star entering the red giant branch.</description>
-			<lastupdate>16/04/11</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<list>Confirmed planets</list>
+			<temperature>1350</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

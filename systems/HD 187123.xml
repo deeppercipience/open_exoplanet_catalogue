@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 187123</name>
 	<rightascension>19 46 58.1</rightascension>
@@ -20,7 +21,7 @@
 		<magH>6.39</magH>
 		<magK>6.34</magK>
 		<metallicity errorminus="0.030" errorplus="0.030">0.121</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<spectraltype>G3 V</spectraltype>
 		<temperature errorminus="44" errorplus="44">5815</temperature>
 		<planet>
 			<name>HD 187123 b</name>
@@ -28,27 +29,29 @@
 			<mass errorminus="0.0026" errorplus="0.0026">0.5074</mass>
 			<period errorminus="0.0000043" errorplus="0.0000043">3.0965886</period>
 			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.04213</semimajoraxis>
-			<eccentricity errorminus="0.0046" errorplus="0.0046">0.0093</eccentricity>
+			<eccentricity errorminus="0.0046" errorplus="0.0046">0.010300</eccentricity>
 			<periastrontime errorminus="0.30" errorplus="0.30" unit="BJD">2454342.87</periastrontime>
-			<periastron errorminus="200" errorplus="200">360</periastron>
-			<discoverymethod>RV</discoverymethod>
+			<periastron errorminus="200" errorplus="200">25.0000</periastron>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>HD 187123 b is a hot Jupiter discovered by precision radial velocity measurements. It is a member of a hierarchical 2-planet system.</description>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>1998</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 187123 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.035" errorplus="0.035">1.818</mass>
-			<period errorminus="46" errorplus="46">3324</period>
-			<semimajoraxis errorminus="0.054" errorplus="0.054">4.417</semimajoraxis>
-			<eccentricity errorminus="0.022" errorplus="0.022">0.280</eccentricity>
+			<period errorminus="46" errorplus="46">3810.00000000</period>
+			<semimajoraxis errorminus="0.054" errorplus="0.054">4.890000</semimajoraxis>
+			<eccentricity errorminus="0.022" errorplus="0.022">0.252000</eccentricity>
 			<periastrontime errorminus="40" errorplus="40" unit="BJD">2453625</periastrontime>
-			<periastron errorminus="3.9" errorplus="3.9">258.5</periastron>
+			<periastron errorminus="3.9" errorplus="3.9">243.0000</periastron>
 			<description>HD 187123 c is a long-period giant planet on an eccentric orbit. It is a member of a hierarchical 2-planet system.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/08/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

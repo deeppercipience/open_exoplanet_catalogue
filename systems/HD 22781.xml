@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 22781</name>
 	<rightascension>03 40 50</rightascension>
@@ -12,7 +13,7 @@
 		<magH errorminus="0.020" errorplus="0.020">6.686</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.607</magK>
 		<metallicity>-0.37</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>K1</spectraltype>
 		<planet>
 			<name>HD 22781 b</name>
 			<list>Confirmed planets</list>
@@ -20,12 +21,15 @@
 			<period>528.07</period>
 			<semimajoraxis>1.167</semimajoraxis>
 			<eccentricity>0.8191</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/04</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>167.0</temperature>
+			<periastron>315.9200</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 22781</name>
 		<temperature>5027.0</temperature>
+		<age>4.800</age>
 	</star>
 </system>

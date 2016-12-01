@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-4</name>
 	<rightascension>15 19 58</rightascension>
@@ -12,7 +13,7 @@
 		<magH errorminus="0.018" errorplus="0.018">9.837</magH>
 		<magK errorminus="0.018" errorplus="0.018">9.770</magK>
 		<metallicity>0.24</metallicity>
-		<spectraltype>F</spectraltype>
+		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>HAT-P-4 b</name>
 			<name>BD+36 2593 b</name>
@@ -29,10 +30,11 @@
 			<transittime errorminus="0.00023" errorplus="0.00025" unit="BJD">2454365.91538</transittime>
 			<description>The star HAT-P-4 is located in the constellation Bootes.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1550.7</temperature>
+			<temperature>1686</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.0100</impactparameter>
 		</planet>
 		<name>HAT-P-4</name>
 		<temperature>5890.0</temperature>

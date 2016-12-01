@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>24 Sex</name>
 	<rightascension>10 23 28.370</rightascension>
@@ -14,7 +15,7 @@
 		<name>2MASS J10232836-0054079</name>
 		<mass errorminus="0.08" errorplus="0.08">1.54</mass>
 		<radius errorminus="0.08" errorplus="0.08">4.9</radius>
-		<magV>7.38</magV>
+		<magV>6.441</magV>
 		<magB errorminus="0.015" errorplus="0.015">7.400</magB>
 		<magR errorminus="0.34" errorplus="0.34">6.41</magR>
 		<magJ errorminus="0.338" errorplus="0.338">5.292</magJ>
@@ -22,7 +23,7 @@
 		<magK errorminus="0.016" errorplus="0.016">4.285</magK>
 		<temperature errorminus="44" errorplus="44">5098</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>K0 IV</spectraltype>
 		<age errorminus="0.4" errorplus="0.4">2.7</age>
 		<planet>
 			<name>24 Sex b</name>
@@ -36,9 +37,10 @@
 			<periastron errorminus="165.4" errorplus="277.9">9.2</periastron>
 			<periastrontime errorminus="172.3" errorplus="67.3">2454762</periastrontime>
 			<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>24 Sex c</name>
@@ -51,9 +53,10 @@
 			<periastron errorminus="320.9" errorplus="182.2">220.5</periastron>
 			<periastrontime errorminus="96.5" errorplus="209.9">2454930</periastrontime>
 			<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>

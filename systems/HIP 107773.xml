@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HIP 107773</name>
 	<rightascension>21 50 00.12563</rightascension>
@@ -33,10 +34,12 @@
 			<mass errorminus="0.21" errorplus="0.21">1.98</mass>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.72</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/25</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
+			<periastron>166.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

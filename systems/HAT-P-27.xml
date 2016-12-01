@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-27</name>
 	<rightascension>14 51 04</rightascension>
@@ -15,7 +16,7 @@
 		<magK errorminus="0.021" errorplus="0.021">10.109</magK>
 		<metallicity>0.14</metallicity>
 		<spectraltype>G8</spectraltype>
-		<age>3.60</age>
+		<age>4.400</age>
 		<planet>
 			<name>HAT-P-27 b</name>
 			<name>WASP-40 b</name>
@@ -29,11 +30,13 @@
 			<spinorbitalignment>24.2</spinorbitalignment>
 			<inclination>85.0</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1102.7</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455186.01879</transittime>
 			<istransiting>1</istransiting>
+			<periastron>0.0000</periastron>
+			<impactparameter>0.8700</impactparameter>
 		</planet>
 		<name>HAT-P-27</name>
 		<temperature>5300.0</temperature>

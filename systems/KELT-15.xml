@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>KELT-15</name>
 	<rightascension>07 49 39.601</rightascension>
@@ -31,8 +32,11 @@
 			<description>KELT-15 b was discovered by the KELT-South survey.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/09/29</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<eccentricity>0.000000</eccentricity>
+			<inclination>88.300</inclination>
+			<impactparameter>0.2000</impactparameter>
 		</planet>
 	</star>
 </system>

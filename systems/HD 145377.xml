@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 145377</name>
 	<rightascension>16 11 36.44543</rightascension>
@@ -25,9 +26,10 @@
 			<eccentricity errorminus="0.017" errorplus="0.017">0.307</eccentricity>
 			<periastron errorminus="2.8" errorplus="2.8">138.1</periastron>
 			<periastrontime errorminus="0.6" errorplus="0.6">2454635.4</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

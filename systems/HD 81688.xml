@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 81688</name>
 	<rightascension>09 28 39.98840</rightascension>
@@ -16,7 +17,7 @@
 		<magB>6.396</magB>
 		<temperature errorminus="15" errorplus="15">4753</temperature>
 		<metallicity errorminus="0.020" errorplus="0.020">-0.359</metallicity>
-		<spectraltype>K0III-IV</spectraltype>
+		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 81688 b</name>
 			<list>Confirmed planets</list>
@@ -26,9 +27,13 @@
 			<eccentricity>0</eccentricity>
 			<periastron>0</periastron>
 			<periastrontime errorminus="1.1" errorplus="1.1">2452335.4</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
+		<magJ>3.799</magJ>
+		<magH>3.269</magH>
+		<magK>3.056</magK>
 	</star>
 </system>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>BD-17 63</name>
 	<rightascension>00 28 34.30654</rightascension>
@@ -30,9 +31,10 @@
 			<periastron errorminus="1.9" errorplus="1.9">112.2</periastron>
 			<periastrontime errorminus="1.5" errorplus="1.5">2454627.1</periastrontime>
 			<description>The star BD-1763 is a K-type star in the constellation Cetus. It is five times less luminous than our Sun.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

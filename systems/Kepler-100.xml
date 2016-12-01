@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-100</name>
 	<name>KOI-41</name>
@@ -26,7 +27,7 @@
 			<name>KIC 6521045 c</name>
 			<period>12.8159</period>
 			<radius errorminus="0.004557" errorplus="0.004557">0.200487</radius>
-			<mass upperlimit="0.0222" />
+			<mass upperlimit="0.0222"/>
 			<transittime unit="BJD">2454955.94713</transittime>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.110</semimajoraxis>
 			<inclination errorminus="0.1" errorplus="0.1">89.8</inclination>
@@ -34,9 +35,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter>0.0500</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-100 b</name>
@@ -53,9 +55,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter>0.5400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-100 d</name>
@@ -64,16 +67,17 @@
 			<name>KIC 6521045 d</name>
 			<period>35.3331</period>
 			<radius errorminus="0.004557" errorplus="0.004557">0.146720</radius>
-			<mass upperlimit="0.0094" />
+			<mass upperlimit="0.0094"/>
 			<transittime unit="BJD">2454966.17797</transittime>
 			<semimajoraxis errorminus="0.004" errorplus="0.004">0.216</semimajoraxis>
 			<inclination errorminus="0.05" errorplus="0.05">88.62</inclination>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter>0.7500</impactparameter>
 		</planet>
 	</star>
 </system>

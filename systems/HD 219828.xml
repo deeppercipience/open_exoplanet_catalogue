@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 219828</name>
 	<rightascension>23 18 47</rightascension>
@@ -6,26 +7,40 @@
 	<star>
 		<mass>1.24</mass>
 		<radius>1.7</radius>
-		<magV>8.04</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.68</magB>
+		<magV>8.008</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.676</magB>
 		<magJ errorminus="0.021" errorplus="0.021">6.871</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.614</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.530</magK>
 		<metallicity>0.19</metallicity>
-		<spectraltype>G0IV</spectraltype>
+		<spectraltype>G0 IV</spectraltype>
 		<planet>
 			<name>HD 219828 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.066</mass>
 			<period>3.8335</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/21</lastupdate>
+			<semimajoraxis>0.045000</semimajoraxis>
+			<eccentricity>0.059000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1485.2</temperature>
+			<periastron>225.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 219828</name>
 		<temperature>5891.0</temperature>
+		<planet>
+			<name>HD 219828 c</name>
+			<list>Confirmed planets</list>
+			<semimajoraxis>5.960000</semimajoraxis>
+			<eccentricity>0.811500</eccentricity>
+			<periastron>145.7700</periastron>
+			<period>4791.00000000</period>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
 	</star>
 </system>

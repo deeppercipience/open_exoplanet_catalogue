@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-169</name>
 	<name>KOI-505</name>
@@ -27,9 +28,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-169 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-169 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.105000</semimajoraxis>
+			<impactparameter>0.7900</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-169 c</name>
@@ -43,9 +46,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-169 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-169 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.062000</semimajoraxis>
+			<impactparameter>0.0400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-169 b</name>
@@ -59,9 +64,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-169 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-169 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.040000</semimajoraxis>
+			<impactparameter>0.4700</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-169 d</name>
@@ -75,9 +82,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-169 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-169 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.075000</semimajoraxis>
+			<impactparameter>0.0400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-169 f</name>
@@ -91,9 +100,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-169 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-169 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.359000</semimajoraxis>
+			<impactparameter>0.5600</impactparameter>
 		</planet>
 	</star>
 </system>

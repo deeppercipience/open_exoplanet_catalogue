@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 187085</name>
 	<rightascension>19 49 33</rightascension>
@@ -19,12 +20,15 @@
 			<period>986</period>
 			<semimajoraxis>2.05</semimajoraxis>
 			<eccentricity>0.47</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>215.5</temperature>
+			<periastron>94.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 187085</name>
 		<temperature>6075.0</temperature>
+		<age>3.300</age>
 	</star>
 </system>

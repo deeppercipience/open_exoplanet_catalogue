@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-13</name>
 	<rightascension>09 20 25</rightascension>
@@ -25,7 +26,7 @@
 			<inclination errorminus="0.29" errorplus="0.29">85.43</inclination>
 			<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455575.5143</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/03/20</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature errorminus="100" errorplus="100">1203.3</temperature>
 			<istransiting>1</istransiting>

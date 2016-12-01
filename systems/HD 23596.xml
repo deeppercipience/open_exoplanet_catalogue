@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 23596</name>
 	<rightascension>03 48 00</rightascension>
@@ -12,18 +13,20 @@
 		<magK errorminus="0.023" errorplus="0.023">5.874</magK>
 		<magB errorminus="0.02" errorplus="0.02">7.85</magB>
 		<metallicity>0.32</metallicity>
-		<spectraltype>F8</spectraltype>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 23596 b</name>
 			<list>Confirmed planets</list>
 			<mass>8.1</mass>
 			<period>1565</period>
 			<semimajoraxis>2.88</semimajoraxis>
-			<eccentricity>0.292</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<eccentricity>0.266000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>220.0</temperature>
+			<periastron>272.6000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 23596</name>
 		<temperature>5888.0</temperature>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1157</name>
 	<rightascension>18 52 29</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000016990" errorplus="0.000016990">4.457431640</period>
 			<radius errorminus="0.018" errorplus="0.004">0.097</radius>
 		</planet>
+		<age>3.390</age>
+		<magJ>12.683</magJ>
+		<magH>12.112</magH>
+		<magK>12.015</magK>
 	</star>
 </system>

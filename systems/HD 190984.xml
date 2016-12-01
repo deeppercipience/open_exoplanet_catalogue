@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 190984</name>
 	<rightascension>20 11 31</rightascension>
@@ -20,10 +21,12 @@
 			<period>4885</period>
 			<semimajoraxis>5.5</semimajoraxis>
 			<eccentricity>0.57</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/11/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>136.2</temperature>
+			<periastron>318.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 190984</name>
 		<temperature>5988.0</temperature>

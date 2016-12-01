@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-11</name>
 	<rightascension>18 42 45</rightascension>
@@ -19,7 +20,7 @@
 			<name>2MASS J18424494+0556156 b</name>
 			<name>CoRoTID 105833549 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.49</mass>
+			<mass>2.33000</mass>
 			<radius>1.39</radius>
 			<period>2.994325</period>
 			<semimajoraxis>0.04351</semimajoraxis>
@@ -27,12 +28,14 @@
 			<inclination>81.41</inclination>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454597.6797</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/02</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1593.4</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.8180</impactparameter>
 		</planet>
 		<name>CoRoT-11</name>
 		<temperature>6440.0</temperature>
+		<age>2.000</age>
 	</star>
 </system>

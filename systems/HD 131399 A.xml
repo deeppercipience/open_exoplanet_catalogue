@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<system>
+	<name>HD 131399 A</name>
+	<star>
+		<name>HD 131399 A</name>
+		<planet>
+			<name>HD 131399 A b</name>
+			<list>Confirmed planets</list>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<magB>7.162</magB>
+		<magV>7.074</magV>
+		<magJ>6.772</magJ>
+		<magH>6.708</magH>
+		<magK>6.643</magK>
+	</star>
+</system>

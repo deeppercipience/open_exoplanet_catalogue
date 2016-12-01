@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 113538</name>
 	<rightascension>13 04 57.47691</rightascension>
@@ -35,10 +36,11 @@
 			<eccentricity errorminus="0.08" errorplus="0.08">0.14</eccentricity>
 			<periastron errorminus="29" errorplus="37">74</periastron>
 			<maximumrvtime errorminus="17" errorplus="17">2455500</maximumrvtime>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
-			<lastupdate>15/11/21</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 113538 c</name>
@@ -49,10 +51,11 @@
 			<eccentricity errorminus="0.04" errorplus="0.04">0.2</eccentricity>
 			<periastron errorminus="16" errorplus="16">280</periastron>
 			<maximumrvtime errorminus="31" errorplus="31">2456741</maximumrvtime>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
-			<lastupdate>15/11/21</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

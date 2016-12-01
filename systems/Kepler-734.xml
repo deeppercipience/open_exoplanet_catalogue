@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-734</name>
 	<rightascension>19 48 11</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002890" errorplus="0.000002890">6.104852860</period>
 			<radius errorminus="0.012" errorplus="0.012">0.318</radius>
 		</planet>
+		<age>2.340</age>
+		<magJ>13.107</magJ>
+		<magH>12.746</magH>
+		<magK>12.668</magK>
 	</star>
 </system>

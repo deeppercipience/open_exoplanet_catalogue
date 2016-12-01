@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
@@ -6,28 +7,43 @@
 	<star>
 		<mass>0.94</mass>
 		<radius>0.9</radius>
-		<magV>7.01</magV>
-		<magB>7.79</magB>
+		<magV>6.990</magV>
+		<magB>7.810</magB>
 		<magR>6.5</magR>
 		<magI>6.1</magI>
 		<magJ errorminus="0.026" errorplus="0.026">5.553</magJ>
 		<magH errorminus="0.017" errorplus="0.017">5.203</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.113</magK>
 		<metallicity>0.17</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>HD 164922 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.36</mass>
 			<period>1155</period>
 			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<eccentricity>0.126000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>155.0</temperature>
+			<periastron>129.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
+		<planet>
+			<name>HD 164922 c</name>
+			<list>Confirmed planets</list>
+			<temperature>401</temperature>
+			<semimajoraxis>0.335100</semimajoraxis>
+			<eccentricity>0.220000</eccentricity>
+			<periastron>81.0000</periastron>
+			<period>75.76500000</period>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
 	</star>
 </system>

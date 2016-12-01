@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 24064</name>
 	<rightascension>03 56 36.297</rightascension>
@@ -34,9 +35,12 @@
 			<semimajoraxis errorminus="0.05" errorplus="0.05">1.29</semimajoraxis>
 			<eccentricity errorminus="0.08" errorplus="0.08">0.35</eccentricity>
 			<description>This planet was detected by the Bohyunsan Optical Astronomy Observatory (BOAO) which searches for exoplanets at northern circumpolar stars.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/30</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron>250.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
+		<age>9.000</age>
 	</star>
 </system>

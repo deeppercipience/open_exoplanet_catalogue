@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 190647</name>
 	<rightascension>20 07 20</rightascension>
@@ -11,7 +12,7 @@
 		<magK errorminus="0.038" errorplus="0.038">6.161</magK>
 		<magB errorminus="0.02" errorplus="0.02">8.54</magB>
 		<metallicity>0.24</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 190647 b</name>
 			<list>Confirmed planets</list>
@@ -19,12 +20,15 @@
 			<period>1038.1</period>
 			<semimajoraxis>2.07</semimajoraxis>
 			<eccentricity>0.18</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/07</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>209.5</temperature>
+			<periastron>232.5000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 190647</name>
 		<temperature>5628.0</temperature>
+		<age>2.000</age>
 	</star>
 </system>

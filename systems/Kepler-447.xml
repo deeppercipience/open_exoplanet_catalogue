@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-447</name>
 	<rightascension>19 01 04.461</rightascension>
@@ -31,8 +32,10 @@
 			<description>Kepler-447 b is a hot Jupiter with an extremely grazing transit.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/02/11</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron>98.3000</periastron>
+			<impactparameter>1.0760</impactparameter>
 		</planet>
 	</star>
 </system>

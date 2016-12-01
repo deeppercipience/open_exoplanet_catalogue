@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-247</name>
 	<name>KOI-884</name>
@@ -27,9 +28,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-247 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.084000</semimajoraxis>
+			<impactparameter>0.1400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-247 d</name>
@@ -43,9 +46,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-247 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.140000</semimajoraxis>
+			<impactparameter>0.1300</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-247 b</name>
@@ -59,9 +64,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-247 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.042000</semimajoraxis>
+			<impactparameter>0.1400</impactparameter>
 		</planet>
 	</star>
 </system>

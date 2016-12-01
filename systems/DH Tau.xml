@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>DH Tau</name>
 	<rightascension>04 29 42</rightascension>
@@ -11,7 +12,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">9.767</magJ>
 		<magH errorminus="0.026" errorplus="0.026">8.824</magH>
 		<magK errorminus="0.026" errorplus="0.026">8.178</magK>
-		<spectraltype>M0.5V</spectraltype>
+		<spectraltype>M0.5</spectraltype>
 		<planet>
 			<name>DH Tau B</name>
 			<name>DH Tauri B</name>
@@ -33,6 +34,15 @@
 		</planet>
 		<name>DH Tau</name>
 		<temperature>3840.0</temperature>
+		<planet>
+			<name>DH Tau b</name>
+			<list>Confirmed planets</list>
+			<mass>11.00000</mass>
+			<semimajoraxis>330.000000</semimajoraxis>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<age>0.001</age>
 	</star>
 	<videolink>http://youtu.be/VcvmxphhDQI</videolink>
 </system>

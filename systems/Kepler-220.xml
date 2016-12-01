@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-220</name>
 	<name>KOI-719</name>
@@ -27,9 +28,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-220 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.076000</semimajoraxis>
+			<impactparameter>0.0600</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-220 d</name>
@@ -43,9 +46,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-220 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.163000</semimajoraxis>
+			<impactparameter>0.1400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-220 e</name>
@@ -59,9 +64,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-220 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.226000</semimajoraxis>
+			<impactparameter>0.5300</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-220 b</name>
@@ -75,9 +82,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-220 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.046000</semimajoraxis>
+			<impactparameter>0.0900</impactparameter>
 		</planet>
 	</star>
 </system>

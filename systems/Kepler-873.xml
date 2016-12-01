@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-873</name>
 	<rightascension>19 45 37</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000073270" errorplus="0.000073270">20.553384400</period>
 			<radius errorminus="0.049" errorplus="0.146">0.335</radius>
 		</planet>
+		<age>2.950</age>
+		<magJ>13.728</magJ>
+		<magH>13.474</magH>
+		<magK>13.439</magK>
 	</star>
 </system>

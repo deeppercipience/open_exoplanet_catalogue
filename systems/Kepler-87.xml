@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-87</name>
 	<rightascension>19 51 40</rightascension>
@@ -29,10 +30,13 @@
 			<temperature errorminus="4.3" errorplus="4.3">478.1</temperature>
 			<description>The Kepler-87 system consists of at least two planets which have been confirmed using transit timing variations (TTV). There might be two more planets in the system which have not been confirmed yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
+			<periastron>238.6000</periastron>
+			<inclination>89.274</inclination>
+			<impactparameter>0.7270</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-87 c</name>
@@ -48,10 +52,13 @@
 			<temperature errorminus="3.6" errorplus="3.6">403.3</temperature>
 			<description>The Kepler-87 system consists of at least two planets. The planets have been confirmed using transit timing variations (TTV). Kepler-87 c is the lowest density planet in the super-Earth range.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
+			<periastron>223.2000</periastron>
+			<inclination>89.588</inclination>
+			<impactparameter>0.5790</impactparameter>
 		</planet>
 	</star>
 </system>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 134987</name>
 	<rightascension>15 13 28</rightascension>
@@ -8,7 +9,7 @@
 		<radius>1.25</radius>
 		<magV>6.45</magV>
 		<magB errorminus="0.016" errorplus="0.016">7.168</magB>
-		<magR>6.43</magR>
+		<magR>6.087</magR>
 		<magJ>5.268</magJ>
 		<magH errorminus="0.015" errorplus="0.015">5.121</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.882</magK>
@@ -21,10 +22,12 @@
 			<period>258.19</period>
 			<semimajoraxis>0.81</semimajoraxis>
 			<eccentricity>0.233</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>313.3</temperature>
+			<periastron>352.7000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 134987 c</name>
@@ -33,12 +36,16 @@
 			<period>5000</period>
 			<semimajoraxis>5.8</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>117.4</temperature>
+			<periastron>195.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 134987</name>
 		<temperature>5740.0</temperature>
+		<age>8.400</age>
+		<magI>5.755</magI>
 	</star>
 </system>

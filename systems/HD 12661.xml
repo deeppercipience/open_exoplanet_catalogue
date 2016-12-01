@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 12661</name>
 	<rightascension>02 04 34</rightascension>
@@ -14,7 +15,7 @@
 		<magH>5.90</magH>
 		<magK>5.86</magK>
 		<metallicity>0.29</metallicity>
-		<spectraltype>G6 V</spectraltype>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 12661 b</name>
 			<list>Confirmed planets</list>
@@ -22,24 +23,27 @@
 			<period>263.6</period>
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0.377</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>291.4</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 12661 c</name>
 			<list>Confirmed planets</list>
 			<mass>1.57</mass>
 			<period>1708</period>
-			<semimajoraxis>2.56</semimajoraxis>
+			<semimajoraxis>2.814500</semimajoraxis>
 			<eccentricity>0.031</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>167.5</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 12661</name>
 		<temperature>5742.0</temperature>
+		<age>6.390</age>
 	</star>
 </system>

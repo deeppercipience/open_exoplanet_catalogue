@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 75784</name>
 	<rightascension>08 52 23.941</rightascension>
@@ -40,9 +41,11 @@
 			<semimajoraxis errorminus="0.013" errorplus="0.013">1.073</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.13</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets. HD 75784 is a star with high proper motion.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron>29.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

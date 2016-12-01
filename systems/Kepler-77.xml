@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-77</name>
 	<name>KIC 8359498</name>
@@ -40,13 +41,15 @@
 			<mass errorminus="0.032" errorplus="0.032">0.43</mass>
 			<semimajoraxis errorminus="0.00063" errorplus="0.00063">0.04501</semimajoraxis>
 			<inclination errorminus="0.11" errorplus="0.11">88.0</inclination>
-			<temperature>1189.0</temperature>
+			<temperature>1440</temperature>
 			<list>Confirmed planets</list>
 			<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/04/03</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity>0.000000</eccentricity>
+			<impactparameter>0.3410</impactparameter>
 		</planet>
 	</star>
 </system>

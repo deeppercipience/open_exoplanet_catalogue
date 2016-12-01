@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-25</name>
 	<rightascension>03 13 45</rightascension>
@@ -26,13 +27,16 @@
 			<eccentricity>0.032</eccentricity>
 			<inclination>87.6</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1100.1</temperature>
+			<temperature>1202</temperature>
 			<transittime errorminus="0.00047" errorplus="0.00047" unit="BJD">2455176.85173</transittime>
 			<istransiting>1</istransiting>
+			<periastron>271.0000</periastron>
+			<impactparameter>0.4560</impactparameter>
 		</planet>
 		<name>HAT-P-25</name>
 		<temperature>5500.0</temperature>
+		<age>3.200</age>
 	</star>
 </system>

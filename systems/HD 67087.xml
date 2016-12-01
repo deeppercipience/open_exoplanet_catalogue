@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 67087</name>
 	<rightascension>08 07 39.75457</rightascension>
@@ -28,9 +29,11 @@
 			<semimajoraxis errorminus="0.04" errorplus="0.04">1.08</semimajoraxis>
 			<eccentricity errorminus="0.07" errorplus="0.07">0.17</eccentricity>
 			<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/03/26</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron>285.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 67087 c</name>
@@ -46,9 +49,11 @@
 			<semimajoraxis errorminus="0.37" errorplus="0.43">3.86</semimajoraxis>
 			<eccentricity errorminus="0.24" errorplus="0.17">0.76</eccentricity>
 			<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/03/26</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron>256.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 67087</name>
 		<name>BD+31 1735</name>

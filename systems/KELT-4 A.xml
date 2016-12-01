@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<system>
+	<name>KELT-4 A</name>
+	<star>
+		<name>KELT-4 A</name>
+		<planet>
+			<name>KELT-4 A b</name>
+			<list>Confirmed planets</list>
+			<temperature>1823</temperature>
+			<semimajoraxis>0.043170</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination>83.160</inclination>
+			<impactparameter>0.6890</impactparameter>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<age>4.440</age>
+	</star>
+</system>

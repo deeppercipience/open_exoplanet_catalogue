@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-7</name>
 	<rightascension>19 14 20</rightascension>
@@ -27,10 +28,11 @@
 			<inclination>85.18</inclination>
 			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.8</temperature>
+			<temperature>1630</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.5599</impactparameter>
 		</planet>
 		<name>Kepler-7</name>
 		<name>KOI-97</name>

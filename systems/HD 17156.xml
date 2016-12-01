@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 17156</name>
 	<rightascension>02 49 44</rightascension>
@@ -17,19 +18,21 @@
 			<name>HD 17156 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.191</mass>
-			<radius>1.095</radius>
+			<radius>1.020</radius>
 			<period>21.2163979</period>
 			<semimajoraxis>0.1623</semimajoraxis>
 			<eccentricity>0.6768</eccentricity>
 			<inclination>87.21</inclination>
 			<transittime errorminus="0.000081" errorplus="0.000081" unit="HJD">2454777.946341</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>790.5</temperature>
 			<istransiting>1</istransiting>
+			<periastron>121.9000</periastron>
 		</planet>
 		<name>HD 17156</name>
 		<temperature>6079.0</temperature>
+		<age>2.800</age>
 	</star>
 </system>

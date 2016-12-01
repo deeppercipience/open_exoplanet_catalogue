@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-25</name>
 	<rightascension>13 01 26</rightascension>
@@ -28,10 +29,11 @@
 			<inclination>87.7</inclination>
 			<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455274.99727</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/03/23</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1135.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron>0.0000</periastron>
 		</planet>
 		<name>WASP-25</name>
 		<temperature>5750.0</temperature>

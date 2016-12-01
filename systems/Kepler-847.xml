@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-847</name>
 	<rightascension>18 54 01</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000007570" errorplus="0.000007570">2.343231900</period>
 			<radius errorminus="0.004" errorplus="0.008">0.105</radius>
 		</planet>
+		<age>3.890</age>
+		<magJ>13.240</magJ>
+		<magH>12.741</magH>
+		<magK>12.708</magK>
 	</star>
 </system>

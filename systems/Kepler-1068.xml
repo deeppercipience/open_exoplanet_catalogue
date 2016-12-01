@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1068</name>
 	<rightascension>19 38 36</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000054460" errorplus="0.000054460">16.923441130</period>
 			<radius errorminus="0.033" errorplus="0.079">0.324</radius>
 		</planet>
+		<age>4.170</age>
+		<magJ>14.638</magJ>
+		<magH>14.319</magH>
+		<magK>14.161</magK>
 	</star>
 </system>

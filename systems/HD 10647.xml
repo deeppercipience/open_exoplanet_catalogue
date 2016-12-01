@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 10647</name>
 	<rightascension>01 42 29</rightascension>
@@ -23,10 +24,11 @@
 			<semimajoraxis>2.015</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<periastron>212</periastron>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>195.9</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<temperature>6039.0</temperature>
 	</star>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 102117</name>
 	<rightascension>11 44 50</rightascension>
@@ -19,11 +20,13 @@
 			<mass>0.172</mass>
 			<period>20.67</period>
 			<semimajoraxis>0.1532</semimajoraxis>
-			<eccentricity>0.106</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/11/25</lastupdate>
+			<eccentricity>0.121000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>719.6</temperature>
+			<periastron>279.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 102117</name>
 		<temperature>5672.0</temperature>

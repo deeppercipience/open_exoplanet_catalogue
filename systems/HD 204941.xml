@@ -1,10 +1,11 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 204941</name>
 	<rightascension>21 32 24</rightascension>
 	<declination>-20 57 27</declination>
 	<distance>27</distance>
 	<star>
-		<spectraltype>K2V</spectraltype>
+		<spectraltype>K1/2 V</spectraltype>
 		<mass>0.74</mass>
 		<radius>0.72</radius>
 		<magV>8.45</magV>
@@ -21,12 +22,15 @@
 			<semimajoraxis>2.56</semimajoraxis>
 			<eccentricity>0.37</eccentricity>
 			<description>HD 204941 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/02</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>117.2</temperature>
+			<periastron>-132.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 204941</name>
 		<temperature>5056.0</temperature>
+		<age>6.670</age>
 	</star>
 </system>

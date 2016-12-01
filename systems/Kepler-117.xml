@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-117</name>
 	<name>KOI-209</name>
@@ -40,9 +41,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-117 c has been discovered by the Kepler spacecraft and is the outermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/11/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<periastron>305.0000</periastron>
+			<impactparameter>0.2680</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-117 b</name>
@@ -62,9 +65,12 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-117 b has been discovered by the Kepler spacecraft and is the innermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/11/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<periastron>254.3000</periastron>
+			<impactparameter>0.4460</impactparameter>
 		</planet>
+		<spectraltype>F8 V</spectraltype>
 	</star>
 </system>

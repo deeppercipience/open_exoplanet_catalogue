@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<system>
+	<name>WASP-94 B</name>
+	<star>
+		<name>WASP-94 B</name>
+		<planet>
+			<name>WASP-94 B b</name>
+			<list>Confirmed planets</list>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<age>4.000</age>
+		<magJ>9.498</magJ>
+		<magH>9.266</magH>
+		<magK>9.188</magK>
+	</star>
+</system>

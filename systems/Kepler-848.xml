@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-848</name>
 	<rightascension>19 33 09</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000024610" errorplus="0.000024610">6.911344160</period>
 			<radius errorminus="0.022" errorplus="0.028">0.152</radius>
 		</planet>
+		<age>8.320</age>
+		<magJ>12.840</magJ>
+		<magH>12.484</magH>
+		<magK>12.431</magK>
 	</star>
 </system>

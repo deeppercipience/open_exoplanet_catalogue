@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 143361</name>
 	<rightascension>16 01 50</rightascension>
@@ -11,20 +12,23 @@
 		<magH errorminus="0.038" errorplus="0.038">7.572</magH>
 		<magK errorminus="0.018" errorplus="0.018">7.488</magK>
 		<metallicity>0.29</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<spectraltype>G6 V</spectraltype>
 		<planet>
 			<name>HD 143361 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.12</mass>
 			<period>1057</period>
 			<semimajoraxis>2</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/05/20</lastupdate>
+			<eccentricity>0.193000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>161.0</temperature>
+			<periastron>241.2200</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 143361</name>
 		<temperature>5940.0</temperature>
+		<age>5.000</age>
 	</star>
 </system>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 202206</name>
 	<rightascension>21 14 57</rightascension>
@@ -17,10 +18,13 @@
 			<period>255.87</period>
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0.435</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>277.6</temperature>
+			<periastron>161.1800</periastron>
+			<inclination>90.000</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 202206 c</name>
@@ -29,12 +33,19 @@
 			<period>1383.4</period>
 			<semimajoraxis>2.55</semimajoraxis>
 			<eccentricity>0.267</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>159.6</temperature>
+			<periastron>78.9900</periastron>
+			<inclination>90.000</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 202206</name>
 		<temperature>5750.0</temperature>
+		<age>5.600</age>
+		<magJ>6.850</magJ>
+		<magH>6.567</magH>
+		<magK>6.485</magK>
 	</star>
 </system>

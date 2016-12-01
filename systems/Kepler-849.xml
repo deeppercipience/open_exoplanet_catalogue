@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-849</name>
 	<rightascension>19 23 24</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000887500" errorplus="0.000887500">394.624490400</period>
 			<radius errorminus="0.122" errorplus="0.133">0.637</radius>
 		</planet>
+		<age>3.980</age>
+		<magJ>11.842</magJ>
+		<magH>11.590</magH>
+		<magK>11.527</magK>
 	</star>
 </system>

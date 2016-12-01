@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 47186</name>
 	<rightascension>06 36 09</rightascension>
@@ -19,10 +20,12 @@
 			<period>4.0845</period>
 			<semimajoraxis>0.05</semimajoraxis>
 			<eccentricity>0.038</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1123.6</temperature>
+			<periastron>59.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 47186 c</name>
@@ -31,10 +34,12 @@
 			<period>1353.6</period>
 			<semimajoraxis>2.395</semimajoraxis>
 			<eccentricity>0.249</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>161.7</temperature>
+			<periastron>26.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 47186</name>
 		<temperature>5675.0</temperature>

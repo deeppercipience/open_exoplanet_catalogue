@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>xi Aql</name>
 	<rightascension>19 54 14.88184</rightascension>
@@ -22,7 +23,7 @@
 		<radius>12</radius>
 		<temperature errorminus="30" errorplus="30">4780</temperature>
 		<metallicity errorminus="0.039" errorplus="0.039">-0.205</metallicity>
-		<spectraltype>K0 III</spectraltype>
+		<spectraltype>G9 III</spectraltype>
 		<magV>4.722</magV>
 		<magB>5.769</magB>
 		<magJ errorminus="0.220" errorplus="0.220">2.852</magJ>
@@ -47,9 +48,12 @@
 			<periastron>0</periastron>
 			<periastrontime errorminus="1.4" errorplus="1.4">2453001.7</periastrontime>
 			<description>xi Aql is a giant star in the constellation of Aquila.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
+		<magR>5.258</magR>
+		<magI>3.689</magI>
 	</star>
 </system>

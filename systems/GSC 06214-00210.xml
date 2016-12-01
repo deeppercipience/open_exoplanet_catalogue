@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>GSC 06214-00210</name>
 	<rightascension>16 21 55</rightascension>
@@ -14,13 +15,13 @@
 		<mass errorminus="0.1" errorplus="0.1">0.9</mass>
 		<spectraltype errorminus="0.5" errorplus="0.5">K7</spectraltype>
 		<temperature errorminus="200" errorplus="300">4060</temperature>
-		<age errorminus="2" errorplus="2">11</age>
+		<age errorminus="2" errorplus="2">0.005</age>
 		<planet>
 			<name>GSC 06214-00210 b</name>
 			<name>GSC 6214-210 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1" errorplus="1">17</mass>
-			<temperature errorminus="100" errorplus="100">1700</temperature>
+			<mass errorminus="1" errorplus="1">16.00000</mass>
+			<temperature errorminus="100" errorplus="100">2300</temperature>
 			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">2.204</separation>
 			<separation errorminus="30" errorplus="30" unit="AU">320</separation>
 			<positionangle errorminus="0.05" errorplus="0.05">175.97</positionangle>
@@ -29,10 +30,13 @@
 			<magH errorminus="0.04" errorplus="0.04">15.52</magH>
 			<magK errorminus="0.02" errorplus="0.02">14.87</magK>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/06/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<image>GSC 06214-00210</image>
 			<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
+			<semimajoraxis>320.000000</semimajoraxis>
+			<istransiting>0</istransiting>
 		</planet>
+		<magV>12.375</magV>
 	</star>
 </system>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-539</name>
 	<rightascension>19 56 29</rightascension>
@@ -13,25 +14,37 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000710000" errorplus="0.000710000">125.632430000</period>
 			<semimajoraxis errorminus="0.006700000" errorplus="0.006700000">0.498800000</semimajoraxis>
 			<radius errorminus="0.017" errorplus="0.017">0.747</radius>
+			<mass>0.97000</mass>
+			<temperature>388</temperature>
+			<eccentricity>0.390000</eccentricity>
+			<inclination>89.845</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-539 c</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period>1000.000000000</period>
 			<semimajoraxis errorminus="0.510000000" errorplus="0.500000000">2.420000000</semimajoraxis>
+			<mass>2.40000</mass>
+			<temperature>253</temperature>
+			<eccentricity>0.500000</eccentricity>
+			<periastron>254.9100</periastron>
 		</planet>
+		<spectraltype>G2 V</spectraltype>
+		<magJ>11.294</magJ>
+		<magH>10.964</magH>
+		<magK>10.915</magK>
 	</star>
 </system>

@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 75898</name>
 	<rightascension>08 53 51</rightascension>
@@ -13,7 +14,7 @@
 		<magH errorminus="0.036" errorplus="0.036">6.738</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.662</magK>
 		<metallicity>0.27</metallicity>
-		<spectraltype>G0</spectraltype>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 75898 b</name>
 			<list>Confirmed planets</list>
@@ -21,12 +22,15 @@
 			<period>418.2</period>
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>307.6</temperature>
+			<periastron>263.7000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 75898</name>
 		<temperature>6021.0</temperature>
+		<age>3.800</age>
 	</star>
 </system>

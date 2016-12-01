@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1060</name>
 	<rightascension>19 04 06</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000305000" errorplus="0.000305000">46.877936700</period>
 			<radius errorminus="0.026" errorplus="0.040">0.212</radius>
 		</planet>
+		<age>4.270</age>
+		<magJ>13.436</magJ>
+		<magH>13.088</magH>
+		<magK>12.964</magK>
 	</star>
 </system>

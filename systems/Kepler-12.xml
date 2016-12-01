@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-12</name>
 	<rightascension>19 04 58</rightascension>
@@ -30,10 +31,11 @@
 			<inclination>88.76</inclination>
 			<transittime errorminus="0.00002" errorplus="0.00002" unit="HJD">2455004.00835</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1354.2</temperature>
+			<temperature>1480</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1680</impactparameter>
 		</planet>
 		<name>Kepler-12</name>
 		<name>KOI-20</name>

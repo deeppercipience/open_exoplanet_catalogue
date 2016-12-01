@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-11</name>
 	<rightascension>19 48 27</rightascension>
@@ -31,7 +32,7 @@
 			<inclination errorminus="0.12" errorplus="0.12">89.55</inclination>
 			<transittime errorminus="0.0077" errorplus="0.0077" unit="BJD">2454971.5052</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>870.7</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -40,6 +41,7 @@
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1160</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-11 c</name>
@@ -55,7 +57,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<inclination errorminus="0.13" errorplus="0.35">89.65</inclination>
 			<transittime errorminus="0.0031" errorplus="0.0031" unit="BJD">2454971.1748</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>806.8</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -64,6 +66,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1560</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-11 d</name>
@@ -79,7 +82,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<inclination errorminus="0.07" errorplus="0.07">89.76</inclination>
 			<transittime errorminus="0.0044" errorplus="0.0044" unit="BJD">2454981.4550</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>658.7</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -88,6 +91,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1810</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-11 e</name>
@@ -103,7 +107,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<inclination errorminus="0.01" errorplus="0.01">88.91</inclination>
 			<transittime errorminus="0.0037" errorplus="0.0037" unit="BJD">2454987.1590</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>596.4</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -112,6 +116,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.7630</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-11 f</name>
@@ -127,7 +132,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<inclination errorminus="0.03" errorplus="0.03">89.50</inclination>
 			<transittime errorminus="0.0059" errorplus="0.0059" unit="BJD">2454964.6487</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>525.3</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -136,6 +141,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.4630</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-11 g</name>
@@ -143,15 +149,15 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<name>KOI-157 g</name>
 			<name>KIC 6541920 g</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.078643" />
+			<mass upperlimit="0.078643">0.07900</mass>
 			<radius errorminus="0.001823" errorplus="0.001823">0.303464</radius>
 			<period errorminus="0.0006" errorplus="0.0010">118.3807</period>
 			<semimajoraxis>0.466</semimajoraxis>
-			<eccentricity upperlimit="0.15" />
+			<eccentricity upperlimit="0.15">0.150000</eccentricity>
 			<inclination errorminus="0.023" errorplus="0.01">89.89</inclination>
 			<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455120.2901</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>386.4</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -160,6 +166,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.2170</impactparameter>
 		</planet>
 	</star>
 </system>

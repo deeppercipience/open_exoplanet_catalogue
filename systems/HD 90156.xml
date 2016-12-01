@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 90156</name>
 	<rightascension>10 23 55</rightascension>
@@ -21,12 +22,15 @@
 			<period>49.77</period>
 			<semimajoraxis>0.25</semimajoraxis>
 			<eccentricity>0.31</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>621.4</temperature>
+			<periastron>113.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 90156</name>
 		<temperature>5599.0</temperature>
+		<age>4.400</age>
 	</star>
 </system>

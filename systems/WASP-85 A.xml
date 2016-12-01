@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<system>
+	<name>WASP-85 A</name>
+	<star>
+		<name>WASP-85 A</name>
+		<planet>
+			<name>WASP-85 A b</name>
+			<list>Confirmed planets</list>
+			<impactparameter>0.0470</impactparameter>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<spectraltype>G5 V</spectraltype>
+		<magB>11.427</magB>
+		<magJ>9.275</magJ>
+		<magH>8.925</magH>
+		<magK>8.733</magK>
+	</star>
+</system>
