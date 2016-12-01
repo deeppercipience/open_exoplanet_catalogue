@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>14 Her</name>
 	<rightascension>16 10 23</rightascension>
@@ -37,9 +38,10 @@
 			<periastron>22.230</periastron>
 			<meananomaly>330.421</meananomaly>
 			<description>The star 14 Herculis is only 59 light years away in the constellation Hercules. However, because it is an orange dwarf star it can not be seen with the naked eye. There is only one confirmed planet in the system, but a dynamical analysis suggests that they might be two planets locked in a 4:1 mean motion resonance.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/21</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2002</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>14 Her c</name>
