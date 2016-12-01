@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1636</name>
 	<rightascension>19 36 14</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.011220000" errorplus="0.011220000">425.477850000</period>
 			<radius errorminus="0.031" errorplus="0.068">0.288</radius>
 		</planet>
+		<age>3.980</age>
+		<magJ>14.645</magJ>
+		<magH>14.295</magH>
+		<magK>14.231</magK>
 	</star>
 </system>
