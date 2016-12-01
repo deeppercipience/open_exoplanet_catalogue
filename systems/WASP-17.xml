@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-17</name>
 	<rightascension>15 59 51</rightascension>
@@ -27,10 +28,12 @@
 			<inclination>86.83</inclination>
 			<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2454577.85879</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>1517.8</temperature>
+			<temperature>1771</temperature>
 			<istransiting>1</istransiting>
+			<periastron>-82.6000</periastron>
+			<impactparameter>0.4010</impactparameter>
 		</planet>
 		<name>WASP-17</name>
 		<temperature>6650.0</temperature>
