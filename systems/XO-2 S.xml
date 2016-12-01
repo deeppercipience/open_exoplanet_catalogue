@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<system>
+	<name>XO-2 S</name>
+	<star>
+		<name>XO-2 S</name>
+		<planet>
+			<name>XO-2 S b</name>
+			<list>Confirmed planets</list>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
+		<magB>11.927</magB>
+		<magV>11.086</magV>
+		<magR>10.631</magR>
+		<magI>10.216</magI>
+		<magJ>9.742</magJ>
+		<magH>9.371</magH>
+		<magK>9.272</magK>
+	</star>
+</system>
