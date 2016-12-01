@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>42 Dra</name>
 	<rightascension>18 25 59.13734</rightascension>
@@ -36,9 +37,10 @@
 			<periastron errorminus="10.6" errorplus="10.6">218.7</periastron>
 			<periastrontime errorminus="3.7" errorplus="3.7">2452757.4</periastrontime>
 			<description>42 Draconis is a metal poor star.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/24</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
