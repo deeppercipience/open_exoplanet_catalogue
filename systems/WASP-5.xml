@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-5</name>
 	<rightascension>23 57 24</rightascension>
@@ -14,25 +15,28 @@
 		<magH errorminus="0.025" errorplus="0.025">10.650</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.598</magK>
 		<metallicity>0.09</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G4 V</spectraltype>
 		<planet>
 			<name>WASP-5 b</name>
 			<name>2MASS J23572375-4116377 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.637</mass>
-			<radius>1.171</radius>
+			<radius>1.087</radius>
 			<period>1.6284246</period>
 			<semimajoraxis>0.02729</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity>0.038000</eccentricity>
 			<inclination>85.8</inclination>
 			<transittime errorminus="0.00019" errorplus="0.00019" unit="BJD">2454375.62510</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/11/29</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1584.0</temperature>
+			<temperature>1706</temperature>
 			<istransiting>1</istransiting>
+			<periastron>34.3800</periastron>
+			<impactparameter>0.3100</impactparameter>
 		</planet>
 		<name>WASP-5</name>
 		<temperature>5700.0</temperature>
+		<age>5.400</age>
 	</star>
 </system>
