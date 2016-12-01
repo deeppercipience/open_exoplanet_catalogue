@@ -73,9 +73,12 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-51 d has been discovered by the Kepler spacecraft. Its mass has been determined by analysis of transit timing variations, indicating that it is a very low density planet.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/12/12</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<temperature>381</temperature>
+			<eccentricity>0.008000</eccentricity>
+			<impactparameter>0.2500</impactparameter>
 		</planet>
 	</star>
 </system>
