@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 45364</name>
 	<rightascension>06 25 38</rightascension>
@@ -31,10 +32,12 @@
 			<period>342.85</period>
 			<semimajoraxis>0.8972</semimajoraxis>
 			<eccentricity>0.0974</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>238.3</temperature>
+			<periastron>7.4100</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 45364</name>
 		<temperature>5434.0</temperature>
