@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>OGLE-TR-113</name>
 	<rightascension>10 52 24.40</rightascension>
@@ -7,7 +8,7 @@
 		<name>OGLE-TR-113</name>
 		<name>V752 Car</name>
 		<name>V752 Carinae</name>
-		<magV>16.08</magV>
+		<magV>14.420</magV>
 		<magI>14.42</magI>
 		<magK errorminus="0.1" errorplus="0.1">13.0</magK>
 		<mass errorminus="0.015" errorplus="0.017">0.779</mass>
@@ -15,7 +16,7 @@
 		<metallicity errorminus="0.08" errorplus="0.08">0.09</metallicity>
 		<temperature errorminus="75" errorplus="75">4790</temperature>
 		<age errorminus="2.4" errorplus="0.8">13.2</age>
-		<spectraltype>K</spectraltype>
+		<spectraltype>K4 V</spectraltype>
 		<planet>
 			<name>OGLE-TR-113 b</name>
 			<list>Confirmed planets</list>
@@ -28,7 +29,7 @@
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2453464.61708</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<description>OGLE-TR-113b is a hot Jupiter orbiting a K-type star.</description>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
