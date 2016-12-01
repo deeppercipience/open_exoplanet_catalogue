@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1013</name>
 	<rightascension>19 20 59.5</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000046720" errorplus="0.000046720">18.930549590</period>
 			<radius errorminus="0.018" errorplus="0.032">0.192</radius>
 		</planet>
+		<age>4.270</age>
+		<magJ>12.881</magJ>
+		<magH>12.370</magH>
+		<magK>12.289</magK>
 	</star>
 </system>
