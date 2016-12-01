@@ -64,7 +64,7 @@
 			<name>K2-23 d</name>
 			<name>EPIC 206103150 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0264" errorplus="0.0264">0.0328</mass>
+			<mass errorminus="0.0264" errorplus="0.0264">0.04782</mass>
 			<radius errorminus="0.012" errorplus="0.012">0.324</radius>
 			<period errorminus="0.00019" errorplus="0.00019">9.03081</period>
 			<semimajoraxis>0.088</semimajoraxis>
@@ -72,9 +72,10 @@
 			<transittime errorminus="0.00044" errorplus="0.00044" unit="BJD">2457006.36927</transittime>
 			<description>This Neptune-sized outer planet was discovered by the K2 mission which measured transit timing variations at the inner hot Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/10/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1800</impactparameter>
 		</planet>
 		<planet>
 			<name>WASP-47 c</name>
