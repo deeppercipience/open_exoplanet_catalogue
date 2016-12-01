@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 205739</name>
 	<rightascension>21 38 08</rightascension>
@@ -20,12 +21,15 @@
 			<period>279.8</period>
 			<semimajoraxis>0.896</semimajoraxis>
 			<eccentricity>0.27</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/09/08</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>330.2</temperature>
+			<periastron>301.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 205739</name>
 		<temperature>6176.0</temperature>
+		<age>2.840</age>
 	</star>
 </system>
