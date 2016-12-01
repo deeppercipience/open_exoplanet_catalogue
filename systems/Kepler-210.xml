@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-210</name>
 	<name>KOI-676</name>
@@ -41,17 +42,18 @@
 			<name>KOI-676.02</name>
 			<name>KIC 7447200 b</name>
 			<name>KIC 7447200.02</name>
-			<radius errorminus="0.0027" errorplus="0.0027">0.3419</radius>
+			<radius errorminus="0.0027" errorplus="0.0027">0.262</radius>
 			<inclination errorminus="0.26" errorplus="0.26">77.86</inclination>
-			<semimajoraxis errorminus="0.00024700668" errorplus="0.00024700668">0.01420769609</semimajoraxis>
+			<semimajoraxis errorminus="0.00024700668" errorplus="0.00024700668">0.032000</semimajoraxis>
 			<period errorminus="0.0007" errorplus="0.0007">2.4532</period>
 			<transittime errorminus="0.0001800" errorplus="0.0001800">2455003.8915300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-210 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-210 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/03/14</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter>0.7300</impactparameter>
 		</planet>
 	</star>
 </system>
