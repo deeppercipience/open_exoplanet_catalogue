@@ -45,7 +45,7 @@
 			<name>K2-23 e</name>
 			<name>EPIC 206103150 e</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0116" errorplus="0.0116">0.0384</mass>
+			<mass errorminus="0.0116" errorplus="0.0116">0.06922</mass>
 			<radius errorminus="0.0062" errorplus="0.0062">0.1631</radius>
 			<period errorminus="0.000013" errorplus="0.000013">0.789597</period>
 			<semimajoraxis>0.017</semimajoraxis>
@@ -53,9 +53,10 @@
 			<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2457011.34849</transittime>
 			<description>This super-Earth planet was discovered by the K2 mission which measured transit timing variations at the inner hot Jupiter. Radial velocity measurements indicate this is a rocky planet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/10/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1700</impactparameter>
 		</planet>
 		<planet>
 			<name>WASP-47 d</name>
