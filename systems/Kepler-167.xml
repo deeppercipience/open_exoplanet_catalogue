@@ -60,5 +60,20 @@
 		</planet>
 		<age>3.300</age>
 		<spectraltype>K4</spectraltype>
+		<planet>
+			<name>Kepler-167 d</name>
+			<list>Confirmed planets</list>
+			<radius>0.107</radius>
+			<temperature>536</temperature>
+			<semimajoraxis>0.140500</semimajoraxis>
+			<eccentricity>0.120000</eccentricity>
+			<inclination>89.352</inclination>
+			<impactparameter>0.4740</impactparameter>
+			<period>21.80385500</period>
+			<discoverymethod>Transit</discoverymethod>
+			<istransiting>1</istransiting>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
 	</star>
 </system>
