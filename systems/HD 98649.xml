@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 98649</name>
 	<rightascension>11 20 52</rightascension>
@@ -24,10 +25,11 @@
 			<period>4951</period>
 			<eccentricity>0.85</eccentricity>
 			<periastron>248</periastron>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<semimajoraxis>5.6</semimajoraxis>
 			<discoveryyear>2011</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 98649</name>
 	</star>
