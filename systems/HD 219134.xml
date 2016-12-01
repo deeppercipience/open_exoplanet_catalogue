@@ -126,16 +126,17 @@
 			<name>PPM 41599 f</name>
 			<name>TYC 4006-1866-1 f</name>
 			<list>Confirmed planets</list>
-			<period errorminus="0.2" errorplus="0.2">94.2</period>
+			<period errorminus="0.2" errorplus="0.2">22.80500000</period>
 			<mass errorminus="0.004" errorplus="0.004" type="msini">0.034</mass>
 			<meananomaly errorminus="35" errorplus="35">107</meananomaly>
 			<eccentricity>0</eccentricity>
 			<periastron>0</periastron>
-			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.3753</semimajoraxis>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.145740</semimajoraxis>
 			<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/20</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 219134 g</name>
