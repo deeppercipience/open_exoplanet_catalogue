@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>omi CrB</name>
 	<rightascension>15 20 08.55879</rightascension>
@@ -24,9 +25,9 @@
 		<magB>6.53</magB>
 		<magJ errorminus="0.336" errorplus="0.336">3.651</magJ>
 		<magH errorminus="0.280" errorplus="0.280">3.169</magH>
-		<magK>3.13</magK>
+		<magK>2.934</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.29</metallicity>
-		<spectraltype>K0 III</spectraltype>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>omi CrB b</name>
 			<name>Omicron Coronae Borealis b</name>
@@ -42,9 +43,10 @@
 			<periastron errorminus="36" errorplus="36">79</periastron>
 			<periastrontime errorminus="17" errorplus="17">2452211</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
