@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1122</name>
 	<rightascension>19 13 07</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000299600" errorplus="0.000299600">42.191735700</period>
 			<radius errorminus="0.012" errorplus="0.024">0.182</radius>
 		</planet>
+		<age>4.680</age>
+		<magJ>13.872</magJ>
+		<magH>13.518</magH>
+		<magK>13.369</magK>
 	</star>
 </system>
