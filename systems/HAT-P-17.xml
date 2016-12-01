@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-17</name>
 	<rightascension>21 38 09</rightascension>
@@ -37,17 +38,19 @@
 			<name>2MASS J21380873+3029193 c</name>
 			<list>Confirmed planets</list>
 			<mass>1.4</mass>
-			<period>1798</period>
-			<semimajoraxis>2.75</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<period>5584.00000000</period>
+			<semimajoraxis>5.600000</semimajoraxis>
+			<eccentricity>0.390000</eccentricity>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/10</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>127.5</temperature>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<periastron>181.5000</periastron>
 		</planet>
 		<name>HAT-P-17</name>
 		<temperature>5246.0</temperature>
+		<age>7.800</age>
 	</star>
 </system>
