@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>POTS-1</name>
 	<rightascension>13 34 26.130</rightascension>
@@ -29,9 +30,10 @@
 			<inclination errorminus="0.34" errorplus="0.47">88.6</inclination>
 			<description>POTS-1 b is a Hot Jupiter and the first planet discovered by the pre-OmegaTranS project survey. This survey is looking at the Carina region of the Galactic disc with the European Southern Observatory Wide Field Imager at La Silla Observatory.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/09/01</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.4590</impactparameter>
 		</planet>
 	</star>
 </system>
