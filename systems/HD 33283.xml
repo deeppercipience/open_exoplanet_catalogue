@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 33283</name>
 	<rightascension>05 08 01</rightascension>
@@ -18,12 +19,14 @@
 			<list>Confirmed planets</list>
 			<mass>0.33</mass>
 			<period>18.179</period>
-			<semimajoraxis>0.168</semimajoraxis>
+			<semimajoraxis>0.145000</semimajoraxis>
 			<eccentricity>0.48</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/04/18</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>695.7</temperature>
+			<periastron>155.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 33283</name>
 		<temperature>5995.0</temperature>
