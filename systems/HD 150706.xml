@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 150706</name>
 	<rightascension>16 31 17</rightascension>
@@ -13,7 +14,7 @@
 		<magH errorminus="0.016" errorplus="0.016">5.639</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.565</magK>
 		<metallicity>-0.13</metallicity>
-		<spectraltype>G0</spectraltype>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 150706 b</name>
 			<list>Confirmed planets</list>
@@ -21,11 +22,14 @@
 			<period>5894</period>
 			<semimajoraxis>6.7</semimajoraxis>
 			<eccentricity>0.38</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2002</discoveryyear>
+			<periastron>132.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 150706</name>
 		<temperature>5741.0</temperature>
+		<age>3.000</age>
 	</star>
 </system>
