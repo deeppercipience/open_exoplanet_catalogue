@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-18</name>
 	<rightascension>01 37 25</rightascension>
@@ -11,7 +12,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">8.409</magJ>
 		<magH errorminus="0.055" errorplus="0.055">8.231</magH>
 		<magK errorminus="0.027" errorplus="0.027">8.131</magK>
-		<spectraltype>F6</spectraltype>
+		<spectraltype>F6 IV/V</spectraltype>
 		<planet>
 			<name>WASP-18 b</name>
 			<name>HIP 7562 b</name>
@@ -30,10 +31,11 @@
 			<inclination>86</inclination>
 			<transittime errorminus="0.000080" errorplus="0.000080" unit="BJD">2455084.792931</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>2187.5</temperature>
 			<istransiting>1</istransiting>
+			<periastron>-96.0000</periastron>
 		</planet>
 		<name>WASP-18</name>
 		<temperature>6400.0</temperature>
