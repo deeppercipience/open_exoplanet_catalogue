@@ -37,10 +37,12 @@
 			<semimajoraxis>0.186</semimajoraxis>
 			<eccentricity>0.13</eccentricity>
 			<inclination>13</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>520.3</temperature>
+			<periastron>221.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 69830 d</name>
