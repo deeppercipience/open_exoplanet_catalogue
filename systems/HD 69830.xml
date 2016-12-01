@@ -50,10 +50,12 @@
 			<semimajoraxis>0.63</semimajoraxis>
 			<eccentricity>0.07</eccentricity>
 			<inclination>13</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>282.9</temperature>
+			<periastron>224.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 69830</name>
 		<temperature>5385.0</temperature>
