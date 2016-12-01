@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1504</name>
 	<rightascension>19 18 51</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001593000" errorplus="0.001593000">82.304003000</period>
 			<radius errorminus="0.017" errorplus="0.021">0.190</radius>
 		</planet>
+		<age>4.470</age>
+		<magJ>14.409</magJ>
+		<magH>13.998</magH>
+		<magK>13.834</magK>
 	</star>
 </system>
