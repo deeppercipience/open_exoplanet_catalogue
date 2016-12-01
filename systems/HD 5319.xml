@@ -56,9 +56,11 @@
 			<semimajoraxis errorminus="0.013" errorplus="0.013">2.071</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron>252.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<temperature>5052.0</temperature>
 		<age>3.100</age>
