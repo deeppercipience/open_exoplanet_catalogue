@@ -22,15 +22,16 @@
 			<name>KOI-1236.01</name>
 			<name>KIC 6677841 c</name>
 			<name>KIC 6677841.01</name>
-			<radius errorminus="0.09022" errorplus="0.09022">0.48664</radius>
+			<radius errorminus="0.09022" errorplus="0.09022">0.384</radius>
 			<period errorminus=".000182" errorplus="0.000182">35.740844</period>
 			<transittime errorminus="0.0026100" errorplus="0.0026100">2454984.0638000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-279 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-279 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.15500</mass>
 		</planet>
 		<planet>
 			<name>Kepler-279 b</name>
