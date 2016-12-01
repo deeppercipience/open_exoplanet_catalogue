@@ -70,5 +70,12 @@
 		<magJ>11.354</magJ>
 		<magH>10.718</magH>
 		<magK>10.296</magK>
+		<planet>
+			<name>TRAPPIST-1 d</name>
+			<list>Confirmed planets</list>
+			<eccentricity>0.000000</eccentricity>
+			<impactparameter>0.2400</impactparameter>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
 	</star>
 </system>
