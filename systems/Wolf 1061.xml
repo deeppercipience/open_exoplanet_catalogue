@@ -47,11 +47,12 @@
 			<periastron errorminus="47" errorplus="47">37</periastron>
 			<meananomaly errorminus="59" errorplus="59">313</meananomaly>
 			<semimajoraxis errorminus="0.00004" errorplus="0.00004">0.08427</semimajoraxis>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Wolf 1061 c is a planet with a minimum mass of 4.25 Earth masses located near the inner edge of its host star's habitable zone. It is the middle planet of a system of super-Earths located 14 light years from the solar system.</description>
-			<lastupdate>15/12/27</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<list>Confirmed planets</list>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>Wolf 1061 d</name>
