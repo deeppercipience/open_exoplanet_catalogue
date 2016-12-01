@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 63454</name>
 	<rightascension>07 39 21</rightascension>
@@ -18,11 +19,14 @@
 			<mass>0.38</mass>
 			<period>2.818049</period>
 			<semimajoraxis>0.036</semimajoraxis>
-			<eccentricity>0.00002</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/06/01</lastupdate>
+			<eccentricity>0.000000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>926.7</temperature>
+			<radius>1.098</radius>
+			<periastron>87.3000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 63454</name>
 		<temperature>4841.0</temperature>
