@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 86226</name>
 	<rightascension>09 56 30</rightascension>
@@ -24,10 +25,11 @@
 			<semimajoraxis>2.84</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<periastron>193</periastron>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>154.0</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<temperature>5940.0</temperature>
 	</star>
