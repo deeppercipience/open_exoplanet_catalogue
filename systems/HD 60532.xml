@@ -34,12 +34,14 @@
 			<mass>7.46</mass>
 			<period>607.06</period>
 			<semimajoraxis>1.58</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
+			<eccentricity>0.030000</eccentricity>
 			<inclination>20</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>348.9</temperature>
+			<periastron>179.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 60532</name>
 		<temperature>6095.0</temperature>
