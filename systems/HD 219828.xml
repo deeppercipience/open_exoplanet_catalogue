@@ -19,12 +19,14 @@
 			<list>Confirmed planets</list>
 			<mass>0.066</mass>
 			<period>3.8335</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/21</lastupdate>
+			<semimajoraxis>0.045000</semimajoraxis>
+			<eccentricity>0.059000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1485.2</temperature>
+			<periastron>225.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 219828</name>
 		<temperature>5891.0</temperature>
