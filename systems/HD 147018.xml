@@ -34,10 +34,12 @@
 			<period>1008</period>
 			<semimajoraxis>1.922</semimajoraxis>
 			<eccentricity>0.133</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>171.9</temperature>
+			<periastron>-133.1000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 147018</name>
 		<temperature>5441.0</temperature>
