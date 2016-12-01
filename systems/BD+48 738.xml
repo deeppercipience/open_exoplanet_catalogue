@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>BD+48 738</name>
 	<rightascension>02 42 50.463</rightascension>
@@ -28,9 +29,10 @@
 			<periastron errorminus="31.1" errorplus="31.1">358.9</periastron>
 			<periastrontime errorminus="28.5" errorplus="28.5">2454457.7</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2011</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
