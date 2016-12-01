@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 62509</name>
 	<rightascension>07 45 18</rightascension>
@@ -16,7 +17,7 @@
 		<magR>0.6</magR>
 		<magI>0.2</magI>
 		<metallicity>0.19</metallicity>
-		<spectraltype>K0IIIb</spectraltype>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>HD 62509 b</name>
 			<name>Pollux b</name>
@@ -27,10 +28,16 @@
 			<period>589.64</period>
 			<semimajoraxis>1.69</semimajoraxis>
 			<eccentricity>0.02</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/11</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>482.6</temperature>
+			<periastron>354.5800</periastron>
+			<istransiting>0</istransiting>
 		</planet>
+		<age>0.980</age>
+		<magJ>-0.315</magJ>
+		<magH>-0.845</magH>
+		<magK>-0.936</magK>
 	</star>
 </system>
