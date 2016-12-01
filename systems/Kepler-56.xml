@@ -48,7 +48,7 @@
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature. The orbit is inclined relative to the stellar equator, which is tilted by 47 ± 6 degrees to the line of sight.</description>
 			<semimajoraxis errorminus="0.0059" errorplus="0.0059">0.1652</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/04/14</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
