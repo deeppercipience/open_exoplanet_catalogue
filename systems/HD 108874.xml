@@ -22,11 +22,13 @@
 			<mass>1.36</mass>
 			<period>395.4</period>
 			<semimajoraxis>1.051</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<eccentricity>0.082000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>256.8</temperature>
+			<periastron>232.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 108874 c</name>
