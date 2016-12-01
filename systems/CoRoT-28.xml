@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-28</name>
 	<rightascension>18 34 45.21</rightascension>
@@ -30,9 +31,11 @@
 			<inclination errorminus="0.8" errorplus="0.8">88.1</inclination>
 			<description>CoRoT-28 b is a Jupiter-sized planet orbiting an evolved star. It was discovered by the European space mission CoRoT.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/04/07</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron>126.0000</periastron>
+			<impactparameter>0.2400</impactparameter>
 		</planet>
 	</star>
 </system>
