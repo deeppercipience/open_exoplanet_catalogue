@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 1461</name>
 	<rightascension>00 18 42</rightascension>
@@ -19,11 +20,12 @@
 			<mass>0.0239</mass>
 			<period>5.7727</period>
 			<semimajoraxis>0.063438</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<eccentricity>0.172000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1054.8</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 1461 c</name>
@@ -40,5 +42,7 @@
 		</planet>
 		<name>HD 1461</name>
 		<temperature>5765.0</temperature>
+		<magR>6.090</magR>
+		<magI>5.750</magI>
 	</star>
 </system>
