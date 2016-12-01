@@ -49,10 +49,12 @@
 			<semimajoraxis>4.2</semimajoraxis>
 			<eccentricity>0.28</eccentricity>
 			<description>The star HD 125612 is a metal rich yellow main sequence star in the constellation Virgo. It hosts at least 3 planets. All of them are on eccentric orbits.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>129.4</temperature>
+			<periastron>-76.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 125612</name>
 		<temperature>5897.0</temperature>
