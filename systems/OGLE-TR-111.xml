@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>OGLE-TR-111</name>
 	<rightascension>10 53 18</rightascension>
@@ -7,8 +8,8 @@
 		<mass>0.82</mass>
 		<radius>0.831</radius>
 		<metallicity>0.12</metallicity>
-		<spectraltype>G</spectraltype>
-		<magV>16.96</magV>
+		<spectraltype>K2 V</spectraltype>
+		<magV>15.550</magV>
 		<magJ>14.7</magJ>
 		<magH>14.22</magH>
 		<magI>15.55</magI>
@@ -17,17 +18,18 @@
 			<name>OGLE-TR-111 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.54</mass>
-			<radius>1.077</radius>
+			<radius>1.019</radius>
 			<period>4.01451</period>
 			<semimajoraxis>0.047</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.1</inclination>
 			<transittime errorminus="0.00030" errorplus="0.00030" unit="BJD">2454092.80961</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/14</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>940.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.3500</impactparameter>
 		</planet>
 		<name>OGLE-TR-111</name>
 		<temperature>5070.0</temperature>
