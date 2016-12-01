@@ -56,10 +56,12 @@
 			<inclination>89.7</inclination>
 			<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2454967.651</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
+			<mass>0.01300</mass>
+			<impactparameter>0.1600</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-62 d</name>
