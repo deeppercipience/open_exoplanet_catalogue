@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>TrES-1</name>
 	<rightascension>19 04 09</rightascension>
@@ -29,10 +30,14 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.4</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/02/09</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<description>TrES-1 b orbits an orange dwarf star in the constellation of Lyra. It belongs to the class of Hot Jupiters</description>
 			<istransiting>1</istransiting>
+			<temperature>1140</temperature>
+			<impactparameter>0.0000</impactparameter>
 		</planet>
+		<age>3.700</age>
+		<magR>11.340</magR>
 	</star>
 </system>
