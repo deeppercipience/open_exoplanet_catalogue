@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 209458</name>
 	<rightascension>22 03 10</rightascension>
@@ -14,7 +15,7 @@
 		<metallicity errorminus="0.05" errorplus="0.05">0.02</metallicity>
 		<temperature errorminus="33" errorplus="33">6075</temperature>
 		<age errorminus="2" errorplus="2">4</age>
-		<spectraltype>G0V</spectraltype>
+		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HD 209458 b</name>
 			<list>Confirmed planets</list>
@@ -25,8 +26,8 @@
 			<eccentricity errorminus="0.003" errorplus="0.003">0.0004</eccentricity>
 			<inclination errorminus="0.046" errorplus="0.046">86.59</inclination>
 			<transittime errorminus="0.014" errorplus="0.014" unit="HJD">2451370.048</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/04/18</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<description>By studying the carbon monoxide gas in the upper atmosphere with great accuracy, astronomers found evidence for a wind, blowing at a speed of 5000 to 10000 km per hour.</description>
 			<image>HD209458</image>
