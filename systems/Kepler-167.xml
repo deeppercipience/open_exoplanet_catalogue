@@ -75,5 +75,21 @@
 			<discoveryyear>2016</discoveryyear>
 			<lastupdate>16/12/01</lastupdate>
 		</planet>
+		<planet>
+			<name>Kepler-167 e</name>
+			<list>Confirmed planets</list>
+			<radius>0.906</radius>
+			<temperature>131</temperature>
+			<semimajoraxis>1.890000</semimajoraxis>
+			<eccentricity>0.062000</eccentricity>
+			<periastron>201.0000</periastron>
+			<inclination>89.976</inclination>
+			<impactparameter>0.2330</impactparameter>
+			<period>1071.23228000</period>
+			<discoverymethod>Transit</discoverymethod>
+			<istransiting>1</istransiting>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/01</lastupdate>
+		</planet>
 	</star>
 </system>
