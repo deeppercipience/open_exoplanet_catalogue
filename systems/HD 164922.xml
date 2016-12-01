@@ -22,11 +22,13 @@
 			<mass>0.36</mass>
 			<period>1155</period>
 			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<eccentricity>0.126000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>155.0</temperature>
+			<periastron>129.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
