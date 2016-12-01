@@ -45,9 +45,11 @@
 			<semimajoraxis>4.60</semimajoraxis>
 			<eccentricity>0.23</eccentricity>
 			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/10/26</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<periastron>118.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 	<videolink>http://youtu.be/iPuHKvxb_Wg</videolink>
