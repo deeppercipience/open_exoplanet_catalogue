@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-117</name>
 	<rightascension>02 27 06.0972</rightascension>
@@ -37,8 +38,9 @@
 			<spinorbitalignment errorminus="11" errorplus="11">-44</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/27</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter>0.3200</impactparameter>
 		</planet>
 	</star>
 </system>
