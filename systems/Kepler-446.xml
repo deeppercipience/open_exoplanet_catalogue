@@ -50,9 +50,11 @@
 			<transittime errorminus="0.000945" errorplus="0.000945" unit="BJD">2454967.069573</transittime>
 			<description>Kepler-446 is an M-dwarf with transit signals of three short-period planets.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/01/06</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity>0.000000</eccentricity>
+			<impactparameter>0.0250</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-446 d</name>
