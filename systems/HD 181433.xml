@@ -34,10 +34,12 @@
 			<period>962</period>
 			<semimajoraxis>1.76</semimajoraxis>
 			<eccentricity>0.28</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>141.6</temperature>
+			<periastron>21.4000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 181433 d</name>
