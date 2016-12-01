@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 215497</name>
 	<rightascension>22 46 37</rightascension>
@@ -31,12 +32,15 @@
 			<period>567.94</period>
 			<semimajoraxis>1.282</semimajoraxis>
 			<eccentricity>0.49</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>185.8</temperature>
+			<periastron>45.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 215497</name>
 		<temperature>5113.0</temperature>
+		<age>7.000</age>
 	</star>
 </system>
