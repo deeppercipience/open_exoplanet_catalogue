@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 111232</name>
 	<rightascension>12 48 51</rightascension>
@@ -11,7 +12,7 @@
 		<magK errorminus="0.033" errorplus="0.033">5.898</magK>
 		<magB>8.29</magB>
 		<metallicity>-0.36</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 111232 b</name>
 			<list>Confirmed planets</list>
@@ -19,12 +20,15 @@
 			<period>1143</period>
 			<semimajoraxis>1.97</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>163.3</temperature>
+			<periastron>98.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 111232</name>
 		<temperature>5494.0</temperature>
+		<age>5.200</age>
 	</star>
 </system>
