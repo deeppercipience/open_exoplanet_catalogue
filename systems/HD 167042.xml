@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 167042</name>
 	<rightascension>18 10 31.64008</rightascension>
@@ -33,9 +34,10 @@
 			<periastron errorminus="35.8" errorplus="35.4">85.7</periastron>
 			<periastrontime errorminus="41.6" errorplus="40.6">2454230.1</periastrontime>
 			<description>HD 167042 b is a giant planet orbiting a subgiant star.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2007</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
