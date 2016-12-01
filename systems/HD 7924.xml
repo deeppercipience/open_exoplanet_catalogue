@@ -35,11 +35,13 @@
 			<period errorminus="0.00025" errorplus="0.00025">5.39792</period>
 			<periastrontime errorminus="0.110" errorplus="0.086" unit="BJD">2455586.38</periastrontime>
 			<semimajoraxis errorminus="0.00069" errorplus="0.00067">0.05664</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
+			<eccentricity>0.058000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature errorminus="6.5" errorplus="6.6">825.9</temperature>
+			<periastron>332.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 7924 c</name>
