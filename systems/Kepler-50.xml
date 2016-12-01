@@ -51,9 +51,10 @@
 			<transittime errorminus="0.0022" errorplus="0.0022" unit="BJD">2455069.96857</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 9.38 days for 2.6022 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/02/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.9400</impactparameter>
 		</planet>
 	</star>
 </system>
