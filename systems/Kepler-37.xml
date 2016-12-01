@@ -55,10 +55,12 @@
 			<inclination errorminus="0.33" errorplus="0.19">89.07</inclination>
 			<transittime errorminus="0.00078" errorplus="0.00036" unit="BJD">2455024.83816</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>Kepler-37 is a three planet system discovered by Kepler. The planet Kepler-37 c is about three quaters the size of Earth. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
 			<istransiting>1</istransiting>
+			<mass>0.03776</mass>
+			<impactparameter>0.4300</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-37 d</name>
