@@ -20,10 +20,12 @@
 			<period>226.93</period>
 			<semimajoraxis>0.6813</semimajoraxis>
 			<eccentricity>0.1684</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>273.1</temperature>
+			<periastron>162.5800</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 45364 c</name>
