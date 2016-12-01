@@ -23,16 +23,17 @@
 			<name>KOI-571.01</name>
 			<name>KIC 8120608 c</name>
 			<name>KIC 8120608.01</name>
-			<radius errorminus="0.010936" errorplus="0.010936">0.097509</radius>
-			<semimajoraxis errorminus="0.007" errorplus="0.007">0.0520</semimajoraxis>
+			<radius errorminus="0.010936" errorplus="0.010936">0.112</radius>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.045100</semimajoraxis>
 			<period errorminus="0.000012" errorplus="0.000012">7.267301</period>
 			<transittime errorminus="0.0013700" errorplus="0.0013700">2455007.3146100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-186 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-186 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/04/17</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter>0.2800</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-186 d</name>
