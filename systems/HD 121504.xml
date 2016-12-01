@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 121504</name>
 	<rightascension>13 57 17</rightascension>
@@ -19,12 +20,15 @@
 			<period>63.33</period>
 			<semimajoraxis>0.33</semimajoraxis>
 			<eccentricity>0.03</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>502.8</temperature>
+			<periastron>265.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 121504</name>
 		<temperature>6075.0</temperature>
+		<age>1.200</age>
 	</star>
 </system>
