@@ -30,10 +30,11 @@
 			<eccentricity errorminus="0.0065" errorplus="0.0065">0.3728</eccentricity>
 			<periastrontime errorminus="2.4" errorplus="2.4">2452113.0</periastrontime>
 			<periastron errorminus="1.4" errorplus="1.4">232.9</periastron>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>HD 183263 b is a giant planet in an elliptical orbit.</description>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2004</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 183263 c</name>
