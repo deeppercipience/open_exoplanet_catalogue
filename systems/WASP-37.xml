@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-37</name>
 	<rightascension>14 47 47</rightascension>
@@ -19,7 +20,7 @@
 			<name>WASP-37 b</name>
 			<name>2MASS J14474655+0103538 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.696</mass>
+			<mass>1.80000</mass>
 			<radius>1.136</radius>
 			<period>3.577471</period>
 			<semimajoraxis>0.04339</semimajoraxis>
@@ -27,7 +28,7 @@
 			<inclination>88.78</inclination>
 			<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2455338.6196</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/08/19</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1213.5</temperature>
 			<istransiting>1</istransiting>
