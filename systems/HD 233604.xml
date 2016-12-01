@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 233604</name>
 	<rightascension>09 09 48.8205</rightascension>
@@ -29,9 +30,10 @@
 			<eccentricity errorminus="0.03" errorplus="0.03">0.05</eccentricity>
 			<periastron errorminus="43" errorplus="43">281</periastron>
 			<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abundance which may be either a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
