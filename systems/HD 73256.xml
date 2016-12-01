@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 73256</name>
 	<rightascension>08 36 23</rightascension>
@@ -20,12 +21,15 @@
 			<period>2.54858</period>
 			<semimajoraxis>0.037</semimajoraxis>
 			<eccentricity>0.029</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>1204.5</temperature>
+			<periastron>337.3000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 73256</name>
 		<temperature>5570.0</temperature>
+		<age>0.830</age>
 	</star>
 </system>
