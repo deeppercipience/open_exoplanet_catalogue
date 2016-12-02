@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>XO-5</name>
 	<rightascension>07 46 52</rightascension>
@@ -17,18 +18,19 @@
 			<name>XO-5 b</name>
 			<name>2MASS J07465196+3905404 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.077</mass>
-			<radius>1.03</radius>
+			<mass>1.19000</mass>
+			<radius>1.140</radius>
 			<period>4.1877537</period>
-			<semimajoraxis>0.0487</semimajoraxis>
+			<semimajoraxis>0.051500</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.8</inclination>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454485.6842</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/03/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1133.5</temperature>
+			<temperature>1230</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.5500</impactparameter>
 		</planet>
 		<name>XO-5</name>
 		<temperature>5510.0</temperature>
