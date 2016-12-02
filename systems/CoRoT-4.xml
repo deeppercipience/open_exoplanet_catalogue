@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-4</name>
 	<rightascension>06 48 47</rightascension>
@@ -26,12 +27,13 @@
 			<inclination>90</inclination>
 			<transittime errorminus="0.00089" errorplus="0.00089" unit="BJD">2454141.36494</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>08/11/27</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>975.6</temperature>
+			<temperature>1074</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>CoRoT-4</name>
 		<temperature>6190.0</temperature>
+		<age>1.000</age>
 	</star>
 </system>
