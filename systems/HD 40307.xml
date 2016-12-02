@@ -92,10 +92,12 @@
 			<semimajoraxis>0.60</semimajoraxis>
 			<eccentricity>0.29</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets. A signal of a sixth planet has also been reported but should be taken with a grain of salt as it might correlate with chromospheric emission from the star. If the signal is a genuine signal of planetary origin, then this super-Earth might be habitable as it could support liquid water on its surface.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/08</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>224.0</temperature>
+			<periastron>91.7000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 40307</name>
 		<temperature>4977.0</temperature>
