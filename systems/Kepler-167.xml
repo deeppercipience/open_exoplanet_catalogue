@@ -22,15 +22,20 @@
 			<name>KOI-490.01</name>
 			<name>KIC 3239945 b</name>
 			<name>KIC 3239945.01</name>
-			<radius errorminus="0.00820" errorplus="0.00820">0.13214</radius>
+			<radius errorminus="0.00820" errorplus="0.00820">0.144</radius>
 			<period errorminus=".000010" errorplus="0.000010">4.393147</period>
 			<transittime errorminus="0.0012000" errorplus="0.0012000">2455005.8673200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-167 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-167 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<temperature>914</temperature>
+			<semimajoraxis>0.048300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination>89.330</inclination>
+			<impactparameter>0.1700</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-167 c</name>
