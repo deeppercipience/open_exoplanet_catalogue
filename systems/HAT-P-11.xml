@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-11</name>
 	<rightascension>19 50 50</rightascension>
@@ -31,19 +32,22 @@
 			<name>KOI-3 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.081</mass>
-			<radius>0.452</radius>
+			<radius>0.422</radius>
 			<period>4.887804</period>
 			<semimajoraxis>0.053</semimajoraxis>
 			<eccentricity>0.198</eccentricity>
 			<inclination>88.5</inclination>
 			<description>The star HAT-P-11b is located in the constellation Cygnus. The planetary companion HAT-P-11b is in the field of view of the Kepler spacecraft. The expected temperature is 878K. The planets orbit is highly inclined.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>790.9</temperature>
+			<temperature>878</temperature>
 			<transittime errorminus="0.00032" errorplus="0.00032" unit="BJD">2454605.89132</transittime>
 			<istransiting>1</istransiting>
+			<periastron>355.2000</periastron>
+			<impactparameter>0.3470</impactparameter>
 		</planet>
 		<temperature>4780.0</temperature>
+		<age>6.500</age>
 	</star>
 </system>
