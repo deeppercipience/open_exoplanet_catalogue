@@ -39,10 +39,11 @@
 			<semimajoraxis errorminus="0.04" errorplus="0.04">2.03</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.12</eccentricity>
 			<periastron errorminus="11" errorplus="11">185</periastron>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/11/22</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>HD 13908 c is a planet with 5 times the mass of our Jupiter. The system HD 13908 also hosts a hot Jupiter with an orbital period of 19 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
