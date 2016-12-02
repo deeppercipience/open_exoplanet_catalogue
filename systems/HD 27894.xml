@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 27894</name>
 	<rightascension>04 20 47</rightascension>
@@ -16,12 +17,18 @@
 			<period>17.991</period>
 			<semimajoraxis>0.122</semimajoraxis>
 			<eccentricity>0.049</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/25</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>548.8</temperature>
+			<periastron>132.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 27894</name>
 		<temperature>4875.0</temperature>
+		<age>3.900</age>
+		<magJ>7.639</magJ>
+		<magH>7.174</magH>
+		<magK>7.071</magK>
 	</star>
 </system>
