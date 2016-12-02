@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-422</name>
 	<rightascension>18 50 31</rightascension>
@@ -31,8 +32,9 @@
 			<description>Kepler-422 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-22 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/09/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter>0.4160</impactparameter>
 		</planet>
 	</star>
 </system>
