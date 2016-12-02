@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 76700</name>
 	<rightascension>08 53 55</rightascension>
@@ -20,12 +21,14 @@
 			<period>3.971</period>
 			<semimajoraxis>0.049</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1315.4</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 76700</name>
 		<temperature>5726.0</temperature>
+		<age>11.000</age>
 	</star>
 </system>
