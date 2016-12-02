@@ -26,9 +26,11 @@
 			<list>Confirmed planets</list>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>4.10000</mass>
+			<semimajoraxis>0.050000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-32 c</name>
