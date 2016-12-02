@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 50499</name>
 	<rightascension>06 52 02</rightascension>
@@ -9,7 +10,7 @@
 		<magV>7.22</magV>
 		<magB errorminus="0.02" errorplus="0.02">7.82</magB>
 		<metallicity>0.23</metallicity>
-		<spectraltype>G IV</spectraltype>
+		<spectraltype>G0/2 V</spectraltype>
 		<planet>
 			<name>HD 50499 b</name>
 			<list>Confirmed planets</list>
@@ -17,12 +18,18 @@
 			<period>2482.7</period>
 			<semimajoraxis>3.86</semimajoraxis>
 			<eccentricity>0.23</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>155.1</temperature>
+			<periastron>262.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 50499</name>
 		<temperature>5902.0</temperature>
+		<age>6.000</age>
+		<magJ>6.152</magJ>
+		<magH>5.884</magH>
+		<magK>5.836</magK>
 	</star>
 </system>
