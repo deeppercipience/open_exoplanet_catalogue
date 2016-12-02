@@ -37,10 +37,12 @@
 			<period>192.9</period>
 			<semimajoraxis>0.654</semimajoraxis>
 			<eccentricity>0.06</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>315.8</temperature>
+			<periastron>100.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 9446</name>
 		<temperature>5793.0</temperature>
