@@ -78,5 +78,11 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<age>0.650</age>
+		<planet>
+			<name>Kepler-289 d</name>
+			<list>Confirmed planets</list>
+			<impactparameter>0.0500</impactparameter>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
 	</star>
 </system>
