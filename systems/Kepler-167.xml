@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-167</name>
 	<name>KOI-490</name>
@@ -37,15 +38,22 @@
 			<name>KOI-490.03</name>
 			<name>KIC 3239945 c</name>
 			<name>KIC 3239945.03</name>
-			<radius errorminus="0.00729" errorplus="0.00729">0.12485</radius>
+			<radius errorminus="0.00729" errorplus="0.00729">0.138</radius>
 			<period errorminus=".000026" errorplus="0.000026">7.406097</period>
 			<transittime errorminus="0.0019800" errorplus="0.0019800">2454967.0739300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-167 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-167 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<temperature>768</temperature>
+			<semimajoraxis>0.068400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination>89.300</inclination>
+			<impactparameter>0.2500</impactparameter>
 		</planet>
+		<age>3.300</age>
+		<spectraltype>K4</spectraltype>
 	</star>
 </system>
