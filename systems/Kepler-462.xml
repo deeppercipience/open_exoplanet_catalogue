@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-462</name>
 	<rightascension>19 59 17</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000206800" errorplus="0.000206800">84.687980800</period>
 			<radius errorminus="0.046" errorplus="0.055">0.336</radius>
 		</planet>
+		<age>1.450</age>
+		<magJ>10.983</magJ>
+		<magH>10.876</magH>
+		<magK>10.851</magK>
 	</star>
 </system>
