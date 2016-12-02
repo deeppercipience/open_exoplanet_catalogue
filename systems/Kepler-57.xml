@@ -36,13 +36,13 @@
 			<name>KOI-1270 c</name>
 			<name>KIC 8564587 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.007759</mass>
+			<mass>6.95000</mass>
 			<radius>0.141252</radius>
 			<period>11.6092567</period>
 			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2455066.99083</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.61 days for 1.7074 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
