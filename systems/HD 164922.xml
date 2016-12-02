@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
@@ -14,18 +15,20 @@
 		<magH errorminus="0.017" errorplus="0.017">5.203</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.113</magK>
 		<metallicity>0.17</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>HD 164922 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.36</mass>
 			<period>1155</period>
 			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<eccentricity>0.126000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>155.0</temperature>
+			<periastron>129.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
