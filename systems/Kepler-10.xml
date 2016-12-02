@@ -26,7 +26,7 @@
 			<name>KIC 11904151 b</name>
 			<name>2MASS J19024305+5014286 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001541" errorplus="0.001541">0.010475</mass>
+			<mass errorminus="0.001541" errorplus="0.001541">0.01450</mass>
 			<radius errorminus="0.001823" errorplus="0.002734">0.133962</radius>
 			<period errorminus="0.0000002" errorplus="0.0000002">0.8374907</period>
 			<semimajoraxis errorminus="0.00013" errorplus="0.00013">0.01685</semimajoraxis>
@@ -34,10 +34,11 @@
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455034.08687</transittime>
 			<eccentricity>0</eccentricity>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/06/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="44" errorplus="96">2169</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.3000</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-10 c</name>
