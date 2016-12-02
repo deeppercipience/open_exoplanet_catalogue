@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-20</name>
 	<rightascension>19 10 47</rightascension>
@@ -54,10 +55,12 @@
 			<transittime errorminus="0.00046" errorplus="0.00046" unit="BJD">2454971.60758</transittime>
 			<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 c has a low mean density which means it cannot be composed of rocky and iron material alone but must have a gas envelope.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/12/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>759.9</temperature>
+			<temperature>713</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity>0.400000</eccentricity>
+			<impactparameter>0.5940</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-20 d</name>
@@ -117,5 +120,6 @@
 			<temperature>706.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
+		<age>8.800</age>
 	</star>
 </system>
