@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>CT Cha</name>
 	<rightascension>11 04 09</rightascension>
@@ -17,7 +16,7 @@
 		<planet>
 			<name>CT Cha B</name>
 			<list>Confirmed planets</list>
-			<mass lowerlimit="14" upperlimit="24"/>
+			<mass lowerlimit="14" upperlimit="24" />
 			<radius>2.4</radius>
 			<separation errorminus="0.036" errorplus="0.036" unit="arcsec">2.670</separation>
 			<separation unit="AU">440</separation>

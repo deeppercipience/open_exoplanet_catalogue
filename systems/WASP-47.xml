@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-47</name>
 	<name>K2-23</name>
@@ -29,7 +28,7 @@
 			<radius errorminus="0.039" errorplus="0.039">1.139</radius>
 			<period errorminus="0.0000049" errorplus="0.0000049">4.1591287</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.051</semimajoraxis>
-			<eccentricity upperlimit="0.026"/>
+			<eccentricity upperlimit="0.026" />
 			<inclination errorminus="0.27" errorplus="0.27">89.03</inclination>
 			<transittime errorminus="0.000023" errorplus="0.000023" unit="BJD">2457007.932131</transittime>
 			<spinorbitalignment errorminus="24" errorplus="24">0</spinorbitalignment>

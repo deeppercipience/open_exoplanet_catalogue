@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-98</name>
 	<rightascension>03 53 43</rightascension>
@@ -28,7 +27,7 @@
 			<period errorminus="0.0000013" errorplus="0.0000013">2.9626400</period>
 			<transittime errorminus="0.0001" errorplus="0.0001" unit="HJD">2456333.3913</transittime>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.036</semimajoraxis>
-			<eccentricity upperlimit="0.24"/>
+			<eccentricity upperlimit="0.24" />
 			<inclination errorminus="0.1" errorplus="0.1">86.3</inclination>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>

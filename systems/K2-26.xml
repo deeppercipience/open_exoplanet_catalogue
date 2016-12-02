@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>K2-26</name>
 	<name>EPIC 202083828</name>
@@ -28,7 +27,7 @@
 			<inclination errorminus="1.5" errorplus="1.2">88.4</inclination>
 			<semimajoraxis errorminus="0.0061" errorplus="0.0054">0.0962</semimajoraxis>
 			<radius errorminus="0.0375" errorplus="0.0410">0.2382</radius>
-			<eccentricity lowerlimit="0.14"/>
+			<eccentricity lowerlimit="0.14" />
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>

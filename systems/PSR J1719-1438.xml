@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>PSR J1719-1438</name>
 	<rightascension>17 19 10.0730</rightascension>
@@ -16,7 +15,7 @@
 			<name>PSR J1719-14 b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">1.21</mass>
-			<radius upperlimit="0.59"/>
+			<radius upperlimit="0.59" />
 			<period errorminus="0.000000002" errorplus="0.000000002">0.090706293</period>
 			<semimajoraxis>0.00442</semimajoraxis>
 			<eccentricity upperlimit="0.06">0.060000</eccentricity>
@@ -25,7 +24,7 @@
 			<discoverymethod>Pulsar Timing</discoverymethod>
 			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature upperlimit="4500"/>
+			<temperature upperlimit="4500" />
 			<istransiting>0</istransiting>
 		</planet>
 	</star>

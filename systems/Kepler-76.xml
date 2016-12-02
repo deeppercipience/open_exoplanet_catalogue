@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-76</name>
 	<name>KIC 4570949</name>
@@ -28,7 +27,7 @@
 			<period errorminus="0.00000027" errorplus="0.00000027">1.54492875</period>
 			<inclination errorminus="0.2" errorplus="0.2">78</inclination>
 			<transittime errorminus="0.00007" errorplus="0.00007" unit="BJD">2454966.54811</transittime>
-			<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname &quot;Einstein's Planet&quot; because the confirmation method makes use of special relativity.</description>
+			<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname "Einstein's Planet" because the confirmation method makes use of special relativity.</description>
 			<discoverymethod>Orbital Brightness Modulation</discoverymethod>
 			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
