@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>LkCa 15</name>
 	<rightascension>04 39 18</rightascension>
@@ -27,5 +28,15 @@
 		</planet>
 		<name>LkCa 15</name>
 		<temperature>5150.0</temperature>
+		<planet>
+			<name>LkCa 15 c</name>
+			<list>Confirmed planets</list>
+			<semimajoraxis>18.600000</semimajoraxis>
+			<inclination>50.000</inclination>
+			<discoverymethod>Imaging</discoverymethod>
+			<istransiting>0</istransiting>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
 	</star>
 </system>
