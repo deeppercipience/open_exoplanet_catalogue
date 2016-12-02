@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 145934</name>
 	<rightascension>16 13 09.9</rightascension>
@@ -26,9 +27,9 @@
 			<periastron errorminus="62" errorplus="62">215</periastron>
 			<periastrontime errorminus="370" errorplus="370" unit="BJD">2451430</periastrontime>
 			<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
-			<discoverymethod>RV</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>15/08/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
