@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-621</name>
 	<rightascension>19 23 43</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000001770" errorplus="0.000001770">2.628113750</period>
 			<radius errorminus="0.017" errorplus="0.006">0.205</radius>
 		</planet>
+		<age>3.630</age>
+		<magJ>13.153</magJ>
+		<magH>12.529</magH>
+		<magK>12.407</magK>
 	</star>
 </system>
