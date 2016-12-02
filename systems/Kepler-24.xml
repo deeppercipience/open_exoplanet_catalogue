@@ -40,15 +40,17 @@
 			<name>KOI-1102.02</name>
 			<name>KIC 3231341 b</name>
 			<name>KIC 3231341.02</name>
-			<radius errorminus="0.07746" errorplus="0.07746">0.31258</radius>
+			<radius errorminus="0.07746" errorplus="0.07746">0.214</radius>
 			<period errorminus=".000059" errorplus="0.000059">8.145207</period>
 			<transittime errorminus="0.0042500" errorplus="0.0042500">2454973.5633000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-24 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-24 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>1.60000</mass>
+			<semimajoraxis>0.080000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-24 e</name>
