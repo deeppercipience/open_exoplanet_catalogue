@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>BD-11 4672</name>
 	<rightascension>18 33 28.83271</rightascension>
@@ -21,7 +22,7 @@
 		<magV errorminus="0.05" errorplus="0.05">9.99</magV>
 		<magB errorminus="0.10" errorplus="0.10">11.21</magB>
 		<magR>9.60</magR>
-		<magI errorminus="0.05" errorplus="0.05">9.02</magI>
+		<magI errorminus="0.05" errorplus="0.05">8.540</magI>
 		<magJ errorminus="0.023" errorplus="0.023">7.651</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.031</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.867</magK>
@@ -35,9 +36,10 @@
 			<maximumrvtime errorminus="46" errorplus="38">2455899</maximumrvtime>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
