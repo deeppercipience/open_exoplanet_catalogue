@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 86264</name>
 	<rightascension>09 56 58</rightascension>
@@ -20,10 +21,12 @@
 			<period>1475</period>
 			<semimajoraxis>2.86</semimajoraxis>
 			<eccentricity>0.7</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>214.2</temperature>
+			<periastron>306.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 86264</name>
 		<temperature>6210.0</temperature>
