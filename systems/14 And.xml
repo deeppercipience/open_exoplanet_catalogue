@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>14 And</name>
 	<rightascension>23 31 17.41346</rightascension>
@@ -23,7 +24,7 @@
 		<magK errorminus="0.240" errorplus="0.240">2.331</magK>
 		<temperature errorminus="20" errorplus="20">4813</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.24</metallicity>
-		<spectraltype>K0III</spectraltype>
+		<spectraltype>G8 III</spectraltype>
 		<planet>
 			<name>14 And b</name>
 			<name>14 Andromedae b</name>
@@ -36,9 +37,10 @@
 			<periastron>0</periastron>
 			<periastrontime errorminus="1.5" errorplus="1.5">2452861.4</periastrontime>
 			<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly an A-type dwarf.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
