@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-62</name>
 	<name>KIC-9002278</name>
@@ -89,7 +90,7 @@
 			<inclination>89.98</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454983.404</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Kepler-62 e is one of them.  Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<image>Kepler62e</image>
@@ -97,6 +98,8 @@
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<mass>0.11300</mass>
+			<impactparameter>0.0600</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-62 f</name>
