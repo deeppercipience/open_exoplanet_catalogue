@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>61 Vir</name>
 	<rightascension>13 18 24.31427</rightascension>
@@ -24,7 +25,7 @@
 		<magK errorminus="0.236" errorplus="0.236">2.956</magK>
 		<metallicity>0.05</metallicity>
 		<temperature>5571</temperature>
-		<age errorminus="3.1" errorplus="3.3">6.3</age>
+		<age errorminus="3.1" errorplus="3.3">8.960</age>
 		<spectraltype>G5V</spectraltype>
 		<planet>
 			<name>61 Vir b</name>
@@ -50,9 +51,10 @@
 			<meananomaly errorminus="40" errorplus="40">177</meananomaly>
 			<periastron errorminus="38" errorplus="38">341</periastron>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>61 Vir d</name>
@@ -68,5 +70,7 @@
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
+		<magR>4.330</magR>
+		<magI>3.970</magI>
 	</star>
 </system>
