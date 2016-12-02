@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-434</name>
 	<rightascension>19 34 20.729</rightascension>
@@ -31,9 +32,13 @@
 			<inclination errorminus="0.74" errorplus="0.38">86.46</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="45" errorplus="45">1000</temperature>
+			<eccentricity>0.131000</eccentricity>
+			<periastron>82.0000</periastron>
+			<impactparameter>0.9790</impactparameter>
 		</planet>
+		<age>4.000</age>
 	</star>
 </system>
