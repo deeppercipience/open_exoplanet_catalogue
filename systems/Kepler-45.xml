@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-45</name>
 	<rightascension>19 31 30</rightascension>
@@ -15,7 +16,7 @@
 		<temperature errorminus="90" errorplus="90">3820</temperature>
 		<radius errorminus="0.11" errorplus="0.11">0.55</radius>
 		<mass errorminus="0.06" errorplus="0.06">0.59</mass>
-		<age errorminus="3.6000" errorplus="3.6000">13.9000</age>
+		<age errorminus="3.6000" errorplus="3.6000">0.500</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.08</metallicity>
 		<spectraltype>M</spectraltype>
 		<planet>
@@ -27,16 +28,18 @@
 			<mass errorminus="0.09" errorplus="0.09">0.505</mass>
 			<period errorminus="5e-06" errorplus="5e-06">2.455239</period>
 			<transittime errorminus="0.0000390" errorplus="0.0000390">2455003.8210080</transittime>
-			<semimajoraxis errorminus="0.003" errorplus="0.003">0.027</semimajoraxis>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.030000</semimajoraxis>
 			<inclination errorminus="0.7" errorplus="0.7">87</inclination>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.11</eccentricity>
 			<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
-			<temperature>774.0</temperature>
+			<temperature>1000</temperature>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/03/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron>230.0000</periastron>
+			<impactparameter>0.6000</impactparameter>
 		</planet>
 	</star>
 </system>
