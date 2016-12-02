@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-570</name>
 	<rightascension>19 21 45</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003100" errorplus="0.000003100">4.301662000</period>
 			<radius errorminus="0.013" errorplus="0.030">0.219</radius>
 		</planet>
+		<age>5.010</age>
+		<magJ>13.070</magJ>
+		<magH>12.719</magH>
+		<magK>12.605</magK>
 	</star>
 </system>
