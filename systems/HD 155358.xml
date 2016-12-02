@@ -36,10 +36,12 @@
 			<period>391.9</period>
 			<semimajoraxis>1.02</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>299.1</temperature>
+			<periastron>180.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 155358</name>
 		<temperature>5900.0</temperature>
