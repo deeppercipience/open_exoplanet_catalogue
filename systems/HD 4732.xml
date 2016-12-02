@@ -28,9 +28,11 @@
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.13</eccentricity>
 			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/10/26</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<periastron>85.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 4732 c</name>
