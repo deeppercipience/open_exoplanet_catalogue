@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 204313</name>
 	<rightascension>21 28 12</rightascension>
@@ -18,15 +17,13 @@
 			<name>HD 204313 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.55</mass>
-			<period>2024.10000000</period>
+			<period>1920.1</period>
 			<semimajoraxis>3.04</semimajoraxis>
-			<eccentricity>0.094600</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<eccentricity>0.23</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/05/22</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>153.8</temperature>
-			<periastron>292.5000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 204313 c</name>
@@ -34,14 +31,12 @@
 			<mass>0.054</mass>
 			<period>34.873</period>
 			<semimajoraxis>0.2103</semimajoraxis>
-			<eccentricity>0.155000</eccentricity>
+			<eccentricity>0.17</eccentricity>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>585.7</temperature>
-			<periastron>238.0000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 204313 d</name>

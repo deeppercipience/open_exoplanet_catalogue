@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1072</name>
 	<rightascension>19 28 11</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002900" errorplus="0.000002900">1.569066500</period>
 			<radius errorminus="0.021" errorplus="0.064">0.141</radius>
 		</planet>
-		<age>2.880</age>
-		<magJ>12.852</magJ>
-		<magH>12.604</magH>
-		<magK>12.566</magK>
 	</star>
 </system>

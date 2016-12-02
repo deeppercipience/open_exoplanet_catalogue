@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-29</name>
 	<rightascension>18 35 36.50</rightascension>
@@ -31,11 +30,9 @@
 			<inclination errorminus="2.7" errorplus="2.7">87.3</inclination>
 			<description>CoRoT-29 b is a Jupiter-sized planet orbiting an oblate star. The transit dircovered is significantly asymmetric, a signature that the host star could have a non-spherical shape. It was discovered by the European space mission CoRoT.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/04/07</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-			<periastron>87.0000</periastron>
-			<impactparameter>0.4300</impactparameter>
 		</planet>
 	</star>
 </system>

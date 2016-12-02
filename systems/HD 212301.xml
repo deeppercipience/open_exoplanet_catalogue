@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 212301</name>
 	<rightascension>22 27 30</rightascension>
@@ -17,17 +16,12 @@
 			<period>2.245715</period>
 			<semimajoraxis>0.036</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1541.3</temperature>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 212301</name>
 		<temperature>5998.0</temperature>
-		<age>1.000</age>
-		<magJ>6.765</magJ>
-		<magH>6.522</magH>
-		<magK>6.466</magK>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1503</name>
 	<rightascension>19 34 55</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001180000" errorplus="0.001180000">96.169870000</period>
 			<radius errorminus="0.021" errorplus="0.017">0.203</radius>
 		</planet>
-		<age>5.130</age>
-		<magJ>14.353</magJ>
-		<magH>13.820</magH>
-		<magK>13.767</magK>
 	</star>
 </system>

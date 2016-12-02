@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-55</name>
 	<name>KOI-904</name>
@@ -28,11 +27,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-55 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<semimajoraxis>0.029000</semimajoraxis>
-			<impactparameter>0.0200</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-55 b</name>
@@ -40,16 +37,15 @@
 			<name>KOI-904.02</name>
 			<name>KIC 8150320 b</name>
 			<name>KIC 8150320.02</name>
-			<radius errorminus="0.01094" errorplus="0.01094">0.217</radius>
+			<radius errorminus="0.01094" errorplus="0.01094">0.19684</radius>
 			<period errorminus=".000176" errorplus="0.000176">27.953314</period>
 			<transittime errorminus="0.0030900" errorplus="0.0030900">2455011.7569100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<mass>1.49000</mass>
 		</planet>
 		<planet>
 			<name>Kepler-55 c</name>
@@ -63,10 +59,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-55 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<mass>1.11000</mass>
 		</planet>
 		<planet>
 			<name>Kepler-55 e</name>
@@ -80,11 +75,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-55 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<semimajoraxis>0.048000</semimajoraxis>
-			<impactparameter>0.7200</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-55 f</name>
@@ -98,11 +91,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-55 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<semimajoraxis>0.081000</semimajoraxis>
-			<impactparameter>0.4600</impactparameter>
 		</planet>
 	</star>
 </system>

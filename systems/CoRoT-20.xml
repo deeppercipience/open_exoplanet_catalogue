@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-20</name>
 	<rightascension>06 30 53</rightascension>
@@ -31,12 +30,10 @@
 			<inclination errorminus="0.53" errorplus="0.53">88.21</inclination>
 			<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455266.0001</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>11/06/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="24" errorplus="24">1002</temperature>
 			<istransiting>1</istransiting>
-			<periastron>56.3000</periastron>
-			<impactparameter>0.2600</impactparameter>
 		</planet>
 		<name>CoRoT-20</name>
 		<temperature errorminus="90" errorplus="90">5880.0</temperature>

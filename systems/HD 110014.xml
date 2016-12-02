@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 110014</name>
 	<rightascension>12 39 14</rightascension>
@@ -15,16 +14,15 @@
 			<name>HD 110014 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="1.0" errorplus="1.0">10.7</mass>
-			<period errorminus="21.5" errorplus="21.5">835.47700000</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">2.140000</semimajoraxis>
-			<eccentricity errorminus="0.1" errorplus="0.1">0.462000</eccentricity>
-			<periastron errorminus="15.5" errorplus="15.5">290.6000</periastron>
+			<period errorminus="21.5" errorplus="21.5">882.6</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.31</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.26</eccentricity>
+			<periastron errorminus="15.5" errorplus="15.5">47.72</periastron>
 			<periastrontime errorminus="50.2" errorplus="50.2">2453739.4</periastrontime>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/05/24</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<description>HD 110014 b is a planet in an eccentric orbit around a red giant star.</description>
-			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 110014 c</name>
@@ -42,11 +40,5 @@
 		</planet>
 		<name>HD 110014</name>
 		<temperature>4445.0</temperature>
-		<age>0.950</age>
-		<magR>5.275</magR>
-		<magI>3.507</magI>
-		<magJ>2.674</magJ>
-		<magH>2.172</magH>
-		<magK>2.011</magK>
 	</star>
 </system>

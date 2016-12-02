@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-45</name>
 	<rightascension>18 17 29</rightascension>
@@ -36,10 +35,9 @@
 			<periastron errorminus="98" errorplus="98">146</periastron>
 			<description>This planet was discovered by the HATNet transit survey. The RV data suggest there might be a second planet in the system. However, the data currently preferres a single planet solution.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>13/08/16</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-			<impactparameter>0.2810</impactparameter>
 		</planet>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 162020</name>
 	<rightascension>17 50 38</rightascension>
@@ -13,7 +12,7 @@
 		<magK errorminus="0.024" errorplus="0.024">6.539</magK>
 		<magB errorminus="0.04" errorplus="0.04">10.11</magB>
 		<metallicity>0.01</metallicity>
-		<spectraltype>K3 V</spectraltype>
+		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>HD 162020 b</name>
 			<list>Confirmed planets</list>
@@ -21,15 +20,12 @@
 			<period>8.428198</period>
 			<semimajoraxis>0.074</semimajoraxis>
 			<eccentricity>0.277</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>656.4</temperature>
-			<periastron>-27.3280</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 162020</name>
 		<temperature>4830.0</temperature>
-		<age>6.000</age>
 	</star>
 </system>

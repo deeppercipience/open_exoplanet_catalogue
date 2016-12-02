@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-54</name>
 	<rightascension>06 39 36</rightascension>
@@ -23,19 +22,14 @@
 			<radius errorminus="0.028" errorplus="0.028">0.944</radius>
 			<temperature errorminus="12" errorplus="12">818</temperature>
 			<semimajoraxis errorminus="0.00043" errorplus="0.00043">0.04117</semimajoraxis>
-			<eccentricity upperlimit="0.074">0.074000</eccentricity>
+			<eccentricity upperlimit="0.074" />
 			<inclination errorminus="0.084" errorplus="0.084">87.040</inclination>
 			<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2456299.30370</transittime>
 			<description>This planet was discovered by the HATNet transit survey. The star is located in field 0 of the NASA K2 mission. Follow-up high-precision photometric observations by the Kepler spacecraft could make this a well-studied planetary system.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/04/18</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-			<impactparameter>0.7410</impactparameter>
-			<period>3.79984700</period>
 		</planet>
-		<magJ>11.145</magJ>
-		<magH>10.487</magH>
-		<magK>10.326</magK>
 	</star>
 </system>

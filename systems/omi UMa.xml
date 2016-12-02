@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>omi UMa</name>
 	<rightascension>08 30 15.87064</rightascension>
@@ -30,7 +29,7 @@
 		<magH>1.40</magH>
 		<magK>1.34</magK>
 		<metallicity errorminus="0.02" errorplus="0.02">-0.09</metallicity>
-		<spectraltype>G5 III</spectraltype>
+		<spectraltype>G4 II-III</spectraltype>
 		<planet>
 			<name>omi UMa b</name>
 			<name>Omicron Ursae Majoris b</name>
@@ -46,10 +45,9 @@
 			<periastron errorminus="42" errorplus="42">58</periastron>
 			<periastrontime errorminus="170" errorplus="170">2453400</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

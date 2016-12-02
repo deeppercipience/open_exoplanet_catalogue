@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-980</name>
 	<rightascension>19 38 27</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000027540" errorplus="0.000027540">11.551025040</period>
 			<radius errorminus="0.040" errorplus="0.021">0.238</radius>
 		</planet>
-		<age>3.550</age>
-		<magJ>13.022</magJ>
-		<magH>12.714</magH>
-		<magK>12.665</magK>
 	</star>
 </system>

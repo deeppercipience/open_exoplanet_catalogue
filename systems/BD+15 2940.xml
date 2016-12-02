@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>BD+15 2940</name>
 	<name>HIP 78407</name>
@@ -33,10 +32,9 @@
 			<eccentricity errorminus="0.10" errorplus="0.10">0.26</eccentricity>
 			<periastron errorminus="33" errorplus="33">302</periastron>
 			<description>The planet BD+15 2940 b was discovered by the Penn State - Torun Planet Search (PTPS) using ground based spectrometer. It is the closest-in planet around a giant star. It might soon be swallowed by the star as a consequence of stellar evolution.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/11/23</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

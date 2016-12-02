@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1353</name>
 	<rightascension>19 42 56</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000143100" errorplus="0.000143100">24.754396600</period>
 			<radius errorminus="0.012" errorplus="0.033">0.161</radius>
 		</planet>
-		<age>4.680</age>
-		<magJ>13.850</magJ>
-		<magH>13.281</magH>
-		<magK>13.141</magK>
 	</star>
 </system>

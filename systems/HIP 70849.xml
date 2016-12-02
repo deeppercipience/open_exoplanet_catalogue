@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HIP 70849</name>
 	<rightascension>14 29 19</rightascension>
@@ -17,19 +16,18 @@
 			<magJ errorminus="0.023" errorplus="0.023">7.639</magJ>
 			<magH errorminus="0.061" errorplus="0.061">7.006</magH>
 			<magK errorminus="0.027" errorplus="0.027">6.790</magK>
-			<spectraltype>K7 V k</spectraltype>
+			<spectraltype>K7V</spectraltype>
 			<planet>
 				<name>HIP 70849 b</name>
 				<list>Confirmed planets</list>
 				<mass>9</mass>
-				<period>17337.50000000</period>
-				<semimajoraxis>20.250000</semimajoraxis>
-				<eccentricity>0.715000</eccentricity>
-				<discoverymethod>Radial Velocity</discoverymethod>
-				<lastupdate>16/12/01</lastupdate>
+				<period>10000</period>
+				<semimajoraxis>10</semimajoraxis>
+				<eccentricity>0.6</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>11/07/05</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-				<istransiting>0</istransiting>
 			</planet>
 			<name>HIP 70849</name>
 			<temperature>4105.0</temperature>

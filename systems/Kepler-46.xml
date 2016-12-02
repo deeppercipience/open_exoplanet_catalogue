@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-46</name>
 	<name>KOI-872</name>
@@ -23,21 +22,19 @@
 			<name>KOI-872.01</name>
 			<name>KIC 7109675 b</name>
 			<name>KIC 7109675.01</name>
-			<radius errorminus="0.00273" errorplus="0.36726">0.808</radius>
+			<radius errorminus="0.00273" errorplus="0.36726">0.65705</radius>
 			<period errorminus=".000030" errorplus="0.000030">33.601528</period>
 			<transittime errorminus="0.0004600" errorplus="0.0004600">2455019.6776800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-46 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/03/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<temperature>543</temperature>
 			<inclination>89.038</inclination>
 			<eccentricity>0.010</eccentricity>
 			<semimajoraxis>0.19680</semimajoraxis>
 			<istransiting>1</istransiting>
-			<mass>6.00000</mass>
-			<impactparameter>0.7570</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-46 c</name>
@@ -47,14 +44,13 @@
 			<period errorminus="0.000030" errorplus="0.000030">57.011</period>
 			<list>Confirmed planets</list>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
-			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>14/03/06</lastupdate>
+			<discoverymethod>transit</discoverymethod>
 			<temperature>455</temperature>
 			<inclination>87.400</inclination>
 			<eccentricity>0.015</eccentricity>
 			<semimajoraxis>0.27990</semimajoraxis>
 			<istransiting>1</istransiting>
-			<periastron>330.0000</periastron>
 		</planet>
 		<planet>
 			<name>Kepler-46 d</name>
@@ -68,14 +64,12 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-46 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/03/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<temperature>793</temperature>
 			<inclination>88.240</inclination>
 			<semimajoraxis>0.06700</semimajoraxis>
 			<istransiting>1</istransiting>
-			<impactparameter>0.2400</impactparameter>
 		</planet>
-		<age>9.700</age>
 	</star>
 </system>

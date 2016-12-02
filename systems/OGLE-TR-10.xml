@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>OGLE-TR-10</name>
 	<rightascension>17 51 28</rightascension>
@@ -9,7 +8,7 @@
 		<radius>1.52</radius>
 		<metallicity>0.28</metallicity>
 		<spectraltype>G2V</spectraltype>
-		<magV>14.930</magV>
+		<magV>15.780</magV>
 		<magI>14.92</magI>
 		<magJ>13.962</magJ>
 		<magH>13.314</magH>
@@ -18,21 +17,20 @@
 			<name>OGLE-TR-10 b</name>
 			<name>V5125 Sgr b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.15" errorplus="0.15">0.62000</mass>
-			<radius errorminus="0.11" errorplus="0.11">1.250</radius>
+			<mass errorminus="0.15" errorplus="0.15">0.68</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.72</radius>
 			<period>3.10129</period>
 			<semimajoraxis>0.04516</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>90.000</inclination>
+			<inclination>84.5</inclination>
 			<transittime errorminus="0.00056" errorplus="0.00056" unit="HJD">2453921.68315</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>10/06/24</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature errorminus="54" errorplus="54">1702</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>OGLE-TR-10</name>
 		<temperature>6075.0</temperature>
-		<magR>14.080</magR>
 	</star>
 </system>

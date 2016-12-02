@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-85</name>
 	<name>KOI-2038</name>
@@ -28,7 +27,7 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-85 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -38,13 +37,13 @@
 			<name>KOI-2038.02</name>
 			<name>KIC 8950568 c</name>
 			<name>KIC 8950568.02</name>
-			<radius errorminus="0.03827" errorplus="0.03827">0.194</radius>
+			<radius errorminus="0.03827" errorplus="0.03827">0.20778</radius>
 			<period errorminus=".000088" errorplus="0.000088">12.512598</period>
 			<transittime errorminus="0.0041500" errorplus="0.0041500">2454972.4398800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-85 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -60,11 +59,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-85 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<semimajoraxis>0.130000</semimajoraxis>
-			<impactparameter>0.0000</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-85 e</name>
@@ -78,11 +75,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-85 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<semimajoraxis>0.163000</semimajoraxis>
-			<impactparameter>0.2000</impactparameter>
 		</planet>
 	</star>
 </system>

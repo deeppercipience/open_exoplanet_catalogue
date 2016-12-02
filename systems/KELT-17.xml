@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>KELT-17</name>
 	<rightascension>08 22 28.21</rightascension>
@@ -29,13 +28,8 @@
 			<description>KELT-17 b is highly misaligned with respect to the stellar spin axis and was used to measure the level of differential rotation of its host star. Jointly discovered with KELT-North and KELT-South.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/07/19</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-			<inclination>84.870</inclination>
-			<impactparameter>0.5700</impactparameter>
 		</planet>
-		<age>0.650</age>
-		<spectraltype>A</spectraltype>
-		<magI>8.948</magI>
 	</star>
 </system>

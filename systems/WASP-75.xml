@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-75</name>
 	<rightascension>22 49 33</rightascension>
@@ -31,12 +30,10 @@
 			<inclination errorminus="0.2" errorplus="0.3">82.0</inclination>
 			<eccentricity>0</eccentricity>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>13/07/25</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>WASP-75 b is a transiting Hot Jupiter. Its radius is slightly inflated as compared to theoretical planet models with no core.</description>
 			<istransiting>1</istransiting>
-			<impactparameter>0.8820</impactparameter>
 		</planet>
-		<age>3.500</age>
 	</star>
 </system>

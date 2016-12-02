@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 149026</name>
 	<rightascension>16 30 29</rightascension>
@@ -13,26 +12,24 @@
 		<magH errorminus="0.011" errorplus="0.011">6.899</magH>
 		<magK errorminus="0.009" errorplus="0.009">6.819</magK>
 		<metallicity>0.36</metallicity>
-		<spectraltype>G0</spectraltype>
+		<spectraltype>G0IV</spectraltype>
 		<planet>
 			<name>HD 149026 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.356</mass>
-			<radius>0.813</radius>
+			<radius>0.718</radius>
 			<period>2.8758916</period>
 			<semimajoraxis>0.04288</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>85.3</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2453317.836</transittime>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>12/07/05</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1601.5</temperature>
 			<istransiting>1</istransiting>
-			<impactparameter>0.5710</impactparameter>
 		</planet>
 		<name>HD 149026</name>
 		<temperature>6147.0</temperature>
-		<age>2.600</age>
 	</star>
 </system>

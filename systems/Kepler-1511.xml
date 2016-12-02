@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1511</name>
 	<rightascension>19 13 41</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000222000" errorplus="0.000222000">23.238279200</period>
 			<radius errorminus="0.021" errorplus="0.062">0.150</radius>
 		</planet>
-		<age>3.310</age>
-		<magJ>12.713</magJ>
-		<magH>12.544</magH>
-		<magK>12.471</magK>
 	</star>
 </system>

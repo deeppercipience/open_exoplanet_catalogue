@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>OGLE2-TR-L9</name>
 	<rightascension>11 07 55</rightascension>
@@ -25,7 +24,7 @@
 			<inclination>79.8</inclination>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454492.80008</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>2154.6</temperature>
 			<istransiting>1</istransiting>

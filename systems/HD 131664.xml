@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 131664</name>
 	<rightascension>15 00 06.08</rightascension>
@@ -23,7 +22,7 @@
 		<age errorminus="1.8" errorplus="1.8">2.4</age>
 		<planet>
 			<name>HD 131664 b</name>
-			<list>Confirmed planets</list>
+			<list>Controversial</list>
 			<period errorminus="41" errorplus="41">1951</period>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">3.17</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.638</eccentricity>
@@ -31,11 +30,9 @@
 			<mass lowerlimit="36.3" upperlimit="139.7">85.2</mass>
 			<inclination lowerlimit="149.3" upperlimit="171.9">167.1</inclination>
 			<ascendingnode lowerlimit="276.4" upperlimit="10.0">320.8</ascendingnode>
-			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoverymethod>RV</discoverymethod>
 			<description>HD 131664 b was originally detected by radial velocity measurements, giving a minimum mass of 18.15 Jupiter masses. Using Hipparcos astrometry, the inclination and true mass have been determined, indicating that the object is either a massive brown dwarf or a low-mass star.</description>
-			<lastupdate>16/12/01</lastupdate>
-			<istransiting>0</istransiting>
-			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/01/14</lastupdate>
 		</planet>
 	</star>
 </system>

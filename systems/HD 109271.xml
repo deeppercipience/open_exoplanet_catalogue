@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 109271</name>
 	<distance>62</distance>
@@ -26,12 +25,11 @@
 			<semimajoraxis>0.079</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
 			<periastron>-64</periastron>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/01/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
 			<temperature>1076.0</temperature>
-			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 109271 c</name>
@@ -42,12 +40,11 @@
 			<semimajoraxis>0.196</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<periastron>4</periastron>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/01/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
 			<temperature>684.9</temperature>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

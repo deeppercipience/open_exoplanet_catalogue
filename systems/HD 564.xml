@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 564</name>
 	<rightascension>00 09 52.82123</rightascension>
@@ -17,7 +16,7 @@
 		<temperature errorminus="61" errorplus="61">5902</temperature>
 		<age errorminus="3.1" errorplus="3.1">5.5</age>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.2</metallicity>
-		<spectraltype>G2/G3 V</spectraltype>
+		<spectraltype>G2</spectraltype>
 		<magV errorminus="0.01" errorplus="0.01">8.29</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.90</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.218</magJ>
@@ -31,12 +30,11 @@
 			<mass errorminus="0.03" errorplus="0.03" type="msini">0.33</mass>
 			<periastron errorminus="31" errorplus="31">314</periastron>
 			<maximumrvtime errorminus="9" errorplus="9">2455433</maximumrvtime>
-			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoverymethod>RV</discoverymethod>
 			<list>Confirmed planets</list>
 			<description>HD 564 is a metal poor star. The planet around this star has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
-			<istransiting>0</istransiting>
+			<lastupdate>15/11/17</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-80</name>
 	<name>KOI-500</name>
@@ -28,12 +27,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-80 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<mass>0.02180</mass>
-			<semimajoraxis>0.064800</semimajoraxis>
-			<inclination>89.340</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-80 c</name>
@@ -41,18 +37,15 @@
 			<name>KOI-500.02</name>
 			<name>KIC 4852528 c</name>
 			<name>KIC 4852528.02</name>
-			<radius errorminus="0.02643" errorplus="0.02643">0.244</radius>
+			<radius errorminus="0.02643" errorplus="0.02643">0.25972</radius>
 			<period errorminus=".000018" errorplus="0.000018">9.521772</period>
 			<transittime errorminus="0.0009700" errorplus="0.0009700">2455010.4781200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-80 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<mass>0.02121</mass>
-			<semimajoraxis>0.079200</semimajoraxis>
-			<inclination>89.330</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-80 d</name>
@@ -60,18 +53,15 @@
 			<name>KOI-500.03</name>
 			<name>KIC 4852528 d</name>
 			<name>KIC 4852528.03</name>
-			<radius errorminus="0.01823" errorplus="0.01823">0.136</radius>
+			<radius errorminus="0.01823" errorplus="0.01823">0.15857</radius>
 			<period errorminus=".000010" errorplus="0.000010">3.072186</period>
 			<transittime errorminus="0.0016900" errorplus="0.0016900">2454967.0214900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-80 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<mass>0.02124</mass>
-			<semimajoraxis>0.037200</semimajoraxis>
-			<inclination>88.350</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-80 e</name>
@@ -85,28 +75,21 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-80 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<mass>0.01299</mass>
-			<semimajoraxis>0.049100</semimajoraxis>
-			<inclination>88.790</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-80 f</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000001580" errorplus="0.000001580">0.986787060</period>
 			<radius errorminus="0.003" errorplus="0.005">0.110</radius>
-			<semimajoraxis>0.017500</semimajoraxis>
-			<inclination>86.500</inclination>
 		</planet>
-		<age>2.000</age>
-		<spectraltype>K5</spectraltype>
 	</star>
 </system>

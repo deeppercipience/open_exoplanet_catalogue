@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-9</name>
 	<rightascension>19 02 17</rightascension>
@@ -31,9 +30,9 @@
 			<transittime errorminus="0.00052" errorplus="0.00052" unit="BJD">2455073.43381</transittime>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.143</semimajoraxis>
 			<inclination errorminus="0.7" errorplus="0.7">87.1</inclination>
-			<eccentricity errorminus="0.001" errorplus="0.001">0.150000</eccentricity>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.0626</eccentricity>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>707.2</temperature>
 			<istransiting>1</istransiting>
@@ -50,10 +49,10 @@
 			<period errorminus="0.0002" errorplus="0.0002">39.03106</period>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.229</semimajoraxis>
 			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
-			<eccentricity errorminus="0.0002" errorplus="0.0002">0.130000</eccentricity>
+			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0684</eccentricity>
 			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455164.18301</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>557.9</temperature>
 			<istransiting>1</istransiting>
@@ -71,11 +70,10 @@
 			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.0271</semimajoraxis>
 			<transittime errorminus="0.0033" errorplus="0.0018" unit="BJD">2455015.0943</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/03/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>2026</temperature>
+			<temperature>1601.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<age>1.000</age>
 	</star>
 </system>

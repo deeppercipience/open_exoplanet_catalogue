@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 6434</name>
 	<rightascension>01 04 40.15077</rightascension>
@@ -22,7 +21,7 @@
 		<magK errorminus="0.026" errorplus="0.026">6.187</magK>
 		<temperature errorminus="92" errorplus="92">5690</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
-		<spectraltype>G2/3 V</spectraltype>
+		<spectraltype>G3 IV</spectraltype>
 		<age errorminus="2.12" errorplus="2.12">11.27</age>
 		<planet>
 			<name>HD 6434 b</name>
@@ -33,10 +32,9 @@
 			<eccentricity errorminus="0.025" errorplus="0.025">0.146</eccentricity>
 			<periastron errorminus="10.5" errorplus="10.5">163.2</periastron>
 			<periastrontime errorminus="0.638" errorplus="0.638">2451909.308</periastrontime>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/10/16</lastupdate>
 			<discoveryyear>2000</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

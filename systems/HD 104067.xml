@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 104067</name>
 	<rightascension>11 59 10</rightascension>
@@ -22,15 +21,12 @@
 			<period>55.806</period>
 			<semimajoraxis>0.2643</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/07/05</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>363.2</temperature>
-			<periastron>0.0000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 104067</name>
 		<temperature>4969.0</temperature>
-		<age>4.330</age>
 	</star>
 </system>

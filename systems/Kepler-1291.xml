@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1291</name>
 	<rightascension>19 17 30</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000067310" errorplus="0.000067310">8.630432760</period>
 			<radius errorminus="0.016" errorplus="0.009">0.148</radius>
 		</planet>
-		<age>4.900</age>
-		<magJ>14.412</magJ>
-		<magH>13.966</magH>
-		<magK>13.893</magK>
 	</star>
 </system>
