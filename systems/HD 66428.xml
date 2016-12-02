@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 66428</name>
 	<rightascension>08 03 28.7</rightascension>
@@ -18,21 +19,22 @@
 		<magK errorminus="0.021" errorplus="0.021">6.66</magK>
 		<magB errorminus="0.02" errorplus="0.02">8.97</magB>
 		<metallicity errorminus="0.030" errorplus="0.030">0.310</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G8 IV (+ G)</spectraltype>
 		<temperature errorminus="44" errorplus="44">5752</temperature>
 		<planet>
 			<name>HD 66428 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.060" errorplus="0.060">3.194</mass>
-			<period errorminus="6.4" errorplus="6.4">2293</period>
-			<semimajoraxis errorminus="0.069" errorplus="0.069">3.471</semimajoraxis>
-			<eccentricity errorminus="0.013" errorplus="0.013">0.440</eccentricity>
+			<period errorminus="6.4" errorplus="6.4">1973.00000000</period>
+			<semimajoraxis errorminus="0.069" errorplus="0.069">3.180000</semimajoraxis>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.465000</eccentricity>
 			<periastrontime errorminus="16" errorplus="16" unit="BJD">2452278</periastrontime>
-			<periastron errorminus="2.6" errorplus="2.6">180.4</periastron>
-			<discoverymethod>RV</discoverymethod>
+			<periastron errorminus="2.6" errorplus="2.6">152.9000</periastron>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>HD 66428 b is a long-period giant planaet in an eccentric orbit. The radial velocities for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
