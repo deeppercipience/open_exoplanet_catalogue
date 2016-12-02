@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 86081</name>
 	<rightascension>09 56 06</rightascension>
@@ -18,12 +19,14 @@
 			<list>Confirmed planets</list>
 			<mass>1.5</mass>
 			<period>2.1375</period>
-			<semimajoraxis>0.039</semimajoraxis>
+			<semimajoraxis>0.035000</semimajoraxis>
 			<eccentricity>0.008</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>1486.6</temperature>
+			<periastron>251.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 86081</name>
 		<temperature>6028.0</temperature>
