@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-742</name>
 	<rightascension>18 55 28</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000006310" errorplus="0.000006310">8.360868240</period>
 			<radius errorminus="0.015" errorplus="0.010">0.289</radius>
 		</planet>
+		<age>2.570</age>
+		<magJ>13.496</magJ>
+		<magH>12.962</magH>
+		<magK>12.817</magK>
 	</star>
 </system>
