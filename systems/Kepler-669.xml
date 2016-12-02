@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-669</name>
 	<rightascension>19 27 45</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003100" errorplus="0.000003100">4.125546870</period>
 			<radius errorminus="0.049" errorplus="0.114">0.431</radius>
 		</planet>
+		<age>3.160</age>
+		<magJ>14.380</magJ>
+		<magH>14.083</magH>
+		<magK>14.198</magK>
 	</star>
 </system>
