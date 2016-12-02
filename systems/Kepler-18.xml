@@ -32,10 +32,12 @@
 			<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2454966.5068</transittime>
 			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/10/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1181.7</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity>0.000000</eccentricity>
+			<impactparameter>0.7710</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-18 c</name>
