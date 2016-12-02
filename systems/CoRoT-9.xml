@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-9</name>
 	<rightascension>18 43 09</rightascension>
@@ -29,10 +30,12 @@
 			<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2454603.3454</transittime>
 			<description>The star CoRoT 9 is located in the constellation Serpens. The density of the planet is approximately that of water.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/03/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>376.6</temperature>
 			<istransiting>1</istransiting>
+			<periastron>37.0000</periastron>
+			<impactparameter>0.0100</impactparameter>
 		</planet>
 		<name>CoRoT-9</name>
 		<temperature>5625.0</temperature>
