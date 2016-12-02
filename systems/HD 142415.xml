@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 142415</name>
 	<rightascension>15 57 40</rightascension>
@@ -21,12 +22,15 @@
 			<period>386.3</period>
 			<semimajoraxis>1.05</semimajoraxis>
 			<eccentricity>0.5</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>250.5</temperature>
+			<periastron>255.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 142415</name>
 		<temperature>5834.0</temperature>
+		<age>1.100</age>
 	</star>
 </system>
