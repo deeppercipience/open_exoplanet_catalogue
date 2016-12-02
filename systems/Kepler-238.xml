@@ -92,15 +92,16 @@
 			<name>KOI-834.05</name>
 			<name>KIC 5436502 f</name>
 			<name>KIC 5436502.05</name>
-			<radius errorminus="0.04739" errorplus="0.04739">0.25152</radius>
+			<radius errorminus="0.04739" errorplus="0.04739">0.178</radius>
 			<period errorminus=".001105" errorplus="0.001105">50.444110</period>
 			<transittime errorminus="0.0131800" errorplus="0.0131800">2455011.5269900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-238 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.04200</mass>
 		</planet>
 	</star>
 </system>
