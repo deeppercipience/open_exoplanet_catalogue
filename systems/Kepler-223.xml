@@ -24,15 +24,18 @@
 			<name>KOI-730.01</name>
 			<name>KIC 10227020 d</name>
 			<name>KIC 10227020.01</name>
-			<radius errorminus="0.02825" errorplus="0.11938">0.27157</radius>
+			<radius errorminus="0.02825" errorplus="0.11938">0.467</radius>
 			<period errorminus=".000108" errorplus="0.000108">14.788759</period>
 			<transittime errorminus="0.0037600" errorplus="0.0037600">2455009.7637900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-223 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-223 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.02517</mass>
+			<eccentricity>0.037000</eccentricity>
+			<inclination>87.940</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-223 c</name>
