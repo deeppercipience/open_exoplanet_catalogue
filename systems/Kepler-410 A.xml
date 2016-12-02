@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<system>
+	<name>Kepler-410 A</name>
+	<star>
+		<name>Kepler-410 A</name>
+		<planet>
+			<name>Kepler-410 A b</name>
+			<list>Confirmed planets</list>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<magJ>8.417</magJ>
+		<magH>8.191</magH>
+		<magK>8.140</magK>
+	</star>
+</system>
