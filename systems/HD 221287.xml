@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 221287</name>
 	<rightascension>23 31 20</rightascension>
@@ -19,12 +20,15 @@
 			<period>456.1</period>
 			<semimajoraxis>1.25</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/28</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>259.0</temperature>
+			<periastron>98.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 221287</name>
 		<temperature>6304.0</temperature>
+		<age>1.300</age>
 	</star>
 </system>
