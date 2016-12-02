@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<system>
+	<name>WASP-77 A</name>
+	<star>
+		<name>WASP-77 A</name>
+		<planet>
+			<name>WASP-77 A b</name>
+			<list>Confirmed planets</list>
+			<eccentricity>0.000000</eccentricity>
+			<impactparameter>0.0600</impactparameter>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<age>1.000</age>
+	</star>
+</system>
