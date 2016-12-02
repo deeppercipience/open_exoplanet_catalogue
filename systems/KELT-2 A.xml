@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<system>
+	<name>KELT-2 A</name>
+	<star>
+		<name>KELT-2 A</name>
+		<planet>
+			<name>KELT-2 A b</name>
+			<list>Confirmed planets</list>
+			<periastron>90.0000</periastron>
+			<inclination>88.600</inclination>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<spectraltype>F8</spectraltype>
+	</star>
+</system>
