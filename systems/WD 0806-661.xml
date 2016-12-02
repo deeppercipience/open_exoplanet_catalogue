@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WD 0806-661</name>
 	<name>GJ 3483</name>
@@ -31,5 +32,14 @@
 		<name>WD 0806-661</name>
 		<name>GJ 3483</name>
 		<temperature>5700.0</temperature>
+		<planet>
+			<name>WD 0806-661 b</name>
+			<list>Confirmed planets</list>
+			<mass>7.50000</mass>
+			<semimajoraxis>2500.000000</semimajoraxis>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<age>1.500</age>
 	</star>
 </system>
