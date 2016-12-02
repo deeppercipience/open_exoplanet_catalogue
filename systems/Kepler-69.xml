@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-69</name>
 	<name>KOI-172</name>
@@ -31,9 +32,10 @@
 			<transittime errorminus="0.00016" errorplus="0.00016" unit="BJD">2454970.8414</transittime>
 			<description>Kepler-69 is a two planet system which was discovered by Kepler. Kepler-69 b is a planet in a 14 day orbit and too hot to sustain liquid water on the surface. However, the outer planet, Kepler-69 c, might be in the habitable zone.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1500</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-69 c</name>
@@ -58,5 +60,6 @@
 Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<istransiting>1</istransiting>
 		</planet>
+		<magV>14.000</magV>
 	</star>
 </system>
