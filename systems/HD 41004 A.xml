@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<system>
+	<name>HD 41004 A</name>
+	<star>
+		<name>HD 41004 A</name>
+		<planet>
+			<name>HD 41004 A b</name>
+			<list>Confirmed planets</list>
+			<periastron>97.0000</periastron>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<age>1.600</age>
+		<spectraltype>K1/K2 V</spectraltype>
+		<magV>8.650</magV>
+	</star>
+</system>
