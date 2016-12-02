@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 2638</name>
 	<rightascension>00 29 16.10949</rightascension>
@@ -46,12 +47,15 @@
 					<period>3.4442</period>
 					<semimajoraxis>0.044</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
-					<discoverymethod>RV</discoverymethod>
-					<lastupdate>10/12/24</lastupdate>
+					<discoverymethod>Radial Velocity</discoverymethod>
+					<lastupdate>16/12/02</lastupdate>
 					<discoveryyear>2005</discoveryyear>
 					<temperature>978.2</temperature>
 					<list>Planets in binary systems, S-type</list>
+					<periastron>0.0000</periastron>
+					<istransiting>0</istransiting>
 				</planet>
+				<age>3.000</age>
 			</star>
 			<star>
 				<name>HD 2638 C</name>
