@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 66141</name>
 	<name>HIP 39311</name>
@@ -10,8 +11,8 @@
 		<radius>22</radius>
 		<temperature>4305</temperature>
 		<magV>4.39</magV>
-		<magR>3.39</magR>
-		<magI>2.72</magI>
+		<magR>5.054</magR>
+		<magI>3.125</magI>
 		<magB>5.669</magB>
 		<magJ errorminus="0.282" errorplus="0.282">2.199</magJ>
 		<magH errorminus="0.268" errorplus="0.268">1.553</magH>
@@ -28,11 +29,14 @@
 			<semimajoraxis>1.2</semimajoraxis>
 			<eccentricity>0.07</eccentricity>
 			<description>HD 66141 b is a massive planet orbiting an evolved K giant. The star is approximately as massive as our Sun but more than 20 times larger. It has exhausted its hydrogen supply and has begun fusing helium into oxygen and carbon in its core.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/12</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>801.4</temperature>
+			<periastron>22.1000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 66141</name>
+		<age>6.840</age>
 	</star>
 </system>
