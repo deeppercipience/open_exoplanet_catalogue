@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 170469</name>
 	<rightascension>18 29 11</rightascension>
@@ -18,14 +19,17 @@
 			<list>Confirmed planets</list>
 			<mass>0.67</mass>
 			<period>1145</period>
-			<semimajoraxis>2.24</semimajoraxis>
+			<semimajoraxis>2.100000</semimajoraxis>
 			<eccentricity>0.11</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/10/31</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>188.9</temperature>
+			<periastron>34.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 170469</name>
 		<temperature>5810.0</temperature>
+		<age>6.700</age>
 	</star>
 </system>
