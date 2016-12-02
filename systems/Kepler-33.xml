@@ -110,11 +110,14 @@
 			<mass errorminus="0.00661" errorplus="0.00566">0.03618</mass>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>697.5</temperature>
 			<transittime errorminus="0.0040" errorplus="0.0040" unit="BJD">2455005.5763</transittime>
 			<istransiting>1</istransiting>
+			<eccentricity>0.000000</eccentricity>
+			<inclination>89.170</inclination>
+			<impactparameter>0.4300</impactparameter>
 		</planet>
 	</star>
 </system>
