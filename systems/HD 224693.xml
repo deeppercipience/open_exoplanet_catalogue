@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 224693</name>
 	<rightascension>23 59 54</rightascension>
@@ -18,12 +19,14 @@
 			<list>Confirmed planets</list>
 			<mass>0.71</mass>
 			<period>26.73</period>
-			<semimajoraxis>0.233</semimajoraxis>
+			<semimajoraxis>0.192000</semimajoraxis>
 			<eccentricity>0.05</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/04/18</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>718.9</temperature>
+			<periastron>6.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 224693</name>
 		<temperature>6037.0</temperature>
