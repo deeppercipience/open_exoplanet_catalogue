@@ -107,7 +107,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 			<inclination errorminus="0.01" errorplus="0.01">88.91</inclination>
 			<transittime errorminus="0.0037" errorplus="0.0037" unit="BJD">2454987.1590</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/28</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>596.4</temperature>
 			<description>The Kepler-11 systems contains six transiting planets. The system was originally discovered by the Kepler telescope in 2011. The inner five planets make up a tightly packed system. A dynamical analysis revealed that the inner planets have a remarkably low density, lower than that of rock.</description>
@@ -116,6 +116,7 @@ Image credit: NASA/Tim Pyle</imagedescription>
 		
 Image credit: NASA/Tim Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter>0.7630</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-11 f</name>
