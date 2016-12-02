@@ -25,7 +25,7 @@
 			<name>K2-23 b</name>
 			<name>EPIC 206103150 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.091" errorplus="0.091">1.164</mass>
+			<mass errorminus="0.091" errorplus="0.091">1.07290</mass>
 			<radius errorminus="0.039" errorplus="0.039">1.139</radius>
 			<period errorminus="0.0000049" errorplus="0.0000049">4.1591287</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.051</semimajoraxis>
@@ -35,9 +35,10 @@
 			<spinorbitalignment errorminus="24" errorplus="24">0</spinorbitalignment>
 			<description>This hot Jupiter planet was announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The K2 mission discovered two additional transiting planets in 2015, and an outer giant planet was discovered by radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/10/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1640</impactparameter>
 		</planet>
 		<planet>
 			<name>WASP-47 e</name>
