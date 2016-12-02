@@ -20,10 +20,12 @@
 			<period>3.93404</period>
 			<semimajoraxis>0.047</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>984.3</temperature>
+			<periastron>96.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 215497 c</name>
