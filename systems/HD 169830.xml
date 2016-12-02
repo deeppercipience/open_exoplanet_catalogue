@@ -34,10 +34,12 @@
 			<period>2102</period>
 			<semimajoraxis>3.6</semimajoraxis>
 			<eccentricity>0.33</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>196.1</temperature>
+			<periastron>252.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 169830</name>
 		<magJ>4.974</magJ>
