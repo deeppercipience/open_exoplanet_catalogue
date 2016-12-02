@@ -56,15 +56,16 @@
 			<name>KOI-829.03</name>
 			<name>KIC 5358241 c</name>
 			<name>KIC 5358241.03</name>
-			<radius errorminus="0.07655" errorplus="0.16768">0.33992</radius>
+			<radius errorminus="0.07655" errorplus="0.16768">0.283</radius>
 			<period errorminus=".000249" errorplus="0.000249">38.558585</period>
 			<transittime errorminus="0.0046200" errorplus="0.0046200">2454996.8416700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-53 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-53 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>15.74000</mass>
 		</planet>
 	</star>
 </system>
