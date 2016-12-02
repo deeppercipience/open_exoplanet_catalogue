@@ -98,10 +98,11 @@
 			<transittime errorminus="0.00546" errorplus="0.00546">2454997.22391</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-122 f was confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
+			<mass>0.11300</mass>
 		</planet>
 	</star>
 </system>
