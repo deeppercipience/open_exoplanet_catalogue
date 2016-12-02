@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 212771</name>
 	<rightascension>22 27 03</rightascension>
@@ -21,12 +22,15 @@
 			<period>373.3</period>
 			<semimajoraxis>1.22</semimajoraxis>
 			<eccentricity>0.111</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>456.8</temperature>
+			<periastron>55.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 212771</name>
 		<temperature>5121.0</temperature>
+		<age>6.000</age>
 	</star>
 </system>
