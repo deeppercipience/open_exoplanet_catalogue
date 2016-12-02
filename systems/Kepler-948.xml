@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-948</name>
 	<rightascension>19 33 12</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000042010" errorplus="0.000042010">7.768466220</period>
 			<radius errorminus="0.037" errorplus="0.029">0.165</radius>
 		</planet>
+		<age>4.170</age>
+		<magJ>13.624</magJ>
+		<magH>13.230</magH>
+		<magK>13.186</magK>
 	</star>
 </system>
