@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 17092</name>
 	<rightascension>02 46 22</rightascension>
@@ -19,10 +20,12 @@
 			<period>359.9</period>
 			<semimajoraxis>1.29</semimajoraxis>
 			<eccentricity>0.166</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/05/07</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>513.6</temperature>
+			<periastron>347.4000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 17092</name>
 		<temperature>4650.0</temperature>
