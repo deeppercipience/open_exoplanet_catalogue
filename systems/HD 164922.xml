@@ -7,8 +7,8 @@
 	<star>
 		<mass>0.94</mass>
 		<radius>0.9</radius>
-		<magV>7.01</magV>
-		<magB>7.79</magB>
+		<magV>6.990</magV>
+		<magB>7.810</magB>
 		<magR>6.5</magR>
 		<magI>6.1</magI>
 		<magJ errorminus="0.026" errorplus="0.026">5.553</magJ>
@@ -32,5 +32,18 @@
 		</planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
+		<planet>
+			<name>HD 164922 c</name>
+			<list>Confirmed planets</list>
+			<temperature>401</temperature>
+			<semimajoraxis>0.335100</semimajoraxis>
+			<eccentricity>0.220000</eccentricity>
+			<periastron>81.0000</periastron>
+			<period>75.76500000</period>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
 	</star>
 </system>
