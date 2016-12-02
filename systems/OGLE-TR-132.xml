@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>OGLE-TR-132</name>
 	<rightascension>10 50 34</rightascension>
@@ -7,7 +8,7 @@
 		<mass errorminus="0.13" errorplus="0.13">1.19</mass>
 		<radius errorminus="0.10" errorplus="0.10">1.35</radius>
 		<metallicity>0.37</metallicity>
-		<spectraltype>F</spectraltype>
+		<spectraltype>F5 V</spectraltype>
 		<magI>15.72</magI>
 		<magJ errorminus="0.049" errorplus="0.049">15.252</magJ>
 		<magH errorminus="0.067" errorplus="0.067">14.861</magH>
@@ -23,12 +24,15 @@
 			<inclination>83.4</inclination>
 			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2453142.59199</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/16</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-			<temperature>1812.0</temperature>
+			<temperature>2013</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.5600</impactparameter>
 		</planet>
 		<name>OGLE-TR-132</name>
 		<temperature>6210.0</temperature>
+		<age>1.200</age>
+		<magV>15.720</magV>
 	</star>
 </system>
