@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HATS-4</name>
 	<rightascension>06 16 26.898</rightascension>
@@ -29,12 +30,15 @@
 			<period errorminus="0.000002" errorplus="0.000002">2.516729</period>
 			<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.0362</semimajoraxis>
 			<inclination errorminus="0.6" errorplus="0.6">88.5</inclination>
-			<eccentricity errorminus="0.013" errorplus="0.013">0.016</eccentricity>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.013000</eccentricity>
 			<description>HATS-4 is a dense transiting planet orbiting around a high-metallicity star discovered by the HATSouth survey.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron>275.0000</periastron>
+			<impactparameter>0.2170</impactparameter>
 		</planet>
+		<spectraltype>G</spectraltype>
 	</star>
 </system>
