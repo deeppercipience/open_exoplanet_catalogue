@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>TrES-5</name>
 	<rightascension>20 20 53</rightascension>
@@ -30,10 +31,11 @@
 			<inclination>84.529</inclination>
 			<transittime errorminus="0.0001069" errorplus="0.0001069" unit="BJD">2455443.25398</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<description>TrES-5 b transits one of the faintest stars with known transiting planets.</description>
 			<istransiting>1</istransiting>
+			<temperature>1480</temperature>
 		</planet>
 	</star>
 </system>
