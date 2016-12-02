@@ -73,15 +73,16 @@
 			<name>KOI-952.04</name>
 			<name>KIC 9787239 e</name>
 			<name>KIC 9787239.04</name>
-			<radius errorminus="0.00638" errorplus="0.00638">0.10024</radius>
+			<radius errorminus="0.00638" errorplus="0.00638">0.134</radius>
 			<period errorminus=".000015" errorplus="0.000015">2.896027</period>
 			<transittime errorminus="0.0028600" errorplus="0.0028600">2454966.6119100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-32 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-32 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.033000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-32 f</name>
