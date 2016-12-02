@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CT Cha</name>
 	<rightascension>11 04 09</rightascension>
@@ -12,11 +13,11 @@
 		<magH errorminus="0.047" errorplus="0.047">8.944</magH>
 		<magK errorminus="0.021" errorplus="0.021">8.661</magK>
 		<spectraltype>K7</spectraltype>
-		<age lowerlimit="0.001" upperlimit="0.005" />
+		<age lowerlimit="0.001" upperlimit="0.005">0.002</age>
 		<planet>
 			<name>CT Cha B</name>
 			<list>Confirmed planets</list>
-			<mass lowerlimit="14" upperlimit="24" />
+			<mass lowerlimit="14" upperlimit="24"/>
 			<radius>2.4</radius>
 			<separation errorminus="0.036" errorplus="0.036" unit="arcsec">2.670</separation>
 			<separation unit="AU">440</separation>
@@ -32,5 +33,14 @@
 		</planet>
 		<name>CT Cha</name>
 		<temperature>5150.0</temperature>
+		<planet>
+			<name>CT Cha b</name>
+			<list>Confirmed planets</list>
+			<mass>17.00000</mass>
+			<radius>2.200</radius>
+			<semimajoraxis>440.000000</semimajoraxis>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
 	</star>
 </system>
