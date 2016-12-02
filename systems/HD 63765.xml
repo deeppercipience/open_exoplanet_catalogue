@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 63765</name>
 	<rightascension>07 47 50</rightascension>
@@ -11,7 +12,7 @@
 		<magH errorminus="0.027" errorplus="0.027">6.442</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.316</magK>
 		<metallicity>-0.16</metallicity>
-		<spectraltype>G9V</spectraltype>
+		<spectraltype>G6 IV/V</spectraltype>
 		<planet>
 			<name>HD 63765 b</name>
 			<list>Confirmed planets</list>
@@ -19,10 +20,12 @@
 			<period>358</period>
 			<semimajoraxis>0.949</semimajoraxis>
 			<eccentricity>0.24</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/07/05</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>222.6</temperature>
+			<periastron>122.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 63765</name>
 		<temperature>5432.0</temperature>
