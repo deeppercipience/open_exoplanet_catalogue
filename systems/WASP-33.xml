@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-33</name>
 	<rightascension>02 26 51</rightascension>
@@ -22,7 +23,7 @@
 			<name>SAO 55561 b</name>
 			<name>2MASS J02265106+3733017 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.59</mass>
+			<mass>4.10000</mass>
 			<radius>1.438</radius>
 			<period>1.21986967</period>
 			<semimajoraxis>0.02558</semimajoraxis>
@@ -30,10 +31,11 @@
 			<inclination>87.67</inclination>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454590.18025</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>2451.5</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1550</impactparameter>
 		</planet>
 		<name>WASP-33</name>
 		<temperature>7400.0</temperature>
