@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>eps Tau</name>
 	<rightascension>04 28 36.99882</rightascension>
@@ -28,7 +29,7 @@
 		<magB>4.549</magB>
 		<magJ errorminus="0.284" errorplus="0.284">1.748</magJ>
 		<magH errorminus="0.226" errorplus="0.226">1.314</magH>
-		<magK errorminus="0.05" errorplus="0.05">1.31</magK>
+		<magK errorminus="0.05" errorplus="0.05">1.422</magK>
 		<spectraltype>K0 III</spectraltype>
 		<temperature errorminus="20" errorplus="20">4901</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.17</metallicity>
@@ -46,10 +47,11 @@
 			<eccentricity errorminus="0.023" errorplus="0.023">0.151</eccentricity>
 			<periastron errorminus="7.4" errorplus="7.4">94.4</periastron>
 			<periastrontime errorminus="12" errorplus="12">2452879</periastrontime>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>Epsilon Tauri b orbits a giant star in the Hyades cluster.</description>
-			<lastupdate>15/12/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
