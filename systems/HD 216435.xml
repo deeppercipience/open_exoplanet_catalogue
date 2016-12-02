@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 216435</name>
 	<rightascension>22 53 37</rightascension>
@@ -20,12 +21,15 @@
 			<period>1311</period>
 			<semimajoraxis>2.56</semimajoraxis>
 			<eccentricity>0.07</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>224.7</temperature>
+			<periastron>100.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 216435</name>
 		<temperature>5767.0</temperature>
+		<age>3.000</age>
 	</star>
 </system>
