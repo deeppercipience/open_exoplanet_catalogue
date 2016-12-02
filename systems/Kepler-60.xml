@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-60</name>
 	<rightascension>19 15 50.698</rightascension>
@@ -60,8 +61,8 @@
 			<name>KOI-2086 d</name>
 			<name>KIC 6768394 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0035" errorplus="0.0035">0.0120</mass>
-			<radius>0.232382</radius>
+			<mass errorminus="0.0035" errorplus="0.0035">0.01309</mass>
+			<radius>0.178</radius>
 			<period errorminus="0.001" errorplus="0.001">11.903</period>
 			<transittime errorminus="0.012" errorplus="0.012" unit="BJD">2454899.273</transittime>
 			<semimajoraxis>0.10548</semimajoraxis>
@@ -70,7 +71,7 @@
 			<meananomaly>81.84</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
