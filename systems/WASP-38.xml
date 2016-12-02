@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-38</name>
 	<rightascension>16 15 50</rightascension>
@@ -26,12 +27,12 @@
 			<radius>1.09</radius>
 			<period>6.87188</period>
 			<semimajoraxis>0.0758</semimajoraxis>
-			<eccentricity>0.028</eccentricity>
+			<eccentricity>0.031400</eccentricity>
 			<inclination>89.5</inclination>
-			<periastron>-22.2</periastron>
+			<periastron>-16.0000</periastron>
 			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455335.92127</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/03/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<spinorbitalignment>7.5</spinorbitalignment>
 			<temperature>1152.9</temperature>
