@@ -14,13 +14,17 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000710000" errorplus="0.000710000">125.632430000</period>
 			<semimajoraxis errorminus="0.006700000" errorplus="0.006700000">0.498800000</semimajoraxis>
 			<radius errorminus="0.017" errorplus="0.017">0.747</radius>
+			<mass>0.97000</mass>
+			<temperature>388</temperature>
+			<eccentricity>0.390000</eccentricity>
+			<inclination>89.845</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-539 c</name>
