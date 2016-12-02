@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-26</name>
 	<rightascension>14 12 37.54</rightascension>
@@ -26,13 +27,16 @@
 			<eccentricity>0.124</eccentricity>
 			<inclination>88.6</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>907.4</temperature>
+			<temperature>1001</temperature>
 			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455304.65122</transittime>
 			<istransiting>1</istransiting>
+			<periastron>54.0000</periastron>
+			<impactparameter>0.3030</impactparameter>
 		</planet>
 		<name>HAT-P-26</name>
 		<temperature>5079.0</temperature>
+		<age>9.000</age>
 	</star>
 </system>
