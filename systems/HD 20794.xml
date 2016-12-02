@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 20794</name>
 	<rightascension>03 19 55</rightascension>
@@ -6,8 +7,8 @@
 	<star>
 		<mass>0.70</mass>
 		<magV>4.26</magV>
-		<magR>3.65</magR>
-		<magI>3.25</magI>
+		<magR>3.850</magR>
+		<magI>3.465</magI>
 		<magB errorminus="0.01" errorplus="0.01">4.97</magB>
 		<magJ errorminus="0.262" errorplus="0.262">3.032</magJ>
 		<magH errorminus="0.234" errorplus="0.234">2.709</magH>
@@ -22,10 +23,13 @@
 			<semimajoraxis>0.1207</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<description>The planetary system around the star HD 20794 consists of three super-Earths.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>661.0</temperature>
+			<periastron>0.0000</periastron>
+			<inclination>90.000</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 20794 c</name>
@@ -55,5 +59,6 @@
 		</planet>
 		<name>HD 20794</name>
 		<temperature>5490.0</temperature>
+		<age>5.760</age>
 	</star>
 </system>
