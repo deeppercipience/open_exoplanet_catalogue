@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-223</name>
 	<name>KOI-730</name>
@@ -71,15 +72,18 @@
 			<name>KOI-730.04</name>
 			<name>KIC 10227020 b</name>
 			<name>KIC 10227020.04</name>
-			<radius errorminus="0.06653" errorplus="0.06653">0.15401</radius>
+			<radius errorminus="0.06653" errorplus="0.06653">0.267</radius>
 			<period errorminus=".000159" errorplus="0.000159">7.384108</period>
 			<transittime errorminus="0.0112600" errorplus="0.0112600">2454970.4863200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-223 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-223 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.02328</mass>
+			<eccentricity>0.078000</eccentricity>
+			<inclination>90.000</inclination>
 		</planet>
 	</star>
 </system>
