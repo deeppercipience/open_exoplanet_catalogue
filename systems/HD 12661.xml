@@ -34,12 +34,13 @@
 			<list>Confirmed planets</list>
 			<mass>1.57</mass>
 			<period>1708</period>
-			<semimajoraxis>2.56</semimajoraxis>
+			<semimajoraxis>2.814500</semimajoraxis>
 			<eccentricity>0.031</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>167.5</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 12661</name>
 		<temperature>5742.0</temperature>
