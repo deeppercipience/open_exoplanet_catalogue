@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-124</name>
 	<rightascension>22 10 51.43</rightascension>
@@ -22,12 +23,17 @@
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0449</semimajoraxis>
 			<temperature errorminus="30" errorplus="30">1400</temperature>
 			<inclination errorminus="0.2" errorplus="0.2">86.3</inclination>
-			<eccentricity upperlimit="0.017" />
+			<eccentricity upperlimit="0.017">0.017000</eccentricity>
 			<description>This Hot Jupiter was discovered by WASP-South.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
+			<impactparameter>0.6100</impactparameter>
 		</planet>
+		<age>2.100</age>
+		<magJ>11.650</magJ>
+		<magH>11.419</magH>
+		<magK>11.310</magK>
 	</star>
 </system>
