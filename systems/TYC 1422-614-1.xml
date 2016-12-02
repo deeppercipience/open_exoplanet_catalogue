@@ -28,10 +28,11 @@
 			<transittime errorminus="22" errorplus="25">2453236.5</transittime>
 			<eccentricity errorminus="0.02" errorplus="0.06">0.06</eccentricity>
 			<description>The multiple planetary system orbiting TYC 1422-614-1 is the first finding of the TAPAS project, a HARPS-N monitoring of evolved planetary systems identified with the Hobby-Eberly Telescope.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/10/22</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<periastron>50.0000</periastron>
 		</planet>
 		<planet>
 			<name>TYC 1422-614-1 c</name>
