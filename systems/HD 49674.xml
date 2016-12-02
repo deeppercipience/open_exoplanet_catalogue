@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 49674</name>
 	<rightascension>06 51 30</rightascension>
@@ -16,13 +17,18 @@
 			<mass>0.115</mass>
 			<period>4.9437</period>
 			<semimajoraxis>0.058</semimajoraxis>
-			<eccentricity>0.23</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<eccentricity>0.087000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>969.8</temperature>
+			<periastron>264.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 49674</name>
 		<temperature>5482.0</temperature>
+		<magJ>6.835</magJ>
+		<magH>6.523</magH>
+		<magK>6.432</magK>
 	</star>
 </system>
