@@ -26,13 +26,13 @@
 			<name>KIC 8077137.01</name>
 			<name>TYC 3130-1733-1 b</name>
 			<radius errorminus="0.01458" errorplus="0.01458">0.10298</radius>
-			<mass errorminus="0.00189" errorplus="0.00598">0.00409</mass>
+			<mass errorminus="0.00189" errorplus="0.00598">0.09700</mass>
 			<transittime errorminus="0.0065300" errorplus="0.0065300">2455008.9532900</transittime>
 			<period>15.090</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
