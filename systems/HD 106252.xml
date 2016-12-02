@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 106252</name>
 	<rightascension>12 13 29</rightascension>
@@ -23,10 +24,12 @@
 			<semimajoraxis>2.7</semimajoraxis>
 			<eccentricity>0.47</eccentricity>
 			<inclination>166.7</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>158.8</temperature>
+			<periastron>292.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 106252</name>
 		<temperature>5754.0</temperature>
