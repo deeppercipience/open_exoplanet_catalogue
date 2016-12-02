@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 106270</name>
 	<rightascension>12 13 37</rightascension>
@@ -12,7 +13,7 @@
 		<magH errorminus="0.040" errorplus="0.040">5.964</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.862</magK>
 		<metallicity>0.08</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G5 IV</spectraltype>
 		<planet>
 			<name>HD 106270 b</name>
 			<list>Confirmed planets</list>
@@ -21,12 +22,15 @@
 			<semimajoraxis>4.3</semimajoraxis>
 			<eccentricity>0.402</eccentricity>
 			<description>The star HD 106270 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>187.6</temperature>
+			<periastron>15.2000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 106270</name>
 		<temperature>5638.0</temperature>
+		<age>4.300</age>
 	</star>
 </system>
