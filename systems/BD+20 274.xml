@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>BD+20 274</name>
 	<rightascension>01 43 40.877</rightascension>
@@ -32,9 +33,10 @@
 			<periastron errorminus="38.1" errorplus="38.1">108.5</periastron>
 			<periastrontime errorminus="33.2" errorplus="33.2">2453921.0</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. Most likely, there is another low-mass stellar companion in the system.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
