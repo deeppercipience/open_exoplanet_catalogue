@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 114613</name>
 	<rightascension>13 12 03.18502</rightascension>
@@ -25,9 +26,10 @@
 			<eccentricity errorminus="0.08" errorplus="0.08">0.25</eccentricity>
 			<periastron errorminus="5" errorplus="5">244</periastron>
 			<description>HD 114613 b is a Jupiter analogue with a period of 10 years and a moderate eccentricity of 0.25. The planet was discovered by the Anglo-Australian Planet Search group.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
