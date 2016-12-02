@@ -20,10 +20,12 @@
 			<semimajoraxis>2.25</semimajoraxis>
 			<eccentricity>0.01</eccentricity>
 			<description>A second planet in this system has been discovered in 2012 by the Anglo-Australian Planet Search.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>224.9</temperature>
+			<periastron>350.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 159868 c</name>
