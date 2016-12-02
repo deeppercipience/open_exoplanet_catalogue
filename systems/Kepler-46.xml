@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-46</name>
 	<name>KOI-872</name>
@@ -44,13 +45,14 @@
 			<period errorminus="0.000030" errorplus="0.000030">57.011</period>
 			<list>Confirmed planets</list>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/03/06</lastupdate>
-			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<temperature>455</temperature>
 			<inclination>87.400</inclination>
 			<eccentricity>0.015</eccentricity>
 			<semimajoraxis>0.27990</semimajoraxis>
 			<istransiting>1</istransiting>
+			<periastron>330.0000</periastron>
 		</planet>
 		<planet>
 			<name>Kepler-46 d</name>
@@ -71,5 +73,6 @@
 			<semimajoraxis>0.06700</semimajoraxis>
 			<istransiting>1</istransiting>
 		</planet>
+		<age>9.700</age>
 	</star>
 </system>
