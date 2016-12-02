@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 136418</name>
 	<rightascension>15 19 07</rightascension>
@@ -19,12 +20,15 @@
 			<period>464.3</period>
 			<semimajoraxis>1.32</semimajoraxis>
 			<eccentricity>0.255</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>357.4</temperature>
+			<periastron>12.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 136418</name>
 		<temperature>5071.0</temperature>
+		<age>4.000</age>
 	</star>
 </system>
