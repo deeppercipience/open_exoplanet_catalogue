@@ -93,8 +93,8 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-338 e was confirmed by transit timing variations.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/28</lastupdate>
-			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
