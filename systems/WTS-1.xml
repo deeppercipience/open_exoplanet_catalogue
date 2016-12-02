@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WTS-1</name>
 	<rightascension>19 35 56.41</rightascension>
@@ -13,7 +14,7 @@
 		<magJ errorminus="0.052" errorplus="0.052">15.375</magJ>
 		<magH errorminus="0.081" errorplus="0.081">15.187</magH>
 		<magK errorminus="0.199" errorplus="0.199">15.271</magK>
-		<spectraltype>F</spectraltype>
+		<spectraltype>F6 V</spectraltype>
 		<planet>
 			<name>WTS-1 b</name>
 			<list>Confirmed planets</list>
@@ -21,16 +22,18 @@
 			<radius>1.49</radius>
 			<period>3.35</period>
 			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity>0.100000</eccentricity>
 			<inclination>85.5</inclination>
 			<transittime errorminus="0.0036" errorplus="0.0043" unit="BJD">2454318.7479</transittime>
 			<description>The Hot Jupiter WTS-1 b is the first extrasolar planet found by the WFCAM Transit Survey. The observations were made at the 3.8-m United Kingdom Infrared Telescope and the Hobby-Eberly Telescope. The planet has one of the largest radius anomalies among the known Hot Jupiters its mass range.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/10/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1362.3</temperature>
+			<temperature>1500</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.6900</impactparameter>
 		</planet>
 		<name>WTS-1</name>
+		<age>2.550</age>
 	</star>
 </system>
