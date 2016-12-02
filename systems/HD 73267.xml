@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 73267</name>
 	<rightascension>08 36 17.77517</rightascension>
@@ -31,9 +32,10 @@
 			<eccentricity errorminus="0.009" errorplus="0.009">0.256</eccentricity>
 			<periastron errorminus="1.8" errorplus="1.8">229.1</periastron>
 			<periastrontime errorminus="16" errorplus="16">2451821.7</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
