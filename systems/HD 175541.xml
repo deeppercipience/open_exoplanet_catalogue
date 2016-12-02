@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 175541</name>
 	<rightascension>18 55 41</rightascension>
@@ -20,12 +21,17 @@
 			<period>297.3</period>
 			<semimajoraxis>1.03</semimajoraxis>
 			<eccentricity>0.33</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/20</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>428.3</temperature>
+			<periastron>183.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 175541</name>
 		<temperature>5060.0</temperature>
+		<age>1.900</age>
+		<magR>7.538</magR>
+		<magI>7.088</magI>
 	</star>
 </system>
