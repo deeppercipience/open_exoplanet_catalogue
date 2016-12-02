@@ -36,13 +36,13 @@
 			<name>KOI-1529 c</name>
 			<name>KIC 9821454 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.012848</mass>
+			<mass>1.37000</mass>
 			<radius>0.180438</radius>
 			<period>17.9801235</period>
 			<transittime errorminus="0.0065" errorplus="0.0065" unit="BJD">2455080.69818</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 17.98 days for 4.1249 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
