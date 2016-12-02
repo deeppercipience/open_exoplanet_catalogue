@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1474</name>
 	<rightascension>19 38 47</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000321800" errorplus="0.000321800">36.433345200</period>
 			<radius errorminus="0.021" errorplus="0.039">0.193</radius>
 		</planet>
+		<age>3.800</age>
+		<magJ>14.027</magJ>
+		<magH>13.709</magH>
+		<magK>13.621</magK>
 	</star>
 </system>
