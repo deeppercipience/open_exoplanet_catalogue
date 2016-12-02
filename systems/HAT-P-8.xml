@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-8</name>
 	<rightascension>22 52 10</rightascension>
@@ -27,20 +28,21 @@
 				<name>2MASS J22520985+3526495 b</name>
 				<name>TYC 2757-1152-1 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.275</mass>
-				<radius>1.321</radius>
+				<mass>1.52000</mass>
+				<radius>1.500</radius>
 				<period>3.0763402</period>
-				<semimajoraxis>0.04390</semimajoraxis>
+				<semimajoraxis>0.048700</semimajoraxis>
 				<temperature>1713</temperature>
 				<eccentricity>0.0</eccentricity>
 				<inclination>87.8</inclination>
 				<transittime errorminus="0.000004" errorplus="0.00004" unit="BJD">2454437.67582</transittime>
 				<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project. Variations in the optical bands may indicate the presence of strong absorbers such as TiO or VO gases. The host star is part of a hierarchical triple system.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/07/31</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
+				<impactparameter>0.3200</impactparameter>
 			</planet>
 			<temperature>6200.0</temperature>
 		</star>
