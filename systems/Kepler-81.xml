@@ -38,13 +38,13 @@
 			<name>KOI-877.02</name>
 			<name>KIC 7287995 c</name>
 			<name>KIC 7287995.02</name>
-			<radius errorminus="0.01002" errorplus="0.01002">0.18317</radius>
+			<radius errorminus="0.01002" errorplus="0.01002">0.211</radius>
 			<period errorminus=".000025" errorplus="0.000025">12.039956</period>
 			<transittime errorminus="0.0011200" errorplus="0.0011200">2455014.2229200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-81 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
