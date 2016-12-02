@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-74</name>
 	<name>KIC 6046540</name>
@@ -40,9 +41,11 @@
 			<list>Confirmed planets</list>
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. Originally announced to be in an eccentric orbit, the later re-analysis by Bonomo et al. (2015) indicated that the orbit was compatible with being circular. The planet was first announced in 2012.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<temperature>1078</temperature>
+			<impactparameter>0.6850</impactparameter>
 		</planet>
 	</star>
 </system>
