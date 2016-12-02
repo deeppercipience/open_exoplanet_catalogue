@@ -20,15 +20,16 @@
 			<name>KOI-148 b</name>
 			<name>KIC 5735762 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.015079</mass>
-			<radius>0.195019</radius>
+			<mass>0.01240</mass>
+			<radius>0.168</radius>
 			<period>4.7779803</period>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455057.06301</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 4.78 days for 2.8412 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.1700</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-48 c</name>
