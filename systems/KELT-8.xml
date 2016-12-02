@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>KELT-8</name>
 	<rightascension>18 53 13.322</rightascension>
@@ -37,8 +38,11 @@
 			<description>This highly inflated transiting hot Jupiter was discovered by the Kilodegree Extremely Little Telescope (KELT)-North survey. This planet is one of the most inflated of all known transiting exoplanets, making it one of the few members of a class of extremely low density, highly-irradiated gas giants.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron>85.0000</periastron>
+			<impactparameter>0.7410</impactparameter>
 		</planet>
+		<age>5.400</age>
 	</star>
 </system>
