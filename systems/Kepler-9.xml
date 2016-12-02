@@ -31,9 +31,9 @@
 			<transittime errorminus="0.00052" errorplus="0.00052" unit="BJD">2455073.43381</transittime>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.143</semimajoraxis>
 			<inclination errorminus="0.7" errorplus="0.7">87.1</inclination>
-			<eccentricity errorminus="0.001" errorplus="0.001">0.0626</eccentricity>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.150000</eccentricity>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>707.2</temperature>
 			<istransiting>1</istransiting>
