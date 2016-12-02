@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1099</name>
 	<rightascension>19 14 59.9</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002800" errorplus="0.000002800">2.168452590</period>
 			<radius errorminus="0.045" errorplus="0.038">0.252</radius>
 		</planet>
+		<age>3.630</age>
+		<magJ>14.097</magJ>
+		<magH>13.728</magH>
+		<magK>13.697</magK>
 	</star>
 </system>
