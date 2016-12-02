@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 88133</name>
 	<rightascension>10 10 07</rightascension>
@@ -18,14 +19,17 @@
 		<planet>
 			<name>HD 88133 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.22</mass>
+			<mass>1.02000</mass>
 			<period>3.416</period>
 			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.133</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<eccentricity>0.050000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1550.6</temperature>
+			<periastron>7.2200</periastron>
+			<inclination>15.000</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 88133</name>
 		<temperature>5494.0</temperature>
