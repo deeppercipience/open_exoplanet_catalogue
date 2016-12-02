@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HAT-P-38</name>
 	<rightascension>02 21 32</rightascension>
@@ -23,11 +24,13 @@
 			<eccentricity>0.067</eccentricity>
 			<inclination>88.3</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>987.0</temperature>
+			<temperature>1082</temperature>
 			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455863.11957</transittime>
 			<istransiting>1</istransiting>
+			<periastron>240.0000</periastron>
+			<impactparameter>0.3720</impactparameter>
 		</planet>
 		<name>HAT-P-38</name>
 		<temperature>5330.0</temperature>
