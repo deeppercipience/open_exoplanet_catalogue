@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-34</name>
 	<rightascension>11 01 36</rightascension>
@@ -28,10 +29,12 @@
 			<inclination>85.2</inclination>
 			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454647.55434</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1058.7</temperature>
+			<temperature>1250</temperature>
 			<istransiting>1</istransiting>
+			<periastron>319.8000</periastron>
+			<impactparameter>0.9040</impactparameter>
 		</planet>
 		<name>WASP-34</name>
 		<temperature>5700.0</temperature>
