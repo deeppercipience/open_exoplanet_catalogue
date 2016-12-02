@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-602</name>
 	<rightascension>19 44 08</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000069190" errorplus="0.000069190">15.284694970</period>
 			<radius errorminus="0.029" errorplus="0.058">0.186</radius>
 		</planet>
+		<age>3.160</age>
+		<magJ>13.328</magJ>
+		<magH>12.999</magH>
+		<magK>12.936</magK>
 	</star>
 </system>
