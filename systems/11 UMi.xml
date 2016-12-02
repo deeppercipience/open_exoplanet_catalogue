@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>11 UMi</name>
 	<rightascension>15 17 05.88899</rightascension>
@@ -37,9 +38,11 @@
 			<periastron errorminus="21.06" errorplus="21.06">117.63</periastron>
 			<periastrontime errorminus="2.06" errorplus="2.06">2452861.04</periastrontime>
 			<description>11 Ursae Minoris is a star located in the constellation Ursa Minor and also named Pherkard or Pherkad Minor.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
+		<age>1.560</age>
 	</star>
 </system>
