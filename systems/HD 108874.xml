@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 108874</name>
 	<rightascension>12 30 26</rightascension>
@@ -34,10 +35,12 @@
 			<period>1605.8</period>
 			<semimajoraxis>2.68</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>160.2</temperature>
+			<periastron>27.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 108874</name>
 		<temperature>5407.0</temperature>
