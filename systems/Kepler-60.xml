@@ -41,8 +41,8 @@
 			<name>KOI-2086 c</name>
 			<name>KIC 6768394 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0031" errorplus="0.0031">0.0151</mass>
-			<radius errorminus="0.054" errorplus="0.118">0.212</radius>
+			<mass errorminus="0.0031" errorplus="0.0031">0.01211</mass>
+			<radius errorminus="0.054" errorplus="0.118">0.170</radius>
 			<period errorminus="0.0006" errorplus="0.0006">8.9177</period>
 			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454906.075</transittime>
 			<semimajoraxis>0.08701</semimajoraxis>
@@ -51,7 +51,7 @@
 			<meananomaly>-67.35</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.92 days for 4.4059 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
