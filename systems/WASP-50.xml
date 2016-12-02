@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-50</name>
 	<rightascension>02 54 45</rightascension>
@@ -37,10 +38,11 @@
 			<transittime errorminus="0.000118" errorplus="0.00018" unit="BJD">2455859.691755</transittime>
 			<description>WASP-50 b is a Hot Jupiter transiting a solar type star in the southern constellation Eridanus.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/08/15</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1289.9</temperature>
 			<istransiting>1</istransiting>
+			<periastron>44.0000</periastron>
 		</planet>
 		<temperature>5400.0</temperature>
 	</star>
