@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 5319</name>
 	<rightascension>00 55 01.400</rightascension>
@@ -19,7 +20,7 @@
 		<magH errorminus="0.044" errorplus="0.044">5.864</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.699</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
-		<spectraltype>G5IV</spectraltype>
+		<spectraltype>K3 IV</spectraltype>
 		<planet>
 			<name>HD 5319 b</name>
 			<name>HIP 4297 b</name>
@@ -34,10 +35,12 @@
 			<semimajoraxis errorminus="0.0036" errorplus="0.0036">1.6697</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
 			<description>This planet was found in 2007. The N2K campain, designed to discover short-period planets, improved the data in 2014 using long-term observations.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>303.8</temperature>
+			<periastron>97.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 5319 c</name>
@@ -58,5 +61,6 @@
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<temperature>5052.0</temperature>
+		<age>3.100</age>
 	</star>
 </system>
