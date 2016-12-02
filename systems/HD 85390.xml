@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 85390</name>
 	<rightascension>09 50 02</rightascension>
@@ -19,12 +20,15 @@
 			<period>788</period>
 			<semimajoraxis>1.52</semimajoraxis>
 			<eccentricity>0.41</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>166.3</temperature>
+			<periastron>-94.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 85390</name>
 		<temperature>5186.0</temperature>
+		<age>7.200</age>
 	</star>
 </system>
