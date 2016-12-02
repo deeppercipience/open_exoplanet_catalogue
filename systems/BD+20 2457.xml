@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>BD+20 2457</name>
 	<name>BD20 2457</name>
@@ -35,7 +36,7 @@
 		<planet>
 			<name>BD+20 2457 c</name>
 			<name>BD20 2457 c</name>
-			<list>Controversial</list>
+			<list>Confirmed planets</list>
 			<mass type="msini">12.47</mass>
 			<period errorminus="10.20" errorplus="10.20">621.99</period>
 			<semimajoraxis>2.01</semimajoraxis>
@@ -43,9 +44,10 @@
 			<periastron errorminus="16.54" errorplus="16.54">126.02</periastron>
 			<periastrontime errorminus="27.99" errorplus="27.99">2453867.45</periastrontime>
 			<description>The star BD+20 2457 is located in the constellation Leo. Its metallicity is ten times lower compared to our Sun. The orbital parameters given in the discovery paper have been shown to be dynamically unstable on astronomically short timescales.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
