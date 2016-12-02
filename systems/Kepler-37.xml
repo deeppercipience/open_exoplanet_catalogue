@@ -90,10 +90,10 @@
 			<period>51.196</period>
 			<semimajoraxis>0.2508</semimajoraxis>
 			<description>The fourth planet in the Kepler-37 system was discovered by transit timing variations. Very little is known of its properties.</description>
-			<lastupdate>15/03/18</lastupdate>
-			<discoverymethod>timing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>0</istransiting>
+			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>
