@@ -22,15 +22,16 @@
 			<name>KOI-834.01</name>
 			<name>KIC 5436502 e</name>
 			<name>KIC 5436502.01</name>
-			<radius errorminus="0.04830" errorplus="0.13943">0.75274</radius>
+			<radius errorminus="0.04830" errorplus="0.13943">0.500</radius>
 			<period errorminus=".000033" errorplus="0.000033">23.653647</period>
 			<transittime errorminus="0.0007300" errorplus="0.0007300">2455004.3761100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-238 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.53400</mass>
 		</planet>
 		<planet>
 			<name>Kepler-238 d</name>
