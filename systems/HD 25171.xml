@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 25171</name>
 	<rightascension>03 55 49</rightascension>
@@ -22,12 +23,15 @@
 			<period>1845</period>
 			<semimajoraxis>3.02</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/20</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>169.7</temperature>
+			<periastron>96.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 25171</name>
 		<temperature>6160.0</temperature>
+		<age>4.000</age>
 	</star>
 </system>
