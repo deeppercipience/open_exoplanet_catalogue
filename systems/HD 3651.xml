@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 3651</name>
 	<rightascension>00 39 21</rightascension>
@@ -21,12 +22,14 @@
 			<mass>0.2</mass>
 			<period>62.23</period>
 			<semimajoraxis>0.284</semimajoraxis>
-			<eccentricity>0.63</eccentricity>
+			<eccentricity>0.596000</eccentricity>
 			<inclination>83</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>405.0</temperature>
+			<periastron>242.5000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 3651.02</name>
