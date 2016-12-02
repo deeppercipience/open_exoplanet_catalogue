@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-875</name>
 	<rightascension>19 49 12</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000153600" errorplus="0.000153600">27.507379900</period>
 			<radius errorminus="0.040" errorplus="0.091">0.259</radius>
 		</planet>
+		<age>3.390</age>
+		<magJ>13.959</magJ>
+		<magH>13.601</magH>
+		<magK>13.556</magK>
 	</star>
 </system>
