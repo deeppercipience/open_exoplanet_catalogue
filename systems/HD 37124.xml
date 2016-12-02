@@ -23,10 +23,12 @@
 			<period>154.378</period>
 			<semimajoraxis>0.53364</semimajoraxis>
 			<eccentricity>0.054</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/07</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>306.6</temperature>
+			<periastron>130.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 37124 c</name>
