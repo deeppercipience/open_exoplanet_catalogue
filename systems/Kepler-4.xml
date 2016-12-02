@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-4</name>
 	<rightascension>19 02 28</rightascension>
@@ -29,15 +30,17 @@
 			<inclination>89.76</inclination>
 			<transittime errorminus="0.0015" errorplus="0.0015" unit="HJD">2454956.6127</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/01/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1474.7</temperature>
+			<temperature>1650</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.0220</impactparameter>
 		</planet>
 		<name>Kepler-4</name>
 		<name>KOI-7</name>
 		<name>KIC 11853905</name>
 		<temperature>5857.0</temperature>
+		<age>4.500</age>
 	</star>
 	<videolink>http://youtu.be/qJl9BeAPfhI</videolink>
 </system>
