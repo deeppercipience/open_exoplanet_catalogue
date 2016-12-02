@@ -91,10 +91,11 @@
 			<eccentricity errorminus="0.10" errorplus="0.10">0.13</eccentricity>
 			<periastron errorminus="53" errorplus="53">144</periastron>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">1.36</semimajoraxis>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>WASP-47c was discovered from radial velocity follow-up of the WASP-47 system.</description>
-			<lastupdate>15/10/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<temperature>247</temperature>
 		</planet>
 		<magB>12.721</magB>
 	</star>
