@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 168746</name>
 	<rightascension>18 21 49</rightascension>
@@ -19,11 +20,13 @@
 			<mass>0.23</mass>
 			<period>6.403</period>
 			<semimajoraxis>0.065</semimajoraxis>
-			<eccentricity>0.081</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<eccentricity>0.107000</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1026.4</temperature>
+			<periastron>17.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 168746</name>
 		<temperature>5610.0</temperature>
