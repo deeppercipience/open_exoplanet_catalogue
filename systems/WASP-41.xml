@@ -30,14 +30,16 @@
 			<radius errorminus="0.03" errorplus="0.03">1.18</radius>
 			<period errorminus="0.0000009" errorplus="0.0000009">3.0524040</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.040</semimajoraxis>
-			<eccentricity upperlimit="0.026"/>
+			<eccentricity upperlimit="0.026">0.026000</eccentricity>
 			<inclination errorminus="0.3" errorplus="0.3">89.4</inclination>
 			<spinorbitalignment errorminus="10" errorplus="14">-29</spinorbitalignment>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455343.464</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/10/16</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<istransiting>1</istransiting>
+			<temperature>1244</temperature>
+			<impactparameter>0.1000</impactparameter>
 		</planet>
 		<planet>
 			<name>WASP-41 c</name>
