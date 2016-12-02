@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 219077</name>
 	<rightascension>23 14 07</rightascension>
@@ -10,7 +11,7 @@
 		<magJ errorminus="0.192" errorplus="0.192">4.640</magJ>
 		<magH errorminus="0.138" errorplus="0.138">4.124</magH>
 		<magK errorminus="8.888" errorplus="8.888">4.287</magK>
-		<spectraltype>G8 V+</spectraltype>
+		<spectraltype>G8 V</spectraltype>
 		<age>8.9</age>
 		<mass>1.05</mass>
 		<radius>1.91</radius>
@@ -23,10 +24,11 @@
 			<eccentricity>0.770</eccentricity>
 			<periastron>57.61</periastron>
 			<semimajoraxis>6.22</semimajoraxis>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>124.9</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<temperature>5362.0</temperature>
 	</star>
