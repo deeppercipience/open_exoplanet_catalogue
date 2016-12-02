@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>KELT-3</name>
 	<rightascension>09 54 34.3880</rightascension>
@@ -38,10 +39,13 @@
 			<inclination>84.14</inclination>
 			<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/11/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1667.7</temperature>
+			<temperature>1816</temperature>
 			<istransiting>1</istransiting>
+			<periastron>90.0000</periastron>
+			<impactparameter>0.6060</impactparameter>
 		</planet>
+		<age>3.000</age>
 	</star>
 </system>
