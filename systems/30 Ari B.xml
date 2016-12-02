@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<system>
+	<name>30 Ari B</name>
+	<star>
+		<name>30 Ari B</name>
+		<planet>
+			<name>30 Ari B b</name>
+			<list>Confirmed planets</list>
+			<eccentricity>0.289000</eccentricity>
+			<periastron>307.0000</periastron>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<spectraltype>F6 V</spectraltype>
+	</star>
+</system>
