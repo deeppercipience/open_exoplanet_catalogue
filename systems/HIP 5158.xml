@@ -34,9 +34,11 @@
 			<period>9018</period>
 			<semimajoraxis>7.7</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/05/06</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<periastron>142.0900</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HIP 5158</name>
 		<temperature>4962.0</temperature>
