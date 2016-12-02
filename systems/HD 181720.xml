@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 181720</name>
 	<rightascension>19 22 53</rightascension>
@@ -20,10 +21,12 @@
 			<semimajoraxis>1.78</semimajoraxis>
 			<eccentricity>0.26</eccentricity>
 			<inclination>1</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>225.0</temperature>
+			<periastron>177.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 181720</name>
 		<temperature>5781.0</temperature>
