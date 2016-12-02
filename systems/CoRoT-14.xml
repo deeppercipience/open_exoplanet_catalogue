@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-14</name>
 	<rightascension>06 53 42</rightascension>
@@ -29,12 +30,14 @@
 			<inclination>79.6</inclination>
 			<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2454787.6702</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1781.4</temperature>
+			<temperature>1952</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.8600</impactparameter>
 		</planet>
 		<name>CoRoT-14</name>
 		<temperature>6035.0</temperature>
+		<age>4.200</age>
 	</star>
 </system>
