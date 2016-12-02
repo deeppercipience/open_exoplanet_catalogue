@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1609</name>
 	<rightascension>19 20 35</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.004097000" errorplus="0.004097000">114.342190000</period>
 			<radius errorminus="0.029" errorplus="0.080">0.198</radius>
 		</planet>
+		<age>3.020</age>
+		<magJ>13.918</magJ>
+		<magH>13.687</magH>
+		<magK>13.508</magK>
 	</star>
 </system>
