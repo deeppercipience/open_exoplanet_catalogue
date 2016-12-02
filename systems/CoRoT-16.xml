@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-16</name>
 	<rightascension>18 34 06</rightascension>
@@ -7,7 +8,7 @@
 		<mass>1.098</mass>
 		<radius>1.19</radius>
 		<magV errorminus="0.43" errorplus="0.43">16.03</magV>
-		<magB errorminus="0.48" errorplus="0.48">17.85</magB>
+		<magB errorminus="0.48" errorplus="0.48">16.680</magB>
 		<magR errorminus="0.44" errorplus="0.44">15.51</magR>
 		<magI errorminus="0.04" errorplus="0.04">14.57</magI>
 		<magJ errorminus="0.029" errorplus="0.029">13.496</magJ>
@@ -27,12 +28,15 @@
 			<inclination>85.01</inclination>
 			<transittime errorminus="0.0022" errorplus="0.0021" unit="BJD">2454923.9145</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1085.5</temperature>
 			<istransiting>1</istransiting>
+			<periastron>168.4100</periastron>
+			<impactparameter>0.8250</impactparameter>
 		</planet>
 		<name>CoRoT-16</name>
 		<temperature>5650.0</temperature>
+		<age>6.730</age>
 	</star>
 </system>
