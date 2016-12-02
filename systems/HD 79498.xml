@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 79498</name>
 	<rightascension>09 15 09</rightascension>
@@ -22,10 +23,12 @@
 			<semimajoraxis>3.13</semimajoraxis>
 			<eccentricity>0.59</eccentricity>
 			<description>The planet HD 79498 b was found with 65 radial velocity observations over 7 years with the 2.7m Harlan J. Smith telescope.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>149.6</temperature>
+			<periastron>221.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 79498</name>
 		<temperature>5740.0</temperature>
