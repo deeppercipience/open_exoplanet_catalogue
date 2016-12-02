@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-101</name>
 	<name>KOI-46</name>
@@ -48,15 +49,19 @@
 			<period errorminus="0.000075" errorplus="0.000075">6.029760</period>
 			<transittime errorminus="0.0088" errorplus="0.0088" unit="BJD">2454965.4860</transittime>
 			<inclination errorminus="3.1" errorplus="3.4">84.6</inclination>
-			<mass upperlimit="0.0119" />
+			<mass upperlimit="0.0119">0.01000</mass>
 			<radius errorminus="0.015" errorplus="0.017">0.112</radius>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0684</semimajoraxis>
 			<list>Confirmed planets</list>
 			<description>Kepler-101 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. The upper limit on the mass from radial velocity variations rules out pure iron compositions to 68.3% probability.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<temperature>1413</temperature>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>90.0000</periastron>
+			<impactparameter>0.7500</impactparameter>
 		</planet>
 	</star>
 </system>
