@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>mu Leo</name>
 	<name>HD 85503</name>
@@ -30,7 +31,7 @@
 		<magI>2.39</magI>
 		<magJ>1.93</magJ>
 		<magH errorminus="0.174" errorplus="0.174">1.327</magH>
-		<magK>1.22</magK>
+		<magK>1.364</magK>
 		<age errorminus="0.7" errorplus="0.7">3.35</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.36</metallicity>
 		<spectraltype>K2III</spectraltype>
@@ -48,9 +49,10 @@
 			<periastron errorminus="16" errorplus="16">227.1</periastron>
 			<periastrontime errorminus="17.3" errorplus="17.3">2452921.0</periastrontime>
 			<description>The planet mu Leo b is orbiting the K giant mu Leonis, also known as Rasalas (the northern star of the lion's head). It was found using data from the Bohyunsan Observatory.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
