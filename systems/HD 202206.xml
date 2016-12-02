@@ -18,10 +18,13 @@
 			<period>255.87</period>
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0.435</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>277.6</temperature>
+			<periastron>161.1800</periastron>
+			<inclination>90.000</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 202206 c</name>
