@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-79</name>
 	<name>KOI-152</name>
@@ -60,15 +61,20 @@
 			<name>KIC 8394721 b</name>
 			<name>KIC 8394721.03</name>
 			<name>UCAC3 269-182620 b</name>
-			<radius errorminus="0.06015" errorplus="0.06015">0.33171</radius>
+			<radius errorminus="0.06015" errorplus="0.06015">0.310</radius>
 			<period errorminus=".000036" errorplus="0.000036">13.484686</period>
 			<transittime errorminus="0.0015800" errorplus="0.0015800">2454969.6133500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-79 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.03430</mass>
+			<semimajoraxis>0.117000</semimajoraxis>
+			<eccentricity>0.015000</eccentricity>
+			<inclination>88.780</inclination>
+			<impactparameter>0.4100</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-79 e</name>
@@ -87,5 +93,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
+		<age>3.440</age>
 	</star>
 </system>
