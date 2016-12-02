@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>BD+49 828</name>
 	<rightascension>03 02 33.7362</rightascension>
@@ -7,7 +8,7 @@
 		<name>GSC 03318-01515</name>
 		<name>TYC 3318-1515-1</name>
 		<name>2MASS J03023372+4943480</name>
-		<magB errorminus="0.04" errorplus="0.04">10.51</magB>
+		<magB errorminus="0.04" errorplus="0.04">9.430</magB>
 		<magV errorminus="0.02" errorplus="0.02">9.38</magV>
 		<magJ errorminus="0.019" errorplus="0.019">7.246</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.729</magH>
@@ -27,9 +28,10 @@
 			<mass errorminus="0.2" errorplus="0.4" type="msini">1.6</mass>
 			<semimajoraxis errorminus="0.2" errorplus="0.32">4.2</semimajoraxis>
 			<list>Confirmed planets</list>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/11/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
