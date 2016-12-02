@@ -47,9 +47,11 @@
 			<period errorminus="4500" errorplus="4500">6700</period>
 			<semimajoraxis errorminus="0.56" errorplus="1.93">6.95</semimajoraxis>
 			<eccentricity errorminus="0.13" errorplus="0.13">0.24</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/03/11</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron>224.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 4203</name>
 		<temperature>5702.0</temperature>
