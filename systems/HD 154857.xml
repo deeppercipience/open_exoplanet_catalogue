@@ -21,11 +21,12 @@
 			<semimajoraxis errorminus="0.008" errorplus="0.008">1.291</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.46</eccentricity>
 			<periastron errorminus="4" errorplus="4">57</periastron>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>336.0</temperature>
 			<description>HD 114613 b is a Jupiter-mass planet in a multiplanery system. A stability analysis shows that the system is stable for at least 100 million years. The planet was discovered by the Anglo-Australian Planet Search group.</description>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 154857 c</name>
