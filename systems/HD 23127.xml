@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 23127</name>
 	<rightascension>03 39 24</rightascension>
@@ -19,12 +20,15 @@
 			<period>1214</period>
 			<semimajoraxis>2.4</semimajoraxis>
 			<eccentricity>0.44</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/02/09</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>205.3</temperature>
+			<periastron>190.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 23127</name>
 		<temperature>5927.0</temperature>
+		<age>7.100</age>
 	</star>
 </system>
