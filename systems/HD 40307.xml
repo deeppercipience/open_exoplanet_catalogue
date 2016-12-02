@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 40307</name>
 	<rightascension>05 54 04</rightascension>
@@ -13,7 +14,7 @@
 		<magH errorminus="0.040" errorplus="0.040">4.968</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.793</magK>
 		<metallicity>-0.31</metallicity>
-		<spectraltype>K2.5V</spectraltype>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 40307 b</name>
 			<mass>0.01258</mass>
@@ -35,10 +36,12 @@
 			<semimajoraxis>0.0799</semimajoraxis>
 			<eccentricity>0.06</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/08</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>617.1</temperature>
+			<periastron>234.9000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 40307 d</name>
@@ -94,6 +97,7 @@
 		</planet>
 		<name>HD 40307</name>
 		<temperature>4977.0</temperature>
+		<age>4.500</age>
 	</star>
 	<videolink>http://youtu.be/MNIllUKtjfI</videolink>
 </system>
