@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 30562</name>
 	<rightascension>04 48 36</rightascension>
@@ -23,10 +24,11 @@
 			<semimajoraxis>2.315</semimajoraxis>
 			<eccentricity>0.778</eccentricity>
 			<periastron>78.4</periastron>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>208.7</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<temperature>5861.0</temperature>
 	</star>
