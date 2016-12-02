@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 13931</name>
 	<rightascension>02 16 47.37946</rightascension>
@@ -21,7 +22,7 @@
 		<magK errorminus="0.029" errorplus="0.029">6.139</magK>
 		<temperature errorminus="44" errorplus="44">5829</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.03</metallicity>
-		<spectraltype>G0 V</spectraltype>
+		<spectraltype>G0</spectraltype>
 		<age errorminus="2.0" errorplus="2.0">8.4</age>
 		<planet>
 			<name>HD 13931 b</name>
@@ -32,9 +33,10 @@
 			<eccentricity errorminus="0.05" errorplus="0.05">0.02</eccentricity>
 			<periastron errorminus="78" errorplus="78">290</periastron>
 			<periastrontime errorminus="904" errorplus="904">2454494</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/03/09</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
