@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-608</name>
 	<rightascension>19 35 32</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000005420" errorplus="0.000005420">6.412515040</period>
 			<radius errorminus="0.039" errorplus="0.064">0.325</radius>
 		</planet>
+		<age>3.800</age>
+		<magJ>13.526</magJ>
+		<magH>13.182</magH>
+		<magK>13.077</magK>
 	</star>
 </system>
