@@ -53,9 +53,10 @@
 			<periastron errorminus="320.9" errorplus="182.2">220.5</periastron>
 			<periastrontime errorminus="96.5" errorplus="209.9">2454930</periastrontime>
 			<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>
