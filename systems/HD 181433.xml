@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 181433</name>
 	<rightascension>19 25 10</rightascension>
@@ -19,10 +20,12 @@
 			<period>9.3743</period>
 			<semimajoraxis>0.08</semimajoraxis>
 			<eccentricity>0.396</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>660.5</temperature>
+			<periastron>202.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 181433 c</name>
@@ -50,6 +53,8 @@
 		</planet>
 		<name>HD 181433</name>
 		<temperature>4962.0</temperature>
+		<magR>7.835</magR>
+		<magI>7.380</magI>
 	</star>
 	<videolink>http://youtu.be/71IuY-AQBUY</videolink>
 </system>
