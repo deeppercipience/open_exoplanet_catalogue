@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<system>
+	<name>HD 142022 A</name>
+	<star>
+		<name>HD 142022 A</name>
+		<planet>
+			<name>HD 142022 A b</name>
+			<list>Confirmed planets</list>
+			<periastron>170.0000</periastron>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+		</planet>
+		<spectraltype>K0</spectraltype>
+		<magR>7.228</magR>
+		<magI>6.820</magI>
+		<magJ>6.384</magJ>
+		<magH>6.100</magH>
+		<magK>5.964</magK>
+	</star>
+</system>
