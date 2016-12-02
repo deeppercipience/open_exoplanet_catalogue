@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-7</name>
 	<rightascension>20 44 10</rightascension>
@@ -26,7 +27,7 @@
 			<inclination>87.03</inclination>
 			<transittime errorminus="0.00030" errorplus="0.00030" unit="BJD">2455446.63493</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1359.5</temperature>
 			<istransiting>1</istransiting>
