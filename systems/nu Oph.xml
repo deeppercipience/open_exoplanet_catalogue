@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>nu Oph</name>
 	<rightascension>17 59 01.59191</rightascension>
@@ -19,13 +20,13 @@
 		<name>BD-09 6432</name>
 		<name>2MASS J17590160-0946249</name>
 		<magV>3.33</magV>
-		<magR>2.64</magR>
-		<magI>2.16</magI>
+		<magR>3.848</magR>
+		<magI>2.387</magI>
 		<magB errorminus="0.01" errorplus="0.01">4.31</magB>
 		<magJ errorminus="0.290" errorplus="0.290">1.732</magJ>
 		<magH errorminus="0.284" errorplus="0.284">1.289</magH>
 		<magK errorminus="0.306" errorplus="0.306">1.225</magK>
-		<spectraltype>K0III</spectraltype>
+		<spectraltype>K1 III</spectraltype>
 		<mass lowerlimit="2.98" upperlimit="3.10">3.04</mass>
 		<radius lowerlimit="14.1" upperlimit="16.2">15.1</radius>
 		<temperature errorminus="25" errorplus="25">4928</temperature>
@@ -39,10 +40,11 @@
 			<eccentricity errorminus="0.0065" errorplus="0.0065">0.1256</eccentricity>
 			<periastron errorminus="3.8" errorplus="3.8">9.6</periastron>
 			<periastrontime errorminus="6.6" errorplus="6.6">2452034.2</periastrontime>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>nu Oph c</name>
