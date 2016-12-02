@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-83</name>
 	<name>KOI-898</name>
@@ -22,13 +21,13 @@
 			<name>KOI-898.01</name>
 			<name>KIC 7870390 b</name>
 			<name>KIC 7870390.01</name>
-			<radius errorminus="0.01458" errorplus="0.01458">0.252</radius>
+			<radius errorminus="0.01458" errorplus="0.01458">0.23056</radius>
 			<period errorminus=".000022" errorplus="0.000022">9.770469</period>
 			<transittime errorminus="0.0012700" errorplus="0.0012700">2455008.7123700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-83 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-83 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -44,11 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-83 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-83 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<semimajoraxis>0.051000</semimajoraxis>
-			<impactparameter>0.3700</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-83 c</name>
@@ -62,7 +59,7 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-83 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-83 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>

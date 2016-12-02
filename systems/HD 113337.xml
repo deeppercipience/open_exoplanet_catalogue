@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 113337</name>
 	<rightascension>13 01 47</rightascension>
@@ -31,10 +30,9 @@
 			<eccentricity errorminus="0.04" errorplus="0.04">0.46</eccentricity>
 			<periastron errorminus="3.7" errorplus="3.6">-140.8</periastron>
 			<description>The planet HD 113337 b is orbiting a bright young F-type star. An IR excess has been attributed to a cold debris disk around the star. The planet has been found with the SOPHIE spectrograph on the 1.9m telescope at Observatoire de Haute-Provence.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/10/10</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

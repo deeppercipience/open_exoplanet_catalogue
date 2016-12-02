@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-6</name>
 	<rightascension>18 44 18</rightascension>
@@ -13,7 +12,7 @@
 		<magH errorminus="0.022" errorplus="0.022">12.228</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.119</magK>
 		<metallicity>-0.2</metallicity>
-		<spectraltype>F9 V</spectraltype>
+		<spectraltype>F5V</spectraltype>
 		<planet>
 			<name>CoRoT-6 b</name>
 			<name>CoRoT-Exo-6 b</name>
@@ -23,18 +22,16 @@
 			<radius errorminus="0.035" errorplus="0.035">1.166</radius>
 			<period errorminus="0.000004" errorplus="0.000004">8.886593</period>
 			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0855</semimajoraxis>
-			<eccentricity upperlimit="0.1">0.100000</eccentricity>
+			<eccentricity upperlimit="0.1" />
 			<inclination errorminus="0.30" errorplus="0.30">89.07</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>10/01/11</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>1017</temperature>
+			<temperature>929.2</temperature>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454595.6144</transittime>
 			<istransiting>1</istransiting>
-			<impactparameter>0.2910</impactparameter>
 		</planet>
 		<name>CoRoT-6</name>
 		<temperature>6090.0</temperature>
-		<magI>13.161</magI>
 	</star>
 </system>

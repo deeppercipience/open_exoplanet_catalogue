@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 103197</name>
 	<rightascension>11 52 53</rightascension>
@@ -12,7 +11,7 @@
 		<magH errorminus="0.051" errorplus="0.051">7.600</magH>
 		<magK errorminus="0.027" errorplus="0.027">7.426</magK>
 		<metallicity>0.21</metallicity>
-		<spectraltype>K1 V(P)</spectraltype>
+		<spectraltype>K1V</spectraltype>
 		<planet>
 			<name>HD 103197 b</name>
 			<list>Confirmed planets</list>
@@ -20,15 +19,12 @@
 			<period>47.84</period>
 			<semimajoraxis>0.249</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/10/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>409.7</temperature>
-			<periastron>0.0000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 103197</name>
 		<temperature>5303.0</temperature>
-		<age>9.100</age>
 	</star>
 </system>

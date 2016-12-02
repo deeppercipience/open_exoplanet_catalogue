@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-67</name>
 	<rightascension>19 36 37</rightascension>
@@ -30,11 +29,10 @@
 			<transittime errorminus="0.0048" errorplus="0.0048">2454966.9855</transittime>
 			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1171</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>13/06/26</lastupdate>
 			<description>Kepler-67 b is orbiting a Sun-like star in the billion-year-old open cluster NGC6811. It demonstrates that small planets can form and survive in a dense cluster environment. The frequency of planets around stars in open cluster and field stars in the Milky Way are approximately the same.</description>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-			<impactparameter>0.3700</impactparameter>
 		</planet>
 	</star>
 </system>

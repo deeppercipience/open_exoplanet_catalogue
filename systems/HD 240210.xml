@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 240210</name>
 	<rightascension>23 10 29.2303</rightascension>
@@ -24,14 +23,13 @@
 			<list>Confirmed planets</list>
 			<mass type="msini">5.21</mass>
 			<period errorminus="2.33" errorplus="2.33">501.75</period>
-			<semimajoraxis>1.160000</semimajoraxis>
+			<semimajoraxis>1.33</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.15</eccentricity>
 			<periastron errorminus="7.77" errorplus="7.77">277.59</periastron>
 			<periastrontime errorminus="10.93" errorplus="10.93">2454487.38</periastrontime>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

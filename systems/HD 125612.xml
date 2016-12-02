@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 125612</name>
 	<rightascension>14 20 54</rightascension>
@@ -15,16 +14,14 @@
 			<name>HD 125612 b</name>
 			<list>Confirmed planets</list>
 			<mass>3</mass>
-			<period>559.40000000</period>
+			<period>502</period>
 			<semimajoraxis>1.37</semimajoraxis>
 			<eccentricity>0.46</eccentricity>
 			<description>The star HD 125612 is a metal rich yellow main sequence star in the constellation Virgo. It hosts at least 3 planets. All of them are on eccentric orbits.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>224.5</temperature>
-			<periastron>41.5000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 125612 c</name>
@@ -34,12 +31,10 @@
 			<semimajoraxis>0.05</semimajoraxis>
 			<eccentricity>0.27</eccentricity>
 			<description>The star HD 125612 is a metal rich yellow main sequence star in the constellation Virgo. It hosts at least 3 planets. All of them are on eccentric orbits.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1186.0</temperature>
-			<periastron>103.0000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 125612 d</name>
@@ -49,18 +44,12 @@
 			<semimajoraxis>4.2</semimajoraxis>
 			<eccentricity>0.28</eccentricity>
 			<description>The star HD 125612 is a metal rich yellow main sequence star in the constellation Virgo. It hosts at least 3 planets. All of them are on eccentric orbits.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>129.4</temperature>
-			<periastron>-76.0000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 125612</name>
 		<temperature>5897.0</temperature>
-		<age>3.000</age>
-		<magJ>7.179</magJ>
-		<magH>6.950</magH>
-		<magK>6.838</magK>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 240237</name>
 	<rightascension>23 15 42.22361</rightascension>
@@ -31,10 +30,9 @@
 			<periastron errorminus="21.8" errorplus="21.8">108.1</periastron>
 			<periastrontime errorminus="28.3" errorplus="28.3">2454292.5</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The star HD 240237 is a K2 giant.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

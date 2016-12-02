@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 81040</name>
 	<rightascension>09 23 47</rightascension>
@@ -23,15 +22,12 @@
 			<period>1001.7</period>
 			<semimajoraxis>1.94</semimajoraxis>
 			<eccentricity>0.526</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>164.2</temperature>
-			<periastron>81.3000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 81040</name>
 		<temperature>5700.0</temperature>
-		<age>0.730</age>
 	</star>
 </system>

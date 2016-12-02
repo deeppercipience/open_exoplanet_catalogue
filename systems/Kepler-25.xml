@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-25</name>
 	<rightascension>19 06 33</rightascension>
@@ -18,7 +17,7 @@
 		<magK errorminus="0.017" errorplus="0.017">9.493</magK>
 		<spectraltype>F</spectraltype>
 		<temperature errorminus="27" errorplus="27">6354</temperature>
-		<age errorminus="0.300" errorplus="0.300">11.000</age>
+		<age errorminus="0.300" errorplus="0.300">2.750</age>
 		<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
 		<planet>
 			<name>Kepler-25 b</name>
@@ -33,12 +32,10 @@
 			<eccentricity errorminus="0.05" errorplus="0.11">0.05</eccentricity>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/06/09</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1220.6</temperature>
 			<istransiting>1</istransiting>
-			<mass>0.03020</mass>
-			<impactparameter>0.5400</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-25 c</name>
@@ -54,12 +51,10 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. The orbit is aligned at 26.9 degrees from the stellar equator.</description>
 			<spinorbitalignment errorminus="7.1" errorplus="7.1">9.4</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/06/09</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>959.7</temperature>
 			<istransiting>1</istransiting>
-			<mass>0.07740</mass>
-			<impactparameter>0.8800</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-25 d</name>
@@ -71,9 +66,8 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<istransiting>0</istransiting>
+			<lastupdate>14/02/24</lastupdate>
+			<discoverymethod>RV</discoverymethod>
 		</planet>
 	</star>
 </system>

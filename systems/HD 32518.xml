@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 32518</name>
 	<rightascension>05 09 36.71904</rightascension>
@@ -31,11 +30,9 @@
 			<eccentricity errorminus="0.03" errorplus="0.03">0.01</eccentricity>
 			<periastron errorminus="126.71" errorplus="126.71">306.11</periastron>
 			<periastrontime errorminus="13.66" errorplus="13.66">2452950.29</periastrontime>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
-		<age>5.830</age>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-103</name>
 	<rightascension>16 37 15</rightascension>
@@ -27,10 +26,8 @@
 			<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>14/11/11</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<impactparameter>0.1900</impactparameter>
 		</planet>
-		<age>4.000</age>
 	</star>
 </system>

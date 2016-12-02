@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-598</name>
 	<rightascension>19 32 30</rightascension>
@@ -14,16 +13,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>16/05/10</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000009710" errorplus="0.000009710">3.701754280</period>
 			<radius errorminus="0.008" errorplus="0.011">0.134</radius>
 		</planet>
-		<age>7.590</age>
-		<magJ>13.410</magJ>
-		<magH>12.977</magH>
-		<magK>12.931</magK>
 	</star>
 </system>

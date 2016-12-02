@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-51</name>
 	<name>KOI-620</name>
@@ -22,7 +21,7 @@
 			<name>KOI-620 b</name>
 			<name>KIC 11773022 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0025" errorplus="0.0047">0.00700</mass>
+			<mass errorminus="0.0025" errorplus="0.0047">0.0066</mass>
 			<radius errorminus="0.027" errorplus="0.027">0.633</radius>
 			<period errorminus="0.0002" errorplus="0.0002">45.1540</period>
 			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2455714.5977</transittime>
@@ -31,11 +30,9 @@
 			<inclination>89.8</inclination>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 45.16 days for 5.7799 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/12/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-			<temperature>543</temperature>
-			<impactparameter>0.2510</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-51 c</name>
@@ -52,11 +49,9 @@
 			<inclination>89.4</inclination>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/12/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-			<temperature>439</temperature>
-			<impactparameter>1.0170</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-51 d</name>
@@ -73,12 +68,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-51 d has been discovered by the Kepler spacecraft. Its mass has been determined by analysis of transit timing variations, indicating that it is a very low density planet.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/12/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<temperature>381</temperature>
-			<eccentricity>0.008000</eccentricity>
-			<impactparameter>0.2500</impactparameter>
 		</planet>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 106906</name>
 	<rightascension>12 17 53.19228</rightascension>
@@ -27,10 +26,8 @@
 			<magJ errorminus="0.3" errorplus="0.3">17.6</magJ>
 			<description>The star HD 106906 hosts a massive debris disk with an inner edge at 15-20 AU and an outer edge at 120 AU. New adaptive optics images from the Magellan telescope revealed a planetary mass companion far beyond the debris disk at 650 AU. Explaining the formation of such a wide companion is challenging.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>13/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<semimajoraxis>650.000000</semimajoraxis>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

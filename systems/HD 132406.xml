@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 132406</name>
 	<rightascension>14 56 55</rightascension>
@@ -14,7 +13,7 @@
 		<magH errorminus="0.031" errorplus="0.031">6.985</magH>
 		<magK errorminus="0.017" errorplus="0.017">6.870</magK>
 		<metallicity>0.18</metallicity>
-		<spectraltype>G0</spectraltype>
+		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HD 132406 b</name>
 			<list>Confirmed planets</list>
@@ -22,12 +21,10 @@
 			<period>974</period>
 			<semimajoraxis>1.98</semimajoraxis>
 			<eccentricity>0.34</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>07/10/31</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>209.0</temperature>
-			<periastron>214.0000</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 132406</name>
 		<temperature>5885.0</temperature>

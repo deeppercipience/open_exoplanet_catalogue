@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>HD 48265</name>
 	<rightascension>06 40 02</rightascension>
@@ -12,23 +11,20 @@
 		<magH errorminus="0.061" errorplus="0.061">6.529</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.449</magK>
 		<metallicity>0.17</metallicity>
-		<spectraltype>G5 IV/V</spectraltype>
+		<spectraltype>G5V</spectraltype>
 		<planet>
 			<name>HD 48265 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.16</mass>
-			<period>780.30000000</period>
-			<semimajoraxis>1.810000</semimajoraxis>
-			<eccentricity>0.080000</eccentricity>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<period>700</period>
+			<semimajoraxis>1.51</semimajoraxis>
+			<eccentricity>0.18</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/05/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>291.4</temperature>
-			<periastron>343.7800</periastron>
-			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 48265</name>
 		<temperature>5940.0</temperature>
-		<age>5.000</age>
 	</star>
 </system>

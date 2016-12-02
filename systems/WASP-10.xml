@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-10</name>
 	<rightascension>23 15 58</rightascension>
@@ -27,11 +26,10 @@
 			<inclination>86.8</inclination>
 			<transittime errorminus="0.000082" errorplus="0.000082" unit="BJD">2454664.033369</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>08/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1370</temperature>
+			<temperature>946.8</temperature>
 			<istransiting>1</istransiting>
-			<impactparameter>0.2990</impactparameter>
 		</planet>
 		<name>WASP-10</name>
 		<temperature>4675.0</temperature>

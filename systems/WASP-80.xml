@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-80</name>
 	<rightascension>20 12 40</rightascension>
@@ -33,17 +32,15 @@
 			<radius errorminus="0.027" errorplus="0.026">0.952</radius>
 			<period errorminus="0.0000027" errorplus="0.0000023">3.0678504</period>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.0346</semimajoraxis>
-			<eccentricity upperlimit="0.07">0.002000</eccentricity>
+			<eccentricity upperlimit="0.07" />
 			<inclination errorminus="0.12" errorplus="0.07">89.92</inclination>
 			<transittime errorminus="0.000052" errorplus="0.000067" unit="BJD">2456125.417512</transittime>
 			<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far. The transmission spectrum matches a hazy model with a temperature of 600 K.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>15/04/23</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<temperature>825</temperature>
+			<temperature>600</temperature>
 			<istransiting>1</istransiting>
-			<periastron>94.0000</periastron>
-			<impactparameter>0.2150</impactparameter>
 		</planet>
 	</star>
 </system>

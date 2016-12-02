@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>81 Cet</name>
 	<rightascension>02 37 42.80105</rightascension>
@@ -36,10 +35,9 @@
 			<periastron errorminus="6.9" errorplus="6.9">175.0</periastron>
 			<periastrontime errorminus="26" errorplus="26">2452486</periastrontime>
 			<description>The star 81 Ceti is a G-type giant in the constellation of Cetus.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

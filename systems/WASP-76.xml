@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>WASP-76</name>
 	<rightascension>01 46 31.86</rightascension>
@@ -31,15 +30,13 @@
 			<period errorminus="0.000001" errorplus="0.000001">1.809886</period>
 			<transittime errorminus="0.00034" errorplus="0.00034" unit="HJD">2456107.85507</transittime>
 			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0330</semimajoraxis>
-			<eccentricity upperlimit="0.05">0.000000</eccentricity>
+			<eccentricity upperlimit="0.05" />
 			<inclination errorminus="1.6" errorplus="1.3">88.0</inclination>
 			<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>13/10/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-			<impactparameter>0.1400</impactparameter>
 		</planet>
-		<age>5.300</age>
 	</star>
 </system>

@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>BD-10 3166</name>
 	<name>BD-10°3166</name>
@@ -20,22 +19,21 @@
 		<magK errorminus="0.026" errorplus="0.026">8.124</magK>
 		<temperature errorminus="44" errorplus="44">5393</temperature>
 		<metallicity errorminus="0.030" errorplus="0.030">0.382</metallicity>
-		<spectraltype>K0 V</spectraltype>
-		<age upperlimit="1.84"/>
+		<spectraltype>K3.0 V</spectraltype>
+		<age upperlimit="1.84" />
 		<planet>
 			<name>BD-10 3166 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.035" errorplus="0.035" type="msini">0.408</mass>
 			<period errorminus="0.00011" errorplus="0.00011">3.48777</period>
-			<semimajoraxis errorminus="0.0025" errorplus="0.0025">0.045200</semimajoraxis>
+			<semimajoraxis errorminus="0.0025" errorplus="0.0025">0.0427</semimajoraxis>
 			<eccentricity errorminus="0.0230" errorplus="0.0230">0.0190</eccentricity>
 			<periastron>334</periastron>
 			<periastrontime errorminus="0.69" errorplus="0.69">2451171.22</periastrontime>
 			<description>The star BD-103166 is a K-type main sequence star in the constellation Crater. It is three times as metal-rich as our Sun.</description>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2000</discoveryyear>
-			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

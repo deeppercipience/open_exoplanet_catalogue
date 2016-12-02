@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>SWEEPS-11</name>
 	<rightascension>17 59 03</rightascension>
@@ -24,11 +23,5 @@
 			<discoveryyear>2006</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-		<planet>
-			<name>SWEEPS-11 b</name>
-			<list>Confirmed planets</list>
-			<lastupdate>16/12/01</lastupdate>
-		</planet>
-		<magV>19.830</magV>
 	</star>
 </system>

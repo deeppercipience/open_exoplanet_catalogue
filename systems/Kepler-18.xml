@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>Kepler-18</name>
 	<rightascension>19 52 19.067</rightascension>
@@ -32,12 +31,10 @@
 			<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2454966.5068</transittime>
 			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>11/10/05</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1181.7</temperature>
 			<istransiting>1</istransiting>
-			<eccentricity>0.000000</eccentricity>
-			<impactparameter>0.7710</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-18 c</name>
@@ -55,12 +52,10 @@
 			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2455167.0883</transittime>
 			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>11/10/05</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>911.1</temperature>
 			<istransiting>1</istransiting>
-			<eccentricity>0.000000</eccentricity>
-			<impactparameter>0.5930</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-18 d</name>
@@ -77,13 +72,10 @@
 			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2455169.1776</transittime>
 			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>11/10/05</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>729.8</temperature>
 			<istransiting>1</istransiting>
-			<eccentricity>0.000000</eccentricity>
-			<impactparameter>0.7670</impactparameter>
 		</planet>
-		<age>10.000</age>
 	</star>
 </system>

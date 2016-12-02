@@ -1,4 +1,3 @@
-<?xml version="1.0" ?>
 <system>
 	<name>TrES-3</name>
 	<rightascension>17 52 07</rightascension>
@@ -16,7 +15,7 @@
 		<magH errorminus="0.030" errorplus="0.030">10.655</magH>
 		<magK errorminus="0.028" errorplus="0.028">10.608</magK>
 		<metallicity>0.001</metallicity>
-		<spectraltype>G4 V</spectraltype>
+		<spectraltype>K0V</spectraltype>
 		<temperature errorminus="150" errorplus="150">5720</temperature>
 		<planet>
 			<name>TrES-3 b</name>
@@ -31,7 +30,7 @@
 			<inclination errorminus="0.21" errorplus="0.21">82.15</inclination>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455358.86636</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/12/01</lastupdate>
+			<lastupdate>10/12/13</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<description>The planet TrES-3 b has an orbital perdiod of just 31 hours and is undergoing orbital decay due to tidal effects.</description>
 			<istransiting>1</istransiting>
