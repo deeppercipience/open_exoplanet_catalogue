@@ -36,10 +36,12 @@
 			<period>5000</period>
 			<semimajoraxis>5.8</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>117.4</temperature>
+			<periastron>195.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 134987</name>
 		<temperature>5740.0</temperature>
