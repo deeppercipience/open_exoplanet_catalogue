@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 44219</name>
 	<rightascension>06 20 14</rightascension>
@@ -20,10 +21,12 @@
 			<period>472.3</period>
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.61</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>260.2</temperature>
+			<periastron>147.4000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 44219</name>
 		<temperature>5752.0</temperature>
