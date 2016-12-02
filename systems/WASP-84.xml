@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-84</name>
 	<name>2MASS 08442570+0151361</name>
@@ -13,8 +14,8 @@
 		<metallicity errorminus="0.12" errorplus="0.12">0.09</metallicity>
 		<spectraltype>K0</spectraltype>
 		<age>1</age>
-		<magV errorminus="0.10" errorplus="0.10">11.64</magV>
-		<magB errorminus="0.08" errorplus="0.08">10.83</magB>
+		<magV errorminus="0.10" errorplus="0.10">10.830</magV>
+		<magB errorminus="0.08" errorplus="0.08">11.640</magB>
 		<magJ errorminus="0.03" errorplus="0.03">9.35</magJ>
 		<magH errorminus="0.02" errorplus="0.02">8.96</magH>
 		<magK errorminus="0.02" errorplus="0.02">8.86</magK>
@@ -28,13 +29,14 @@
 			<period errorminus="0.0000070" errorplus="0.0000070">8.5234865</period>
 			<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2456286.10583</transittime>
 			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.0775</semimajoraxis>
-			<eccentricity errorminus="0.011" errorplus="0.011">0.018</eccentricity>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.000000</eccentricity>
 			<inclination errorminus="0.037" errorplus="0.037">88.275</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
-			<lastupdate>14/09/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.6320</impactparameter>
 		</planet>
 	</star>
 </system>
