@@ -62,15 +62,18 @@
 			<name>KOI-730.03</name>
 			<name>KIC 10227020 e</name>
 			<name>KIC 10227020.03</name>
-			<radius errorminus="0.00365" errorplus="0.09478">0.21871</radius>
+			<radius errorminus="0.00365" errorplus="0.09478">0.410</radius>
 			<period errorminus=".000228" errorplus="0.000228">19.721734</period>
 			<transittime errorminus="0.0059300" errorplus="0.0059300">2454968.1036900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-223 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-223 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass>0.01510</mass>
+			<eccentricity>0.051000</eccentricity>
+			<inclination>88.000</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-223 b</name>
