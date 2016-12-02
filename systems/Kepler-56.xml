@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-56</name>
 	<rightascension>19 35 02.01</rightascension>
@@ -55,14 +56,17 @@
 			<name>Kepler-56 d</name>
 			<name>KOI-1241 d</name>
 			<name>KIC 6448890 d</name>
-			<list>Controversial</list>
+			<list>Confirmed planets</list>
 			<mass>3.3</mass>
-			<eccentricity>0.4</eccentricity>
-			<semimajoraxis>2.0</semimajoraxis>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/14</lastupdate>
+			<eccentricity>0.200000</eccentricity>
+			<semimajoraxis>2.160000</semimajoraxis>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<description>A linear trend in the radial velocity measurements indicate a third object orbiting Kepler-56, which has tilted the orbits of the inner planets with respect to the stellar equator. So far it has not been possible to confirm the nature of this object from the observations of the system, but it may be a giant planet in a 2 AU orbit.</description>
+			<periastron>-15.0000</periastron>
+			<period>1002.00000000</period>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
