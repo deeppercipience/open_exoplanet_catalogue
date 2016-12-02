@@ -32,10 +32,11 @@
 			<eccentricity errorminus="0.0061" errorplus="0.0061">0.6380</eccentricity>
 			<periastrontime errorminus="0.11" errorplus="0.11" unit="BJD">2450793.39</periastrontime>
 			<periastron errorminus="0.92" errorplus="0.92">175.35</periastron>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>Radial Velocity</discoverymethod>
 			<description>HD 74156 b is a giant planet in a highly eccentric orbit. It is the inner member of a hierarchical system of two planets.</description>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 74156 c</name>
