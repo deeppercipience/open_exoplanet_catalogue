@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>WASP-71</name>
 	<rightascension>01 57 03</rightascension>
@@ -31,10 +32,12 @@
 			<transittime errorminus="0.00070" errorplus="0.00070" unit="BJD">2455738.85050</transittime>
 			<description>WASP-71 b is a highly-irradiated planet which transits an  evolved F8-type star every 2.9 days. The planet is larger than Jupiter but less dense.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/01/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1888.1</temperature>
+			<temperature>2049</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.3900</impactparameter>
 		</planet>
+		<age>2.000</age>
 	</star>
 </system>
