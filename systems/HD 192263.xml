@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 192263</name>
 	<rightascension>20 14 00</rightascension>
@@ -19,12 +20,18 @@
 			<period>24.3587</period>
 			<semimajoraxis>0.15312</semimajoraxis>
 			<eccentricity>0.008</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/06/12</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>484.5</temperature>
+			<periastron>184.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 192263</name>
 		<temperature>4965.0</temperature>
+		<age>2.090</age>
+		<magJ>6.115</magJ>
+		<magH>5.685</magH>
+		<magK>5.537</magK>
 	</star>
 </system>
