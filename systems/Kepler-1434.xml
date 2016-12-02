@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1434</name>
 	<rightascension>19 42 09</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000089070" errorplus="0.000089070">8.053336180</period>
 			<radius errorminus="0.018" errorplus="0.019">0.099</radius>
 		</planet>
+		<age>2.570</age>
+		<magJ>11.067</magJ>
+		<magH>10.865</magH>
+		<magK>10.819</magK>
 	</star>
 </system>
