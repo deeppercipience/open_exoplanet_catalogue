@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-10</name>
 	<rightascension>19 24 15</rightascension>
@@ -29,12 +30,15 @@
 			<inclination>88.55</inclination>
 			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>600.8</temperature>
 			<istransiting>1</istransiting>
+			<periastron>218.9000</periastron>
+			<impactparameter>0.8500</impactparameter>
 		</planet>
 		<name>CoRoT-10</name>
 		<temperature>5075.0</temperature>
+		<age>3.000</age>
 	</star>
 </system>
