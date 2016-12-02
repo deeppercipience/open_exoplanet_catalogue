@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 60532</name>
 	<rightascension>07 34 03</rightascension>
@@ -11,7 +12,7 @@
 		<magH errorminus="0.240" errorplus="0.240">3.318</magH>
 		<magK errorminus="0.286" errorplus="0.286">3.355</magK>
 		<metallicity>-0.26</metallicity>
-		<spectraltype>F6IV-V</spectraltype>
+		<spectraltype>F6 IV</spectraltype>
 		<planet>
 			<name>HD 60532 b</name>
 			<list>Confirmed planets</list>
@@ -31,14 +32,19 @@
 			<mass>7.46</mass>
 			<period>607.06</period>
 			<semimajoraxis>1.58</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
+			<eccentricity>0.030000</eccentricity>
 			<inclination>20</inclination>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>348.9</temperature>
+			<periastron>179.8000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 60532</name>
 		<temperature>6095.0</temperature>
+		<age>2.800</age>
+		<magR>4.130</magR>
+		<magI>3.830</magI>
 	</star>
 </system>
