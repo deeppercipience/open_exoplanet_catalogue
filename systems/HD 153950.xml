@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 153950</name>
 	<rightascension>17 04 30.86989</rightascension>
@@ -30,9 +31,11 @@
 			<eccentricity errorminus="0.021" errorplus="0.021">0.34</eccentricity>
 			<periastron errorminus="2.4" errorplus="2.4">308.2</periastron>
 			<periastrontime errorminus="4.3" errorplus="4.3">2454502</periastrontime>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
+		<age>4.300</age>
 	</star>
 </system>
