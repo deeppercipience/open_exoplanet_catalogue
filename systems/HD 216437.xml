@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 216437</name>
 	<rightascension>22 54 39</rightascension>
@@ -12,7 +13,7 @@
 		<magK>4.61</magK>
 		<magB>6.697</magB>
 		<metallicity>0.25</metallicity>
-		<spectraltype>G4 IV-V</spectraltype>
+		<spectraltype>G2/3 IV</spectraltype>
 		<planet>
 			<name>HD 216437 b</name>
 			<list>Confirmed planets</list>
@@ -20,10 +21,12 @@
 			<period>1256</period>
 			<semimajoraxis>2.32</semimajoraxis>
 			<eccentricity>0.29</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>170.2</temperature>
+			<periastron>63.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 216437</name>
 		<temperature>5636.0</temperature>
