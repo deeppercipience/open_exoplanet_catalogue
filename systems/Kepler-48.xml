@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-48</name>
 	<rightascension>19 56 33</rightascension>
@@ -35,15 +36,16 @@
 			<name>KOI-148 c</name>
 			<name>KIC 5735762 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.033219</mass>
-			<radius>0.286149</radius>
+			<mass>0.04597</mass>
+			<radius>0.242</radius>
 			<period>9.6739283</period>
 			<transittime errorminus="0.00077" errorplus="0.00077" unit="BJD">2455058.33981</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 9.67 days for 3.5027 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.3800</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-48 d</name>
@@ -73,5 +75,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
 		</planet>
+		<age>3.140</age>
 	</star>
 </system>
