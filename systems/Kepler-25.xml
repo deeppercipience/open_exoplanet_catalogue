@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-25</name>
 	<rightascension>19 06 33</rightascension>
@@ -17,7 +18,7 @@
 		<magK errorminus="0.017" errorplus="0.017">9.493</magK>
 		<spectraltype>F</spectraltype>
 		<temperature errorminus="27" errorplus="27">6354</temperature>
-		<age errorminus="0.300" errorplus="0.300">2.750</age>
+		<age errorminus="0.300" errorplus="0.300">11.000</age>
 		<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
 		<planet>
 			<name>Kepler-25 b</name>
@@ -51,10 +52,12 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. The orbit is aligned at 26.9 degrees from the stellar equator.</description>
 			<spinorbitalignment errorminus="7.1" errorplus="7.1">9.4</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>959.7</temperature>
 			<istransiting>1</istransiting>
+			<mass>0.07740</mass>
+			<impactparameter>0.8800</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-25 d</name>
