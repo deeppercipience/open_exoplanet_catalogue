@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 102272</name>
 	<rightascension>11 46 24</rightascension>
@@ -20,10 +21,12 @@
 			<period>127.58</period>
 			<semimajoraxis>0.614</semimajoraxis>
 			<eccentricity>0.05</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/06/12</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>877.6</temperature>
+			<periastron>118.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 102272 c</name>
