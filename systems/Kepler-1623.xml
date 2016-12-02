@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-1623</name>
 	<rightascension>19 36 20</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000026980" errorplus="0.000026980">4.361283480</period>
 			<radius errorminus="0.016" errorplus="0.028">0.117</radius>
 		</planet>
+		<age>4.270</age>
+		<magJ>13.715</magJ>
+		<magH>13.379</magH>
+		<magK>13.245</magK>
 	</star>
 </system>
