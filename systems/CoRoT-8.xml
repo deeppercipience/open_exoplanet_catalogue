@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>CoRoT-8</name>
 	<rightascension>19 26 21</rightascension>
@@ -29,12 +30,14 @@
 			<inclination>88.4</inclination>
 			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454238.9750</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>783.1</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter>0.4900</impactparameter>
 		</planet>
 		<name>CoRoT-8</name>
 		<temperature>5080.0</temperature>
+		<age>3.000</age>
 	</star>
 </system>
