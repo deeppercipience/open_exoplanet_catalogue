@@ -23,10 +23,12 @@
 			<semimajoraxis>0.36</semimajoraxis>
 			<eccentricity>0.73</eccentricity>
 			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>499.8</temperature>
+			<periastron>78.7000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 163607 c</name>
