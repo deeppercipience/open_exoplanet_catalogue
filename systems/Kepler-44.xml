@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-44</name>
 	<rightascension>20 00 25</rightascension>
@@ -31,12 +32,14 @@
 			<transittime errorminus="0.00021" errorplus="0.00021">2455187.15640</transittime>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0446</semimajoraxis>
 			<inclination errorminus="0.62" errorplus="0.50">84.96</inclination>
-			<eccentricity upperlimit="0.066" />
+			<eccentricity upperlimit="0.066">0.066000</eccentricity>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+			<temperature>1544</temperature>
+			<impactparameter>0.6200</impactparameter>
 		</planet>
 	</star>
 </system>
