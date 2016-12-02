@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-692</name>
 	<rightascension>19 39 06</rightascension>
@@ -13,12 +14,16 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000071400" errorplus="0.000071400">21.812934940</period>
 			<radius errorminus="0.021" errorplus="0.033">0.277</radius>
 		</planet>
+		<age>4.680</age>
+		<magJ>14.204</magJ>
+		<magH>13.776</magH>
+		<magK>13.702</magK>
 	</star>
 </system>
