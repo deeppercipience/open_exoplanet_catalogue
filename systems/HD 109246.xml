@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 109246</name>
 	<rightascension>12 32 07</rightascension>
@@ -22,10 +23,12 @@
 			<period>68.27</period>
 			<semimajoraxis>0.33</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/06/28</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>452.6</temperature>
+			<periastron>235.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 109246</name>
 		<temperature>5844.0</temperature>
