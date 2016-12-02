@@ -52,9 +52,11 @@
 			<inclination>89.4</inclination>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 85.31 days for 2.7849 hours. Periodic transit timing variations confirm its planetary nature and indicate that it has a very low density.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<temperature>439</temperature>
+			<impactparameter>1.0170</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-51 d</name>
