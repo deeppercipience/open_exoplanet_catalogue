@@ -46,15 +46,16 @@
 			<name>GSC 3465-00123 c</name>
 			<name>2MASS 14123457+4700528 c</name>
 			<list>Confirmed planets</list>
-			<period errorminus="4.5" errorplus="4.5">219.9</period>
+			<period errorminus="4.5" errorplus="4.5">872.20000000</period>
 			<mass errorminus="0.2" errorplus="0.2">1.6</mass>
 			<transittime errorminus="4.1" errorplus="4.1">2455686.2</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<semimajoraxis errorminus="0.014" errorplus="0.014">0.699</semimajoraxis>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<semimajoraxis errorminus="0.014" errorplus="0.014">1.752000</semimajoraxis>
 			<description>This planet was discovered by the HATNet transit survey. Follow up observations to measure the radial velocity of the star confirmed the planetary nature. However, due to aliasing one cannot rule out an alternative solution for the outer planet having a period of 438 days and a minimum mass of 3.7 Jupiter masses.</description>
-			<lastupdate>13/08/16</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<eccentricity>0.494000</eccentricity>
 		</planet>
 	</star>
 </system>
