@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 9446</name>
 	<rightascension>01 33 20</rightascension>
@@ -22,10 +23,12 @@
 			<period>30.052</period>
 			<semimajoraxis>0.189</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>586.1</temperature>
+			<periastron>215.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 9446 c</name>
