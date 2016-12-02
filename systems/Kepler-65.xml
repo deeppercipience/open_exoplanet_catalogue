@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>Kepler-65</name>
 	<rightascension>19 14 45</rightascension>
@@ -50,9 +51,10 @@
 			<semimajoraxis>0.068</semimajoraxis>
 			<inclination>81</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/02/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter>0.4200</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-65 d</name>
@@ -72,5 +74,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<magR>10.500</magR>
 	</star>
 </system>
