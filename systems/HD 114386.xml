@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <system>
 	<name>HD 114386</name>
 	<rightascension>13 10 39</rightascension>
@@ -20,10 +21,12 @@
 			<period errorminus="15.6" errorplus="15.6">937</period>
 			<semimajoraxis>1.65</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.23</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/03/05</lastupdate>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>182.8</temperature>
+			<periastron>273.0000</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 114386 c</name>
